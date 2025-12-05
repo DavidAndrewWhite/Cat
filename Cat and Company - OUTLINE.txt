@@ -94,23 +94,29 @@
 ## **IV. Main Characters: “Cat and Company”**  
 
 ### **1. Peter Cat**  
-- **Role**: A **walking weapon of mass destruction** with **energy/matter manipulation** powers.  
-- **Conflict**: Struggles with **PTSD** and guilt over his violent past.  
-- **Bond**: Complicated romance with **Jinx Bubastis**; seeks to support her quest for Earth’s true history.  
-- **Background**: A **Cloned Series 350 Engineer** with **psychological deficits** programmed by the Corporation.  
+- **Role**: A walking weapon of mass destruction with energy/matter manipulation powers.  
+- **Conflict**: Struggles with PTSD and guilt over his violent past.  
+- **Bond**: Complicated romance with Jinx Bubastis; seeks to support her quest for Earth's true history.  
+- **Background**: A Cloned Series 350 Engineer with psychological deficits programmed by the Corporation.  
+  - Previously a member of the **"Honor Guard"** under the codename **"Arsenal"**, he was expelled from the team. 
+- **Personality**: While his upbringing is as an android made of meat, a machine who does as he is told, and while his powers make him a terrifying force of nature, he is personally unassuming and has a gentle, goofy sense of humor. What he lacks in charisma, he makes up for in curiousity.
 
 ### **2. Jinx Bubastis**  
-- **Role**: A **former villain** disillusioned with nihilism; now seeks **meaning in chaos**.  
-- **Abilities**: **Demonic strength, teleportation, mind-reading, and magic**.  
-- **Quest**: Uncovers hidden truths tied to her **demon-fused heritage**.  
-- **Anti-social tendencies**: Acts outside morality and law; a **fusion of mortal and demon**.  
+- **Role**: A former villain disillusioned with nihilism; now seeks meaning in chaos.  
+- **Abilities**: Demonic strength, teleportation, mind-reading, and magic.  
+- **Quest**: Uncovers hidden truths tied to her demon-fused heritage.  
+- **Anti-social tendencies**: Acts outside morality and law; a fusion of mortal and demon.  
+  - Briefly associated with **"M-Seven"**, she betrayed her teammates after realizing a planned terrorist attack could kill millions.
+- **Personality**: Unapologetically abrasive, has a strong sense of justice marred by sadism, her interactions with Peter have a strong Calvin and Hobbes dynamic.  
 
 ### **3. Camillo Skragg**  
 - **Role**: **Ex-engineer turned mental patient**; builds alien power armor to reclaim his identity.  
 - **Background**: Mind-damaged by a secret project studying **Corporate technology**.  
+- **Personality**: Introverted and obsessive, tends to focus on his projects.  
 
 ### **4. Penny Skragg**  
 - **Role**: A **slacker** with **reality-warping powers** triggered by pretending to be a martial artist.  
+- **Personality**: A free spirit who loves music, bad movies, and absurdist humor.
 
 ---
 
@@ -119,16 +125,18 @@
 ### **1. The Magister**  
 - **Role**: A **scam artist** manipulating the Corporation, Space Bankers, and Reyll.  
 - **Goal**: Merge Earth with the Corporation to create an **interstellar empire**.  
-- **Methods**: Uses **geomantic powers, clones, and the world-mind (Akashic Records)** for control.  
+- **Methods**: Uses **geomantic powers and the world-mind (Akashic Records)** for control.  
 - **Conflict**: Views **Cat and Company** as an **unreliable but potentially useful tool** for eliminating rivals and subordinates.  
   - **Example**: Might use them to **directly attack The King in Yellow**.  
 - **Complication**: While nominally the leader of **the Illuminati**, many of his nominal subordinates have their own agendas. 
+- **Personality**: A fast-talking con artist who suggests hidden depths.
 
 ### **2. The King in Yellow**  
 - **Role**: Survivor of Space Bankers’ extermination campaigns; ruler of **Carcosa**.  
 - **Abilities**: Can **possess** those marked by the **Yellow Sign**.  
 - **Conflict**: Hesitates to act against the Magister, fearing another **extinction event**.  
-- **Complication**: Serves as a source for otherwise secret information for **Cat & Company**, who do not trust and will not work with him.
+- **Complication**: Serves as a source for otherwise secret information for **Cat & Company**, who do not trust and will not work with him.  
+- **Personality**: Grumpy and sardonic, has literally seen and experienced everything.  
 
 ---
 
@@ -186,9 +194,12 @@
 - **Fungibility**: Souls stripped of ego become **transferable**; used as **gas fees** for cosmic blockchains.  
 
 ### **B. Paranormal History**  
-- **Fe Arrans**: **25%** of the population has **paranormal abilities**; **magic** is a form of **self-control**.  
-- **Reyll Suppression**: **Strong paranormals** were labeled **mental illness**; **Rrmu Nrwwa** (a folk hero) promoted **compassion over might**.  
-- **Corporation’s Use of Paranormals**: **“Fun Division”** scripts fights for media; **“The Hunters’ Lodge”** (Jedi-like order).  
+- **Fe Arrans**: 25% of the population has paranormal abilities; magic is a form of self-control.  
+- **Reyll Suppression**: Strong paranormals were labeled mental illness; Rrmu Nrwwa promoted compassion over might.  
+- **Corporation's Use of Paranormals**:  
+  - Organizes paranormals into teams categorized as heroic "face" squads or villainous "heel" squads.  
+    - Examples include the **"Honor Guard"**, a semi-scripted police unit patrolling Corporate space, and **"M-Seven"**, a terrorist group led by renegade Reyll mage "Demonslayer".  
+  - Both groups were notorious for **"shoots"**—incidents where actions deviated from scripted plans.  
 
 ### **C. The King in Yellow & Carcosa**  
 - **The King in Yellow**: A **survivor of Space Bankers’ extermination**; **selfish and paranoid**.  
