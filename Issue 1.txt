@@ -5,6 +5,8 @@
 
 ## Reference material
 
+*Skip over this bit, come back when you need more info.*
+
 ### Starships
 
 - **Corporate frigate**: Vaguely resembles a trilobite. The "head" of the trilobite is a spherical stack of decks for the crew, with "up" in the direction of thrust. The front of the sphere is a cluster of sensors. The cylindrical middle lobe contains the reactors and drive systems, with things like ribbed glowing blue heat sinks along the length of the cylinder. The port and starboard lobes are thinner, and are there to launch fairly large torpedoes (FTL missiles) by jettisoning them in the pitch directions of the ship ("up" and "down" relative to the viewer). The outermost edges of the port and starboard lobes host a point defense grid.  
@@ -828,5 +830,3 @@ A close-up on **Jolt** as she leans with her back to the wall, clutching the car
 #### **Box** *(unobtrusive, lower right)*
 > "Honesty's an actor's worst mistake"
 >  -- Mission of Burma
-
-
