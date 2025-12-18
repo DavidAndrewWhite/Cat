@@ -100,9 +100,8 @@ The laboratory/shop of the **Mark IX Corvette**. This walls are surrounded by a 
 **Penny Skragg** crosses her arms in front of her.  
 > Yeah, I have some *ideas*.  
 > That thing you were talking about, with the *human colonies*?  
-> Those sound *nuts*!  
 ### Panel 5 *(Full page width, 1/3rd page height)*:  
-The landscape of the Moon is visible through the window in the cargo bay.  **Jinx Bubastis** walks towards the center of the room, and **Camillo Skragg** gesticulates towards the Moonscape. **Peter Cat** and **Penny Skragg** trail behind.  
+The landscape of the Moon is visible through the window in the cargo bay.  **Jinx Bubastis** walks towards the center of the room, and **Camillo Skragg** gesticulates towards the Moonscape. **Peter Cat** and **Penny Skragg** trail behind: **Peter Cat** shrugs a little.  
 #### **Camillo Skragg**  
 > It sounds *crazy*! 
 > It was a huge deal when *humans* managed to land *here*!  
@@ -131,8 +130,6 @@ The cargo bay is dark, and a star map floats in the air. Tens of stars are marke
 > No problem. Let's go!   
 ### Panel 3 *(Half page width, 1/3rd page height)*: 
 Inside the cockpit, **Jinx Bubastis** sits at the helm and runs through a take-off check-list on one of the ceiling displays. Behind her sits **Peter Cat** and **Penny Skragg**. **Camillo Skragg** sits next to **Penny Skragg**, opposite the navigator that's been duct-taped into the mounting rack. It's... cramped.  
-#### **Jinx Bubastis**  
-> Sure. Looks good. 
 #### **Penny Skragg** 
 > So, what's *FTL travel* like?
 #### **Peter Cat**  
@@ -262,7 +259,7 @@ In the background, the ruined walls of the **Atlantean archaeological site** pro
 A close-up on a tense-looking **Camillo Skragg**.  
 #### Box *(narration, **Camillo Skragg**)*  
 > That was one of them *Proustian* fucking memories.  
-> Something you use to organize future experiences.  
+> The kind you use as a *scaffold* for *future experiences*.  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 The staircase leads to a long corridor underground.  **Camillo Skragg** looks down the tunnel into the darkness. **Penny Skragg** examines one of a set of holes in the stone wall.  
 #### Box *(narration, **Camillo Skragg**)*:  
@@ -274,14 +271,12 @@ The staircase leads to a long corridor underground.  **Camillo Skragg** looks do
 #### Box *(narration, **Camillo Skragg**)*:  
 > We found *proof*.  
 > Obviously human remains.  
-> An ancient *ossurary*.  
+> An ancient *ossuary*.  
 > But that proof entailed some facts we weren't ready for.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:
 **Camillo Skragg** faces the reader, as he looks down the darkened corridor. He looks astonished.  
 #### Box *(narration, **Camillo Skragg**)*:  
-> As for what happened next...   
-> ...that was one of them *Proustian* fucking memories.  
-> The kind you use as a *scaffold* for *future experiences*.  
+> *Facts* that were about to be *demonstrated.*    
 
 ## Page 8  
 
@@ -306,7 +301,7 @@ The staircase leads to a long corridor underground.  **Camillo Skragg** looks do
 > They called it "Black Oil".  
 > A waste material produced after a *shunt collapses* and starts to *rot*.  
 > They said our *presence* "woke it up".  
-> Gotta admit, I'm not used to *my* waste oil trying to *kill* me, or *eat my soul*, or whatever *horror* those things wanted to do to us.  
+> Gotta admit, I'm not used to *my* waste oil trying to *kill* me or *eat my soul*.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 From front to back, **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **Penny Skragg** seem to transform into lightning; the walls are illuminated by the electrical discharge.  
 #### Box *(narration, **Camillo Skragg**)*  
@@ -870,7 +865,7 @@ A stripe of light from the PoV of **Penny Skragg**, as she slowly opens her eyes
 ### Panel 1 *(Full page width, 1/3rd page height)*: 
 The cargo bay of the **Mark IX corvette**. Off to the side, **Peter Cat** talks to an alarmed-looking **Camillo Skragg**. **Jinx Bubastis** and **Penny Skragg** face off to spar.  
 #### **Camillo Skragg**  
-> Wait, you're telling me *mind-reading* *magic woman* can--?  
+> Wait, you're telling me *mind-reading magic woman* can--?  
 #### **Peter Cat**  
 > Demonic strength.  
 > I'll step in if things get out of hand.  
