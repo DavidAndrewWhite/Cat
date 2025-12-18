@@ -77,7 +77,7 @@ The bridge of the **Nightstalker**, illuminated by red emergency light.
 ## Page 2  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-The sanctum of the **Bastard Sun**. **Champion** stands next to **Demonslayer** and the **Nightstalker** approaches worringly quickly.  
+The sanctum of the **Bastard Sun**. **Champion** stands next to **Demonslayer** and the **Nightstalker** approaches worryingly quickly.  
 #### **Champion**  
 > So, it's self-destructing.  
 > Neat!  
@@ -608,7 +608,7 @@ The **Mayor of Tulsa** looks up from a conference table strewn with papers. He l
 > *Different* ones.  
 > They're here to help.  
 ### Panel 4 *(Full page width, 1/3rd page height)*:  
-The conference room in the **Crisis Center**. The table is strewn with papers, tablets, and laptops. A couple of lerge monitors are set up and playing muted TV newscasts. On the left sit the **Mayor of Tulsa** and a **FEMA Liason**. Extremely clever and attractive defense analyst **Jake Lyon** stands at the end of the table and shoots a death glare at **Peter Cat** and **Jinx Bubastis** through his thick-framed glasses as he leans on the table with his knuckles. On the right are the most senior **General of the Oklahoma National Guard**, a **DoE Liason**, and a harried looking **DHS Liason**. It's a tough crowd, the spectrum of responses ranges from restrained outrage to an unspoken "What the *actual* fuck?"  
+The conference room in the **Crisis Center**. The table is strewn with papers, tablets, and laptops. A couple of large monitors are set up and playing muted TV newscasts. On the left sit the **Mayor of Tulsa** and a **FEMA Liason**. Extremely clever and attractive defense analyst **Jake Lyon** stands at the end of the table and shoots a death glare at **Peter Cat** and **Jinx Bubastis** through his thick-framed glasses as he leans on the table with his knuckles. On the right are the most senior **General of the Oklahoma National Guard**, a **DoE Liason**, and a harried looking **DHS Liason**. It's a tough crowd, the spectrum of responses ranges from restrained outrage to an unspoken "What the *actual* fuck?"  
 #### **Peter Cat**  
 > Hello.  
 > My name is *Peter Cat* and this is *Jinx Bubastis.*  
@@ -672,7 +672,7 @@ The **Mayor of Tulsa** glares at **Peter Cat** as he continues talking. It sound
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** turns to look at him. **Jake Lyon** glares.  
 #### **Camillo Skragg**  
-> White phosporous.  
+> White phosphorous.  
 #### **Jake Lyon**  
 > Pardon me?  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
