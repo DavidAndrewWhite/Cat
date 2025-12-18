@@ -1,0 +1,843 @@
+# Cat & Company  
+- Issue 3  
+- 24 pp. 
+- **You Don't Know**  
+
+## Reference material 
+
+*Skip over this bit, come back when you need more info.*
+
+### Starships 
+
+- **Mark IX corvette**: This is smaller than the **Corporate frigate**, but shares some broadly similar design notes, like the "up" direction of the decks relative to the direction of thrust. The vessel is built around a broad, squat cylinder. The cylinder is divided into six equally large modular sectors surrounding the skinnier cylinder housing the main drive and reactor. From a view of the front of the cylinder, the drive system's dome shaped heat sink glows pale blue -- Fe Arran tech tries to improve the efficiency of radiation cooling by using higher energy (bluer) photons to increase dissipation. Starting from the 12 to 2 o'clock position on the main hull, the modules are a pressurized cargo/passenger bay with a panoramic window on the outside of the cylinder, then (2-4) a weapons module with a squat spinal-mounted energy weapon towards the middle and four small FTL missile launchers on the outside, then (4-6) a non-pressurized cargo module with some external loading ports for provisions and fuel, then (6-8) a less modular section that houses engineering, lab space, and the hinge point of the lower boom, then (8-10) base of the crew hull (which will be described in a moment), and then (10-12) crew quarters and the hinge point of the upper boom. The booms are abound three times as long as the diameter of the ship and carry slightly smaller versions of the drives in the main hull on the ends, with red thrust pits on the ends and an elongated blue heat sink on the outside. The booms can be moved through a 180° arc for off center-of-gravity thrust in order to quickly re-orient the vessel, and are currently splayed surrounding the crew hull. The visible "top" part of the crew hull is a canopy-like superstructure bearing a prominent sensor array built over the "bottom" of the crew hull, which resembles the prow of a naval vessel. This protrudes outwards about one half the diameter of the main hull, and is where the bridge and staterooms are. The center of gravity should be between the crew and main hulls. The opposite end of the crew hull is slightly flattened, and contains a small fork-mounted turret with a miniature energy weapon as a kind of "deck gun". The one in this story has been partially demilitarized, and the modular construction means that individual Mark IX's can vary -- a military load out might have two weapons modules, or a specialized module to carry a more useful load of torpedoes (FTL missiles), and a military vessel is unlikely to have a picture window.  
+
+- **The Nightstalker**: The "Star Trek" inspiration of some of the elements of Corporate military vessels was the set-up for a joke, and the "Nightstalker" is the punch line. This is the *hero ship* for *Honor Guard*, who are *kayfabe* space cops for "Fun Division". The ship resembles a garden spade. The main hull is a rounded triangle, like the shovel part of the spade. A bubble containing the bridge are on top of the gently domed superstructure above the "shovel". A strut protrudes from the middle rear of the main hull, and a single nacelle holds the main drive -- this is the "handle" of the spade. A final touch is a visual swipe from Star Trek's "U.S.S. Defiant", a sort of roll bar over the bridge bump on which comically over-sized dome lights are mounted, like a police car. The deck orientation is *not* in the direction of thrust, but in the direction of the nacelle -- while the inertial compensators do their best, the crew end up having to lean on hard maneuvers. There are some advantages to this design, though. This set-up is common for luxury civilian spacecraft, especially yachts and pleasure craft that do a lot of high-speed atmospheric flight, and makes it easier to produce the *Honor Guard* series.  
+
+- **The Corporate Escape Pod** should be given about as much thought at the makers of the original "Star Trek" put into the "Galileo" shuttle. It's a box. It has engines. You can kind of tell which end is in front. It handles re-entry pretty well; despite its modest appearance, it was adapted from the utility launches used on very expensive Corporate yachts. It has a black-and-white paint scheme that would read as "cop car" to most people. The Visitor shuttles from the "V" TV series would also be a thematically appropriate source for design inspiration.  
+
+- **Bastard Sun**: The name is a corruption of "Bas Tersnn", the name originally given by the Reyll military. Translated, it's "Liberated/Detached Ship"; it's not really a proper ship name, a vessel that's not part of an active fleet would be called this. It was been heavily modified, and incorporates a lot of Corporate technology, but the hull and most of the systems are original Reyll manufacture. There are three main hulls that are squat cylinders, rounded in front, flat in back. Round tubes and several braces in a circle connect the hulls, leaving the center open. Each hull has a large turret with a squat energy weapon a little behind the middle of the hull. An elongated, curved, blade-like structure runs through the braces at the midpoints between the hulls. "Top" for the decks corresponds to the direction of thrust -- usually. The Reyll get "creative" with simulated gravity, and are prone to using the tech to do chairs in software, or elevators operated by flinging yourself into what looks like an open shaft. While one hull has the crew, the other two hulls contain a reactor each; a goal is redundancy and tolerance to severe battle damage. The engineering hulls have gravity where "down" towards the outside of the cylinder, and "up" is towards the center line -- equipment is on motorized racks that can be pulled down from the ceiling.  
+
+- **The Reyll Launch** should look a little like a legless scarab with its elytron (wing cover) just slightly opened. It is a very Spartan, utilitarian design, and is kind of ugly despite its rounded, natural form. It should be visible that this vessel was constructed very cheaply by the lowest bidder. The design was intended to meet strict mass limits; the only expensive, fancy component is a miniature antimatter power plant. Scorch marks, parts falling off. Cheap crap isn't just a Corporate thing, the Reyll can produce garbage, too. Maybe have the outer hatch fall off after landing.  
+
+### Characters
+
+- The **Mayor of Tulsa** should vaguely resemble the current incumbent at the time of writing (2025), Monroe Nichols. For historical and story reasons, there are good reasons to make him an African-American man. This should *not* be a caricature of the real-world politician, though. For clarity, and to clue in the LLM I am using for first-pass redaction, he is a human being.  
+
+- The **Chief of Police** isn't going to get a lot of development. Considering the awful stuff that's going to happen, he too shouldn't be a direct adaptation of any real Tulsa official. For clarity, and to clue in the LLM I am using for first-pass redaction, he is a human being.  
+
+- The **Old Farmer** and the **Old Farmer's Wife** are two very religious residents of a farm in Tulsa's exurbs, maybe 15 km WSW from Downtown. See the area south of W 76th Street near the intersection with S 137th Ave -- that's not a McMansion, there's a couple of rectangular fields with plow marks. They are old. They are scared. For clarity, and to clue in the LLM I am using for first-pass redaction, they are both human beings.  
+
+- Any similarity between **Jake Lyon** and the protagonist of a number of Tom Clancy books is purely intentional. He has big protagonist energy, so does most of the talking. A superficially nerdy human being with Hollywood good looks behind his thick glasses.  
+
+- The **DHS Liason** should look like a business-like, competent, and professional human woman. Her "deer in the headlights" moment should have some impact.  
+
+### Miscellaneous notes
+
+- **Religion and the esoteric** are also going to be mined for their inherent absurdity. We live in a world where people sincerely believe that if an individual doesn't explain their sexual misdeeds in explicit detail to the anthropomorphic creator of the physical universe every day then that individual lacks any ability to distinguish right from wrong. The problem with mining this vein of absurdity is that religious groups do routinely suffer from discrimination. The point of the exercise isn't to persecute any religious or esoteric group, it's to have a cheap laugh at the absurdities implicit in a superficial reading of their practices.  
+
+- **Politics** is another source for absurdity, although the mechanics are going to be a little different. As a concrete example, "American exceptionalism" is fairly mainstream, but that Theosophist groups will take this to the point that they believe America's "Founding Fathers" are Ascended Masters and members of the Great White Brotherhood? Pointing out the similarities between the "weird" and "normal" versions of these ideologies should be fair game. Pointing out that the Nazis' "Arier" have more to do with Helene Blavatsky and esoteric teachings than history, linguistics, or archaeology is also on the menu.  
+
+- **Reyll religion** is touched on with phrases like "Might does not make right" and "Kindness is power." These may not be deep insights, but these ideas were explored by intelligent obligate carnivores early in their history. Reyll teachings are atheist, and generally reject the idea that supernatural phenomena have any kind of moral significance or are a suitable explanation for nature; their faith is based on a pervasive moralism motivated by a search for truth. They do not reject transcendence, and they do not worship logic -- their philosophers grappled with questions of undecidability and logical incompleteness long before they formalized it into their equivalent to Gödel's incompleteness theorem. Morality is for the living, and it is our duty as living beings to do our best to know what is right and what is wrong. The afterlife is a cruel distraction from these existential questions. No, they are not fun people, and I personally do not endorse this belief system.  
+
+## Page 1  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The **Bastard Sun** rematerializes in space. We don't see where, yet.  
+#### **Demonslayer** *(from inside sanctum dome)*  
+> Bring it around, Killotron.  
+> Decelerate to a *full stop*.  
+> You will all want to *see this.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A close-up on **Demonslayer** mid-gloat.  
+#### **Demonslayer** 
+> The *Nightstalker* will be *upon us* in *seconds--*  
+> --but I had a *very good reason* to select *this* destination.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Nightstalker** appears. The PoV has shifted it is clear that this is in Earth orbit.  
+#### Box *(**Demonslayer**)*  
+> This *accursed place* is the *closest* they have to *hallowed ground.*  
+> It is *forbidden* to them.  
+> Observe.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+The bridge of the **Nightstalker**, illuminated by red emergency light.  
+#### P/A announcement  
+> SELF DESTRUCT INITIATED. PROCEED TO ESCAPE CAPSULES IMMEDIATELY. REPEAT--  
+#### **Victor Bravo**  
+> --the fuck?  
+#### **Thresher**  
+> I can't override it.  
+#### **Victor Bravo**  
+> Eye!  
+> Lay in a *ramming course*!  
+#### **The Eye**  
+> Already done!  
+#### **Victor Bravo**  
+> Get to the pods!  
+
+## Page 2  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The sanctum of the **Bastard Sun**. **Champion** stands next to **Demonslayer** and the **Nightstalker** approaches worringly quickly.  
+#### **Champion**  
+> So, it's self-destructing.  
+> Neat!  
+> It's also *heading right for us.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** turns to **Champion** and gesticulates. **Champion** has his eyes fixed on the oncoming **Nightstalker**.  
+#### **Demonslayer** *(enraged)*  
+> Well!?  
+> *DO SOMETHING!*  
+#### **Champion**  
+> And get bathed in *neutron flux* when their *reactor blows?*  
+> Everybody knows that'll *kill me!*  
+> So, *nope.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Killotron** recites some verse and **Bearcat** gets to the point.  
+#### **Killotron**  
+> The sabers close, her triumph a blade—  
+> We flee as stars fracture the void.  
+> Escape pods scream through silent skies,  
+> A second chance to fight another day.  
+#### **Bearcat**  
+> Meaning, "let's get out of here while we still can!"  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+Two escape pods, one from the *Bastard Sun*, one from the *Nightstalker*, hurtle towards Earth. In the background, there is a terrible detonation as the two star ships collide.  
+#### Title
+> You Don't Know
+
+## Page 3
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The escape pods' destination becomes clearer -- somewhere in the middle of the United States of America. **Honor Guard** and **M-Seven** have won an all-expenses paid vacation in Oklahoma! De-orbiting debris follows them down.   
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The **Corporate escape pod** makes a controlled approach to an open area in the huge parking lot surrounding the Tulsa Expo Center.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Reyll launch** skids to a stop in a cornfield on a farm just outside of the city, shedding outer panels.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+The Tulsa police have arrived and surrounded the landed **Corporate escape pod**. **Honor Guard** approach them, smiling and waving. The human police seem to recognize **Honor Guard** as fellow law enforcement.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Bearcat** kicks in the front door of a farmhouse, starting **M-Seven's** home invasion.  
+
+## Page 4  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+The entrance to the Tulsa Sheriff's Office (W 5th St., facing SE.) The **Mayor of Tulsa** and the **Chief of Police** are about to enter the building.  
+#### **Mayor of Tulsa**  
+> So you're saying they're *cops*?  
+> From *outer space?*  
+#### **Chief of Police**  
+> Yessir.  
+> *Cat people*.  
+#### **Mayor of Tulsa**  
+> Uh-huh.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A table at a meeting room inside the Sheriff's Office. **Jolt** and **Victor Bravo** are visible; she whispers something to him.  
+#### **Jolt** *(whispering)*  
+> *Please* let me do the talking.  
+#### **Victor Bravo** *(whispering)*  
+> Good call.  
+> Do it.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Chief of Police** opens the door and lets the **Mayor of Tulsa** into the conference room. The **Mayor of Tulsa** is visibly astonished -- in the back of his mind, he was expecting this to be some kind of prank.  
+#### **Chief of Police**  
+> Here you go.  
+> See for yourself.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Jolt** stands up with **Victor Bravo**, who is standing behind her with his arms crossed. **The Eye** and **Thresher** sit at the table.  
+#### **Jolt**  
+> Mr. Mayor, it's a pleasure to meet you.  
+> Before we introduce ourselves, I have a message of *utmost importance.*  
+> Your community is in *grave danger.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** nods curtly, and says something the **Chief of Police** visibly agrees with.  
+#### **Mayor of Tulsa**  
+> I appreciate you wanting to *get down to business...*  
+> ...but *I* need to know *who I'm talking to.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Jolt** gestures towards **Victor Bravo**. **Jolt's** speech balloons should also serve as a kind of label. **The Eye** and **Thresher** look towards the **Mayor of Tulsa**, but **The Eye** doesn't have eyes that work normally, and **Thresher** hasn't taken off his face mask.  
+#### **Jolt**  
+> I am Jolt. Behind me is my commander, Victor Bravo.  
+> Her name is the Eye.  
+> His name is Thresher.  
+> We are *Honor Guard*.  
+
+## Page 5  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+In the background, **Bearcat** and **Killotron** stand guard over two cowering humans, the **Old Farmer** and the **Old Farmer's Wife**. **Demonslayer** struts through the living room of the farmhouse, and sees a plaque on the wall.  
+#### **Demonslayer**  
+> Well, then.  
+> What bit of *starry wisdom* do we have here?  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Demonslayer's** eyes narrow as she reads the text on the plaque. **Champion** is glaring at her in the background.  
+#### **Demonslayer**  
+> "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."  
+> "John 3:16"  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** turns to the **Old Farmer** and the **Old Farmer's Wife**. The **Old Farmer** stammers out an answer.  
+#### **Demonslayer** *(mocking)*  
+> Do tell me about this "God" person.  
+#### **Old Farmer** *(stammering)*  
+> God, the Father, creator of heaven and earth--  
+#### **Demonslayer** *(mocking)*  
+> And did this *God* have to show up in *person* to tell you *lying* and *murder* was *wrong?*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Champion** has had enough. He confronts **Demonslayer**; he doesn't yell, but he makes it clear he's angry.  
+#### **Champion**  
+> Demonslayer!  
+> Stop it.  
+> *Now.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** gets in **Champion's** face. **Champion** is still showing some restraint, but a confrontation has started.  
+#### **Demonslayer**  
+> Excuse me?  
+> *What* was that?  
+#### **Champion**  
+> Stop it.  
+> I *mean* it.  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Champion** stands his ground; he is obviously very angry.  
+#### **Champion**  
+> We had Reyll pastors on *Magrige.*  
+> They taught things like "Might does not make right"  
+> or "kindness is power."  
+> Not whatever *this* is supposed to be.  
+
+## Page 6  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** and the **Chief of Police** are walking through a hallway in the Sheriff's office.  
+#### **Mayor of Tulsa**  
+> What do you make of them?  
+#### **Chief of Police**  
+> I didn't like that the C.O. didn't talk  
+> or that I couldn't tell where two of 'em were looking.  
+#### **Mayor of Tulsa**  
+> That "Victor Bravo" guy gives me *bad vibes.*  
+> He seemed really *tense.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** and the **Chief of Police** enter the **Chief of Police's** office.  
+#### **Chief of Police**  
+> The *Jolt* was *selling us* a *story.*  
+#### **Mayor of Tulsa**  
+> She has *presence.*  
+> She's a *performer.*  
+> But I don't think she's lying.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Chief of Police** sits down at the chair behind his desk. The **Mayor of Tulsa** scratches his chin.  
+#### **Chief of Police**  
+> Hard to tell, Mr. Mayor.  
+> Getting them *back home* is way past my *pay grade.*  
+#### **Mayor of Tulsa**  
+> Yeah, no *kidding.*  
+> We'll need *Federal help.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+Close-up on the **Mayor of Tulsa** as he thinks aloud.  
+#### **Mayor of Tulsa**  
+> So we have these *telegenic space cops* who want to address the public.  
+> We *need* help to handle this situation.  
+> Media attention would help us get *through* to the Feds.  
+> And I *know* they'd appeal to folks who *didn't vote for me.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+The **Chief of Police** leans forward, elbows on his desk.  
+#### **Chief of Police**  
+> Give me the details, and I'll make security arrangements.  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** smiles tensely.  
+#### **Mayor of Tulsa**  
+> This may end up *helping the city.*  
+> Let's try to be *optimistic.*  
+
+## Page 7
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** tries to match what she see as **Champion's** self-righteous fury.  
+#### **Demonslayer**  
+> I don't know what you think you're accomplishing here, Champion.  
+> I won't tolerate *insubordination.*  
+> I won't tolerate you *lecturing me on our teachings.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Champion** tries to maintain momentum, and moves to another line of attack.  
+#### **Champion**  
+> You *don't get it.*  
+> You used to be *competent* and *scary.*  
+> M-Seven didn't get bookings because the Corporation was *terrified of you.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Champion** circles behind **Demonslayer**, gesturing towards the bandage covering the wound in her left shoulder. **Demonslayer** has seized upon an idea, and it hurts a little.  
+#### **Champion**  
+> Now it's all *empty gestures* that mostly *blow up in your face*.  
+#### **Demonslayer**  
+> We *lost* the *war,* Champion.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** tells a truth that's hard for her to accept, but she needs to say it.  
+#### **Demonslayer**  
+> The Corporation *defeated* us.  
+> They're not building *camps*  
+> but I don't think they *need to.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** looks at **Champion** with a cold matter-of-fact stare. **Champion** isn't sure what to say. He wasn't expecting honesty from her.  
+#### **Demonslayer**  
+> All I can do is *scream into the void.*  
+> *Defy them until the bitter end.*  
+> That's all that's left for me.  
+
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Killotron** interrupts, pointing to the TV still running in the living room. He speaks directly to **Champion**.  
+#### **Killotron**  
+> Your voice cuts through the static—  
+> Her truth burns hotter than your doubt.  
+> A signal hums—a whisper in the dark—  
+> We'll meet our prey where shadows bark.  
+
+## Page 8  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+The TV in the living room of the **Old Farmer's** and **Old Farmer's Wife's** farmhouse. A **Newscaster** makes an announcement.  
+#### **Newscaster** *(TV audio)*  
+> Once again, *FIRST CONTACT* has happened here, in *Tulsa!*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** marches through the front doorway of the farmhouse, gesturing for the others to follow. Remnants of the front door hang from the hinges. **Killotron** and **Bearcat** follow behind. 
+#### **Demonslayer**  
+> Come!  
+> We have work to do!  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+As **Champion** leaves, he turns to look at the **Old Farmer** and the **Old Farmer's Wife**. They are still cowering. **Champion** looks terribly sad.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+A close-up on the **Mayor of Tulsa**. He is tense; the press conference in from of the Tulsa City Hall (175 E 2nd St S) is about to begin.  
+### Panel 5 *(Full page width, 1/3rd page height)*:  
+In front of the Tulsa City Hall (175 E 2nd St S), **Thresher**, **Jolt**, **Victor Bravo**, and **The Eye** line up in front of a line of cameras and a few spectators.  
+
+## Page 9  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** speaks into a microphone. Behind him, **Thresher**, **Jolt**, **Victor Bravo**, and **The Eye** are lined up, much like in Page 8, panel 5.  
+#### Box *(**Champion**, not visible)*  
+> "The plan's simple."  
+> "Once you're in position, I'll get in the air."  
+#### **Mayor of Tulsa**  
+> Today is a historic event.  
+> I present you "Honor Guard" -- police from *another world.*  
+#### Box *(**Champion**, not visible)*  
+> "I'll buzz them at high speed, try to make them *scatter.*"  
+> "Then you, Bearcat, and Killotron can *gang up* on them *one by one.*"  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** continues speaking into a microphone.  
+#### **Mayor of Tulsa**  
+> They are not here just to say "Hello".  
+> "Honor Guard" has an important message for our *community.*  
+> Jolt, if you would...  
+#### Box *(**Demonslayer**, not visible)*  
+> Good. Good. That'll *do*, Champion.  
+> This isn't *worked*, this is a *shoot.*  
+> We're out for *blood.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Jolt** stands next to the **Mayor of Tulsa** and speaks into the microphone. The **Mayor of Tulsa** takes a step to the side. 
+#### **Jolt**  
+> Thank you, Mr. Mayor. My name is *Jolt*, and behind me are *Thresher*, our commander *Victor Bravo*, and *The Eye*.  
+> We did not come alone.  
+> We were pursuing a group of *dangerous terrorists* -- "M-Seven" -- when our vessel was destroyed.  
+#### Box *(**Champion**, not visible)*  
+> *No humans.*  
+#### Box *(**Demonslayer**, not visible)*  
+> *Fine.* No humans.  
+> It's *go* time.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+A composition similar to Panel 1, with **Jolt** next to the **Mayor of Tulsa**. **Champion** is visible as a colored streak moving from left to right. **Thresher** hits the dirt. **Victor Bravo** has been sent flying, and may not be visible on-panel. **The Eye** cartwheels out of the way. **Jolt** tries to protect the **Mayor of Tulsa**, who is ducking for cover.  
+
+## Page 10  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Victor Bravo** lands on his feet about one block east-north-east on E 2nd St S. Behind him, high in the sky, **Champion** turns to make another pass in a broad arc, still mostly visible as a streak in the sky.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Jolt** points to the intersection and barks orders. She is still doing her best to protect the **Mayor of Tulsa**.  
+#### **Jolt** *(shouting)*  
+> Stay together!  
+> Rally to Victor!  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+**Champion's** second pass goes south-south-west down M.L.K. Jr Blvd towards Maple Ridge, trying to keep **The Eye** and **Thresher** from getting to **Victor Bravo**. **The Eye** seems to have had a shocking precognitive vision -- she screams in **Victor Bravo's** direction.    
+#### **The Eye**  
+> VICTOR! NO! STOP!  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Victor Bravo** has pulled out a monocular-like optic and is sighting at a target in the air south-south-west of him. A beer-can sized cylinder hovers over his left shoulder. His face is grim and focused, a kind of tactical tunnel vision.  
+#### **Victor Bravo**  
+> Target locked.  
+> FIRE!  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+The cylinder streaks from over **Victor Bravo's** shoulder and closes in on **Champion**, who is turning over Maple Ridge for another pass. Two streaks, about to collide in mid-air.  
+
+## Page 11  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+A view over Maple Ridge. A small fireball bathes the neighborhood in brilliant light. The hypocenter is a few hundred meters over the traffic circle connecting E Woodward Blvd and S Madison Ave.  
+#### Box *(narration)*  
+> What would be later be called *"The Tulsa Incident"* started with a *flash*.  
+> A terrible *glare* that scorched *hair* and *paper*. 
+> With it, a blast of *neutron flux.*  
+> The *dying* started *immediately.*  
+### Panel 2 *(Full page width, 1/3rd page height)*:  
+The houses surrounding the traffic circle are severely damaged by a blast wave.  
+#### Box *(narration)*  
+> The *blast wave* was relatively small.  
+> The buildings surrounding the *hypocenter* were *destroyed.*  
+> The ones around them *severely damaged.*  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+A small but recognizable mushroom cloud rises from Maple Ridge.  
+
+## Page 12  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Champion** is on his hands and knees on the ground immediately beneath the hypocenter. He looks sick, and is bleeding from his mouth.  
+#### **Champion** *(weakened)*  
+> ...uhhh...  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Victor Bravo** flies using a jet pack like harness, and rapidly approaches a stricken **Champion**, who has not yet recovered.  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+A human male lies dead on a sidewalk in front of a sidewalk dining table and chair.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+Pull back from the view of Panel 3. The place is the "Maple Ridge Grocer", at 1822 S Cincinnati Ave. The windows are shattered. The awnings smolder. More dead humans lie around the tables.  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
+Pull back from the view of Panel 4. Cars have swerved off the road, running in to neighboring buildings and telephone poles. A house on the opposite side of the "Maple Ridge Grocer" burns.  
+### Panel 6 *(1/3rd page width, 1/3rd page height)*:  
+**Victor Bravo** kicks **Champion** in the head. **Champion** is not getting back up.  
+### Panel 7 *(1/3rd page width, 1/3rd page height)*:  
+**Victor Bravo** straddles an unconscious **Champion**, and punches him in the head.  
+### Panel 8 *(1/3rd page width, 1/3rd page height)*:  
+**Victor Bravo** punches **Champion** again. There is blood.  
+
+## Page 13  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Jolt** touches down. In the center of the panel, **Victor Bravo** is still straddling **Champion**. **Champion** is quite dead, killed by a grievous skull fracture. A pool of blood forms around what's left of his head.  
+#### **Jolt** *(shocked, wants to scream but can't)*  
+> Victor...  
+> ...what the *fuck.*
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A close-up on **Victor Bravo**. He looks at **Jolt** with a slightly confused, hurt expression.  
+#### **Victor Bravo**  
+> *Champion* was a *threat.*  
+> *I* stopped him, I used his *weakness.*  
+> *We're* winners.  
+> *We won.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Thresher** and **The Eye** have arrived. **The Eye** gestures broadly at the carnage.  
+#### **The Eye**  
+> *PEOPLE LIVED HERE!*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Jolt** has regained enough of her composure to let her fury fully emerge. She screams at **Victor Bravo**, off-panel. Lightning crackles around her hands, but she does not fire.  
+#### **Jolt**  
+> YOU STUPID *ASSHOLE!*  
+> GET *OUT OF MY SIGHT!*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Victor Bravo** runs away in the background. **Jolt** is recovering from her outburst. **Thresher** and **The Eye** rush to her side.  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Thresher** stands just behind **Jolt**. **Jolt** has calmed a little, but looks like she is about to cry.  
+#### **Thresher**  
+> Now what?  
+#### **Jolt**  
+> We *surrender.*  
+> To the *authorities.*  
+
+## Page 14  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The parking lot of the Tulsa Expo Center. The cordoned-off landing site for the **Corporate escape pod**. Two dead policemen lie on the asphalt. **Demonslayer** is heading towards the shuttle, followed closed by **Bearcat** and **Killotron**.  
+#### **Bearcat**  
+> Mistress, Champion said "No humans."  
+#### **Demonslayer**  
+> Those weren't *humans*, they were *police.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** sits at the pilot seat of the **Corporate escape pod**. **Bearcat** ducks to fit inside the small passenger compartment. **Killotron** enters.  
+#### **Demonslayer**  
+> Anyway, he's *dead* now, and we've got to *get out of here.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Demonslayer** spools up the drives of the **Corporate escape pod** and prepares for takeoff. **Bearcat** and **Killotron** take their seats.  
+#### **Demonslayer**  
+> Even if I *would* love to watch the humans *lynch* Honor Guard.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+The **Corporate escape pod** takes off into the sky. A figure is clinging to the bottom of the shuttle.  
+#### **Demonslayer** *(from inside shuttle)*  
+> I recovered *five grams* of *antimatter* from the launch's *power plant*...  
+> ...and I have a *cunning plan.*  
+### Panel 4a *(small inset in Panel 4)*:  
+**Victor Bravo** grits his teeth and tries to keep his grip on the bottom of the **Corporate escape pod**.
+
+## Page 15  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+The **Mark IX corvette** flies through the bent and twisted space of interphase.  
+#### Box *(narration, upper left)*  
+> Final approach to Earth.  
+#### **Newscaster** *(from inside cargo bay)*  
+> The death toll in Tulsa has been raised to 6,000...  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A floating TV image displayed on the "porn hub." A female newscaster holds up 2 fingers. Behind her, a blue infographic of a stylized pair of World Trade Center towers is dwarfed by a larger, red infographic of the towers, where the height and width were doubled. **Peter Cat** looks up at the screen with grim exhaustion.  
+#### **Newscaster** *(from floating TV image)*  
+> ...that's like *TWO* 9/11s!  
+#### **Peter Cat**  
+> It's hypnotic.  
+> They keep saying the same information over and over.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** and **Penny Skragg** watch the newscast with obvious horror. **Peter Cat** looks over towards them. The **Newscaster** continues.  
+#### **Camillo Skragg**  
+> I think it's supposed to have a *numbing effect.*  
+#### **Penny Skragg**  
+> It doesn't work.  
+#### **Camillo Skragg**  
+> I know.  
+#### **Newscaster** *(from floating TV image)*  
+> Meanwhile, the alien super-soldier believed responsible for the incident *remains at large.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** has walked behind **Camillo Skragg** and **Penny Skragg** towards **Jinx Bubastis**. **Jinx Bubastis** is sitting on the floor with a look of dull horror and a thousand-yard stare aimed at the floor.  
+#### **Peter Cat** *(to **Jinx Bubastis**)*  
+> Are you OK?  
+#### **Jinx Bubastis** *(to floor)*  
+> No.  
+#### **Newscaster** *(from floating TV image, off-panel)*  
+> Codenamed "Victor Bravo", he is *seven feet tall, feline, and heavily armed and dangerous*.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** gets to her feet, muttering to herself.  
+#### **Jinx Bubastis** *(muttering to herself)*  
+> fuck, best get it over with.  
+#### **Newscaster** *(from floating TV image, off-panel)*  
+> The remainder of "Honor Guard" remain in *police custody.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** walks towards **Camillo Skragg** and **Penny Skragg**. **Camillo Skragg** turns off to the side to give the ship computer a command.  
+#### **Jinx Bubastis** *(grim-faced)*  
+> Guys, there's something I need to tell you.  
+#### **Camillo Skragg** *(quietly, to computer)*  
+> Shithead, pause stream.  
+
+## Page 16  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** faces **Camillo Skragg** and **Penny Skragg**.  
+#### **Jinx Bubastis**  
+> I had to get a new *navigator* for this ship, and I had to get some *advice* from a *Reyll engineer* on how to set it up.  
+> On the way to meet him, I ran into *Victor Bravo* and some of his "buddies."  
+> They were going to *kill* my contact.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** continues.  
+#### **Jinx Bubastis**  
+> I didn't *kill* Victor, but I *hurt* him.  
+> I tried to *cripple* him.  
+> I *damaged* his *mind.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** looks levelly at **Jinx Bubastis**.  
+#### **Camillo Skragg**  
+> If you're looking for *forgiveness,* you're asking the *wrong people.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** stands next to **Camillo Skragg**, and also looks at **Jinx Bubastis**.  
+#### **Camillo Skragg**  
+> If you're looking for *forgiveness,* you're asking the *wrong people.*  
+#### **Penny Skragg**  
+> I'm pretty sure you were *here* and not in *Tulsa.*  
+> You didn't *pull the trigger.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** keeps talking. **Peter Cat** comes to **Jinx Bubastis** and puts his arm around her.  
+#### **Camillo Skragg**  
+> It's *work* versus *entropy.*  
+> If you see *evil,* you have to *push back.*  
+> And that *counts for us, too.*  
+
+## Page 17
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+The depths of the Mojave Desert, an uninhabited area of Nevada far from prying eyes. The **Mark IX corvette** has landed. **Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** stand in front of it, looking at it.  
+#### Box *(top left)*  
+> Later, deep in the Mojave Desert...  
+#### **Camillo Skragg**  
+> Did you *really* have to rename the ship?  
+#### **Penny Skragg**  
+> Peter's right, it's mean to call it "Shithead".  
+#### **Camillo Skragg**  
+> Yeah, but "Black Sabbath"?  
+> *Really?*  
+#### **Jinx Bubastis**  
+> *I* like it.  
+#### **Peter Cat**  
+> All right.  
+> Jinx can do really good illusions, but I don't want to *rely* on that.  
+> I can *fuse* a *glass dome* and move a *sand dune* over it.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** look over their shoulders as an unexpected voice comes from behind.  
+#### Voice *(off-panel, **The Magister**)*  
+> It *looks like* you're *trying to hide a spaceship.*  
+> Perhaps *I* can help.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** turn around and face their unexpected guest, who is still not visible on-panel. **Peter Cat** and **Jinx Bubastis** have a whispered exchange.  
+#### **Penny Skragg**  
+> Clippy?  
+> Is that *you?*  
+#### **Peter Cat** *(whispered, to **Jinx Bubastis**)*  
+> Five other marks, we're surrounded.  
+> One *flyer*, one *insubstantial,* probably *invisible.*  
+#### **Jinx Bubstis** *(whispered, to **Peter Cat**)*  
+> Fe Arrans?  
+#### **Peter Cat** *(whispered, to **Jinx Bubastis**)*  
+> Humans, I think.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+A close-up of **The Magister**, with the Mojave forming the background.  
+#### **The Magister**  
+> My name is *The Magister.*  
+> Do not *worry* about hiding your vessel.  
+> My *Ready Men* will ensure it is not disturbed.  
+> There are some officials--  
+> --some *people* who could use your help.  
+> I trust you all know *why.*  
+
+## Page 18  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+**Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** appear, with no fanfare and no audible or visual effect, in a darkened hallway leading to the **Crisis Center** handling the Tulsa Incident. **The Magister** gestures towards the open doorway.  
+#### **The Magister**  
+> Right this way.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+As **Peter Cat**, **Penny Skragg**, and **Camillo Skragg** enter the **Crisis Center**, **Jinx Bubastis** stays back to ask **The Magister** a question.  
+#### **Jinx Bubastis**  
+> That *teleportation spell* is *slick.*  
+> How do you handle *momentum corrections?*  
+#### **The Magister**  
+> I channel the difference into the *World of Ash.*  
+#### **Jinx Bubastis**  
+> Neat.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** looks up from a conference table strewn with papers. He looks haggard, and can not believe what he is seeing.  
+#### **Mayor of Tulsa**  
+> What!? *More* of them!?  
+#### **The Magister** *(off-panel)*  
+> *Different* ones.  
+> They're here to help.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+The conference room in the **Crisis Center**. The table is strewn with papers, tablets, and laptops. A couple of lerge monitors are set up and playing muted TV newscasts. On the left sit the **Mayor of Tulsa** and a **FEMA Liason**. Extremely clever and attractive defense analyst **Jake Lyon** stands at the end of the table and shoots a death glare at **Peter Cat** and **Jinx Bubastis** through his thick-framed glasses as he leans on the table with his knuckles. On the right are the most senior **General of the Oklahoma National Guard**, a **DoE Liason**, and a harried looking **DHS Liason**. It's a tough crowd, the spectrum of responses ranges from restrained outrage to an unspoken "What the *actual* fuck?"  
+#### **Peter Cat**  
+> Hello.  
+> My name is *Peter Cat* and this is *Jinx Bubastis.*  
+> We will do our best to answer your questions.  
+
+## Page 19  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon** looks skeptical. He gestures towards **The Magister**, who is off-panel.  
+#### **Jake Lyon**  
+> That's good, because *what we know* doesn't make much sense.  
+> Your *spooky acquaintance* over there told me *Honor Guard* are *professional wrestlers?*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** looks down a little, and thinks about how to answer.  
+#### **Peter Cat**  
+> From what I've seen, you *professional wrestling* is a kind of *dramatized combat sport.*  
+> *Honor Guard* is a *dramatized police unit.*  
+> Media is produced from a combination of *scripted* and *unscripted* content.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon** holds a thumb and forefinger close together in a mocking "a little" gesture.  
+#### **Jake Lyon**  
+> *Unscripted,* you say?  
+> Just a *little bit* real?  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** looks at **Jake Lyon** calmly.  
+#### **Peter Cat**  
+> The point is to *blur the line* between *fantasy* and *reality.*  
+> The *"fake"* parts work because some of it is *"real".*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon** has a facial expression that suggests "gotcha!"  
+#### **Jake Lyon**  
+> OK.  
+> That would all make some sense, except for one thing.  
+> The *bhangmeter* on GPS-343 registered a *double flash* at 36.13336°N 95.97964°W.  
+> The *signature* of a *nuclear explosion.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** looks down and listens carefully.  
+#### **Jake Lyon**  
+> What the *hell* is a *pretend cop* doing with a *nuke*!?  
+
+## Page 20  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** has walked over to the table, and looks **Jake Lyon** in the eye. It's not confrontational -- or Peter doesn't intend it to be -- it's more confessional.  
+#### **Peter Cat**  
+> The *device* Victor Bravo used was a *enhanced radiation low-yield tactical fusion bomb.*  
+> It fuses *neutron-rich* light isotopes, so *thermal* output is limited.  
+> Most of it is *netron flux.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon** is listening carefully. He's looking for a contradiction to or inconsistency with something he already knows, but he hasn't heard one yet.  
+#### **Peter Cat** *(off-panel)*  
+> Neutron flux is a *well-known vulnerability* of the paranormal who was killed.  
+> His name was *Champion.*  
+> Victor Bravo's booking agent would have told him that he'll be facing *Champion* soon.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Mayor of Tulsa** glares at **Peter Cat** as he continues talking. It sounds like **Peter Cat** is rationalizing the horrible thing that happened, which is not wrong.  
+#### **Peter Cat**  
+> There are *tactical use cases* for a device like this.  
+> Unshielded light fortifications.  
+> In space, or in a sparsely populated area, there are valid reasons--  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** turns to look at him. **Jake Lyon** glares.  
+#### **Camillo Skragg**  
+> White phosporous.  
+#### **Jake Lyon**  
+> Pardon me?  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** continues, leaning against the wall with his arms crossed.  
+#### **Camillo Skragg**  
+> It's like when *U.S. forces* use *white phosphorous.*  
+> Sure, it's *supposed* to just be for *smoke--*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon** gets visibly upset at **Camillo Skragg**, jabbing with his finger. **Peter Cat** interrupts calmly but firmly.  
+#### **Jake Lyon**  
+> That's *completely different--*  
+#### **Peter Cat**  
+> *Enough.*  
+
+## Page 21  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** looks directly at the **Mayor of Tulsa**, who returns his gaze.  
+#### **Peter Cat**  
+> It's hard to *explain* without making it sound like you're *making excuses.*  
+> What happened to *your city, your people* was *monstrous.*  
+> I'm sorry if you felt like I was *trivializing* it.  
+#### **Mayor of Tulsa**  
+> Apology accepted.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** turns to face **Jake Lyon**.  
+#### **Peter Cat**  
+> And as for *you...*  
+> Back when I was one of those *fake cops*, I had a *problem.*  
+> Because of my *upbringing*, I had trouble recognizing *when people were lying to me.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** continues talking.  
+#### **Peter Cat**  
+> I am *very* familiar with the whole "only ask quections you already know the answer to" shtick.  
+> It leads to *terrible tunnel vision.*  
+> There's an *important question* you're not *asking.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** faces down **Jake Lyon**, who sits down.  
+#### **Peter Cat**  
+> Why did *Champion* and *M-Seven* attack the press conference?  
+> If it's all "fake", couldn't they have concentrated on *getting back home?*  
+> Take the *money,* avoid *injury* or *death?*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** begins walking around the conference table.  
+#### **Peter Cat**  
+> They were *all* off-script.  
+> They had *no reason* to keep up the "act."  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** gestures towards **Jinx Bubastis**, who steps forward towards the table.  
+#### **Peter Cat**  
+> It wasn't just *politeness* that made me introduce *Jinx.*  
+> I think she can help us understand *M-Seven,* and its leader, *Demonslayer.*  
+#### **Jinx Bubastis**  
+> I'm sure *Jolt* told you that you were in danger.  
+> She is *NOT* lying.  
+
+## Page 22  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** continues talking, moving around the table towards **Peter Cat**.  
+#### **Jinx Bubastis**  
+> I worked with Demonslayer, briefly.  
+> She was *infamous* for turning *scripted childrens' entertainment* into *mass casualty events.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** stands near **Jake Lyon** and looks at him carefully.  
+#### **Jinx Bubastis**  
+> She *exploited* the loose boundaries between *fantasy* and *reality*  
+> and the Corporation's need for a *terrorist threat*  
+> to do *real damage.*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+**Jinx Bubastis** addresses **Jake Lyon** directly. 
+#### **Jinx Bubastis**  
+> I don't need to *read your mind* to guess what you're worried about.  
+> A *second strike*, an *invasion force*, some kind of *escalation.*  
+> You're not *entirely* wrong.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+**Jinx Bubastis** stands in front of one of the monitors, looking carefully at a high-resolution image of the wreck of the **Reyll launch**.  
+#### **Jinx Bubastis**  
+> Do you have a better image of the *farmhouse crash site?*  
+> Thank you.  
+> I'm *familiar* with this type of craft. It is a *poor choice* for planetfall.  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
+**Jinx Bubastis** turns away from the monitor and heads back towards **Jake Lyon**.    
+#### **Jinx Bubastis**  
+> It was built to *ferry crew* in space, designed with *tight mass constraints.*  
+> This means a *miniaturized power plant.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Jake Lyon's** face shows a look of dawning horror as **Jinx Bubastis** bend down to talk to him.  
+#### **Jinx Bubastis**  
+> This means...  
+> ...*Demonslayer has access to antimatter.*  
+#### **Jake Lyon**  
+> ...my God,,, 
+### Panel 7 *(Half page width, 1/3rd page height)*:  
+A close-up of **Jinx Bubastis** as she prepares to change the subject.  
+#### **Jinx Bubastis**  
+> I don't suffer from *cop brain,* but that sounds like *means* and *motive* to me.  
+> But there are *more problems.*  
+> Peter?  
+
+## Page 23  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** has come back around to where he was standing at first. **Camillo Skragg** and **Penny Skragg** are visible in the background.  
+#### **Peter Cat**  
+> As soon as the Corporation sees it can produce *content* here on Earth, they won't *stop.*  
+> Every "Fun Division" *hack* will want to arrange fights on your world.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** leans on the conference table.  
+#### **Peter Cat**  
+> This needs to be a *total write-off.*  
+> An *abject failure.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** interjects.  
+#### **Jinx Bubastis**  
+> *None of them* can leave this planet *alive.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** leans on the conference table and resumes talking.  
+#### **Peter Cat**  
+> I'm afraid she's right.  
+> We are in a *unique position* to help.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** joins **Peter Cat** as he continues speaking.  
+#### **Peter Cat**  
+> We've been out of the *entertainment sector* for a long time now.  
+> We've been *militarized.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+At the conference table, the **DHS Liason** looks up. She is beginning to realize where this is going.  
+#### **Peter Cat** *(off-panel)*  
+> I have been the victim of a *neutralization attempt.*  
+> *Jinx* has *burned her bridges* with *Corporate military intelligence.*  
+> If we had somewhere to go, we'd *defect.*  
+
+## Page 24  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+**Peter Cat** gestures towards **Camillo Skragg** and **Penny Skragg**, who have come closer to the conference table into the light.  
+#### **Peter Cat**  
+> I have a proposal.  
+> *Asylum* for *us.*  
+> *Amnesty* for the *Skraggs.*  
+> And we'll provide a *severe and lasting* solution to your *alien problem.*  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+Close-up on the **DHS Liason**, who looks flabbergasted.  
+#### **DHS Liason** *(stammering)*  
+> This.. this is another "Operation Paperclip."  
+> I don't have the *authority.*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+**The Magister** sidles up behind the **DHS Liason** and patronizingly reassures her.  
+#### **The Magister** *(whispering to the **DHS Liason**)*  
+> No, you *don't.*  
+> But you *know the proper channels.*  
+> *I* can help.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+**The Magister** looks up at **Peter Cat**, off-panel. The **DHS Liason** is having a quiet nervous breakdown.  
+> Please come out to the hallway.  
+> I'd like to discuss something.  
+### Panel 5 *(Full page width, 1/3rd page height)*:  
+A close-up of **The Magister** and **Peter Cat** shaking hands.  
+#### Box *(**The Magister**)*  
+> Your *terms* are *acceptable.*  
+#### Box *(**Peter Cat**)*  
+> Are you *authorized* to--  
+#### Box *(**The Magister**)*  
+> *Formally,* no.  
+> *In reality,* yes.  
+> Consider it *done.*  
+> *Welcome to Earth.*  
