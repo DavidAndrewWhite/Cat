@@ -469,7 +469,7 @@ The **Mark IX corvette** flies through the bent and twisted space of interphase.
 #### **Newscaster** *(from inside cargo bay)*  
 > The death toll in Tulsa has been raised to 6,000...  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-A floating TV image displayed on the "porn hub." A female newscaster holds up 2 fingers. Behind her, a blue infographic of a stylized pair of World Trade Center towers is dwarfed by a larger, red infographic of the towers, where the height and width were doubled. **Peter Cat** looks up at the screen with grim exhaustion.  
+A floating TV image displayed on the "porn hub." A female newscaster holds up 2 fingers. Behind her, a blue infographic of a stylized pair of World Trade Center towers is dwarfed by a larger, red infographic of the towers, where the height and width are doubled. **Peter Cat** looks up at the screen with grim exhaustion.  
 #### **Newscaster** *(from floating TV image)*  
 > ...that's like *TWO* 9/11s!  
 #### **Peter Cat**  
@@ -654,7 +654,7 @@ The conference room in the **Crisis Center**. The table is strewn with papers, t
 **Peter Cat** has walked over to the table, and looks **Jake Lyon** in the eye. It's not confrontational -- or Peter doesn't intend it to be -- it's more confessional.  
 #### **Peter Cat**  
 > The *device* Victor Bravo used was a *enhanced radiation low-yield tactical fusion bomb.*  
-> It fuses *neutron-rich* light isotopes, so *thermal* output is limited.  
+> It fuses *neutron-rich* isotopes, so *thermal* output is limited.  
 > Most of it is *netron flux.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Jake Lyon** is listening carefully. He's looking for a contradiction to or inconsistency with something he already knows, but he hasn't heard one yet.  
@@ -761,8 +761,8 @@ From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** tu
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Jake Lyon's** face shows a look of dawning horror as **Jinx Bubastis** bend down to talk to him.  
 #### **Jinx Bubastis**  
-> This means...  
-> ...*Demonslayer has access to antimatter.*  
+> This means--  
+> --*Demonslayer has access to antimatter.*  
 #### **Jake Lyon**  
 > ...my God,,, 
 ### Panel 7 *(Half page width, 1/3rd page height)*:  
@@ -827,6 +827,7 @@ Close-up on the **DHS Liason**, who looks flabbergasted.
 > *I* can help.  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 **The Magister** looks up at **Peter Cat**, off-panel. The **DHS Liason** is having a quiet nervous breakdown.  
+#### **The Magister**  
 > Please come out to the hallway.  
 > I'd like to discuss something.  
 ### Panel 5 *(Full page width, 1/3rd page height)*:  

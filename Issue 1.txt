@@ -200,7 +200,7 @@ The **Corporate chief**, **Corporate crewman (1)**, and **Corporate crewman (2)*
 ### Panel 6 *(Half page width, 1/3rd page height)*:
 **Corporate chief**, **Corporate crewman (1)**, and **Corporate crewman (2)** stand in a triangle in front of the communications console, side-eyeing each other.
 #### Box *(**Peter Cat**, continued, upper left)*
-> "-- it's funnier and crueler if we let them decide which one gets to tell Head Office about this screw-up."
+> "--and it's funnier and crueler if we let them decide which one gets to tell Head Office about this screw-up."
 #### Box *(**Peter Cat**, continued, lower right)*
 > "Let's, uh, blow this joint."
 
@@ -412,7 +412,7 @@ Inside a darkened ground-floor room of **Camillo Skragg's house**. **Camillo Skr
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
 From behind the front door of **Camillo Skragg's house**, **Jinx Bubastis** pronounces a *word of power*, identical to the one she used in Page 4, Panel 1. The mundane locks on the door open, with the deadbolt making a prominent noise.
-#### SF/X *(deadbolt on the upper left on the door)*
+#### SF/X *(deadbolt on the upper left of the door)*
 > Clunk!
 #### SF/X *(lock in the doorknob)*
 > Click-clack!  
@@ -678,7 +678,7 @@ In the hallway, **Camillo Skragg** asks **Peter Cat** a question.
 #### **Peter Cat**  
 > Yeah, we call them that.  
 #### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Peter Cat** and **Camillo Skrag** walk together down the hallway, following **Jinx Bubastis** and **Penny Skrag**.  
+**Peter Cat** and **Camillo Skragg** walk together down the hallway, following **Jinx Bubastis** and **Penny Skrag**.  
 #### **Peter Cat** 
 > But it wouldn't surprise me if it's because of that movie.   
 
