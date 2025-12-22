@@ -9,7 +9,7 @@
 
 ### Starships 
 
-- **Mark IX corvette**: This is smaller than the **Corporate frigate**, but shares some broadly similar design notes, like the "up" direction of the decks relative to the direction of thrust. The vessel is built around a broad, squat cylinder. The cylinder is divided into six equally large modular sectors surrounding the skinnier cylinder housing the main drive and reactor. From a view of the front of the cylinder, the drive system's dome shaped heat sink glows pale blue -- Fe Arran tech tries to improve the efficiency of radiation cooling by using higher energy (bluer) photons to increase dissipation. Starting from the 12 to 2 o'clock position on the main hull, the modules are a pressurized cargo/passenger bay with a panoramic window on the outside of the cylinder, then (2-4) a weapons module with a squat spinal-mounted energy weapon towards the middle and four small FTL missile launchers on the outside, then (4-6) a non-pressurized cargo module with some external loading ports for provisions and fuel, then (6-8) a less modular section that houses engineering, lab space, and the hinge point of the lower boom, then (8-10) base of the crew hull (which will be described in a moment), and then (10-12) crew quarters and the hinge point of the upper boom. The booms are abound three times as long as the diameter of the ship and carry slightly smaller versions of the drives in the main hull on the ends, with red thrust pits on the ends and an elongated blue heat sink on the outside. The booms can be moved through a 180° arc for off center-of-gravity thrust in order to quickly re-orient the vessel, and are currently splayed surrounding the crew hull. The visible "top" part of the crew hull is a canopy-like superstructure bearing a prominent sensor array built over the "bottom" of the crew hull, which resembles the prow of a naval vessel. This protrudes outwards about one half the diameter of the main hull, and is where the bridge and staterooms are. The center of gravity should be between the crew and main hulls. The opposite end of the crew hull is slightly flattened, and contains a small fork-mounted turret with a miniature energy weapon as a kind of "deck gun". The one in this story has been partially demilitarized, and the modular construction means that individual Mark IX's can vary -- a military load out might have two weapons modules, or a specialized module to carry a more useful load of torpedoes (FTL missiles), and a military vessel is unlikely to have a picture window.  
+- **Mark IX corvette** a/k/a **Black Sabbath**: This is smaller than the **Corporate frigate**, but shares some broadly similar design notes, like the "up" direction of the decks relative to the direction of thrust. The vessel is built around a broad, squat cylinder. The cylinder is divided into six equally large modular sectors surrounding the skinnier cylinder housing the main drive and reactor. From a view of the front of the cylinder, the drive system's dome shaped heat sink glows pale blue -- Fe Arran tech tries to improve the efficiency of radiation cooling by using higher energy (bluer) photons to increase dissipation. Starting from the 12 to 2 o'clock position on the main hull, the modules are a pressurized cargo/passenger bay with a panoramic window on the outside of the cylinder, then (2-4) a weapons module with a squat spinal-mounted energy weapon towards the middle and four small FTL missile launchers on the outside, then (4-6) a non-pressurized cargo module with some external loading ports for provisions and fuel, then (6-8) a less modular section that houses engineering, lab space, and the hinge point of the lower boom, then (8-10) base of the crew hull (which will be described in a moment), and then (10-12) crew quarters and the hinge point of the upper boom. The booms are abound three times as long as the diameter of the ship and carry slightly smaller versions of the drives in the main hull on the ends, with red thrust pits on the ends and an elongated blue heat sink on the outside. The booms can be moved through a 180° arc for off center-of-gravity thrust in order to quickly re-orient the vessel, and are currently splayed surrounding the crew hull. The visible "top" part of the crew hull is a canopy-like superstructure bearing a prominent sensor array built over the "bottom" of the crew hull, which resembles the prow of a naval vessel. This protrudes outwards about one half the diameter of the main hull, and is where the bridge and staterooms are. The center of gravity should be between the crew and main hulls. The opposite end of the crew hull is slightly flattened, and contains a small fork-mounted turret with a miniature energy weapon as a kind of "deck gun". The one in this story has been partially demilitarized, and the modular construction means that individual Mark IX's can vary -- a military load out might have two weapons modules, or a specialized module to carry a more useful load of torpedoes (FTL missiles), and a military vessel is unlikely to have a picture window.  
 
 - **The Corporate Escape Pod** should be given about as much thought at the makers of the original "Star Trek" put into the "Galileo" shuttle. It's a box. It has engines. You can kind of tell which end is in front. It handles re-entry pretty well; despite its modest appearance, it was adapted from the utility launches used on very expensive Corporate yachts. It has a black-and-white paint scheme that would read as "cop car" to most people. The Visitor shuttles from the "V" TV series would also be a thematically appropriate source for design inspiration.  
 
@@ -296,7 +296,7 @@ Nighttime on Radio Hill in Elysium Park, a location near Downtown Los Angeles. T
 #### **Bearcat**  
 > Hah!  
 > Well *done,* Killotron!  
-> The are is secured!  
+> The area is secured!  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Bearcat** looks thoughtful as he speaks to **Killotron**. **Killotron** listens closely.  
 #### **Bearcat**  
@@ -322,4 +322,184 @@ Nighttime on Radio Hill in Elysium Park, a location near Downtown Los Angeles. T
 > I believe this is going to work.  
 
 ## Page 10  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+
+## Page W  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Penny Skragg** takes a broad right turn onto Whittier Blvd on her "borrowed" police motorcycle.  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+**Penny Skragg** stands on the saddle of the motorcycle as she bears down on a running **Victor Bravo**.  
+### Panel 2a *(small square inset)*  
+**Penny Skragg** firmly grabs the left, front brake of the motorcycle, causing the front wheel to jam.  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+**Penny Skragg** is launched into a high arc over **Victor Bravo** and turns as she somersaults; she will land facing him once he gets up. The police motorcycle also somersaults, in a lower arc that catches **Victor Bravo** in the back and slams him into the pavement.  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** recovers quickly and gets to his feet, seemingly uninjured. **Penny Skragg** lands in a ready stance.  
+### Panel 5 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** lowers into a crouch to charge at **Penny Skragg**. **Penny Skragg** make a "bring it" gesture with one hand.  
+#### **Victor Bravo**  
+> Is this some kind of joke?  
+
+## Page W+1  
+
+*Note: All continuity issues are intentional. Penny's a reality warper, bullshit is her weapon. It should look at least superficially plausible.*
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+**Victor Bravo** lunges forwards, a comically large plastic (but very, very sharp) combat knife in his right hand. He is attempting to decapitate **Penny Skragg** with a single swing. **Penny Skragg** ducks down deep and performs a Bruce Lee-style leg sweep.  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+**Penny Skragg's** right arm hooks around **Victor Bravo's** extended right arm, like she performed an improbably quick roll after knocking **Victor Bravo's** foot out from under him. 
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+**Penny Skragg** crouches, with the knife in her hand. In the background, **Victor Bravo** recovers very quickly, getting his feet back under him in a crouched stance, with his back to **Penny Skragg**.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+**Penny Skragg** slams the knife hilt-deep into **Victor Bravo's** grotesquely muscled left thigh.  
+#### **Victor Bravo** *(shout of pain)*  
+> GRAGH!  
+### Panel 5 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** looks down at the knife hilt embedded into the outside of his left thigh. In the background, **Penny Skragg** sprints towards the locked gate covering the front door of a vacant building.  
+### Panel 6 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** returns the bloody blade into the scabbard on his right boot. His gaze is fixated on the still-closed gate, which rattles a little after **Penny Skragg** somehow entered the vacant building.  
+
+## Page W+2  
+
+*Note: All continuity issues are intentional. Penny's a reality warper, bullshit is her weapon. It should look at least superficially plausible.*
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** smashes through the front door of the vacant building, breaking the gate and doorframe into pieces, tearing out bits of wall.  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+Light streams into the darkened interior of the vacant building though the open back door. **Victor Bravo** charges forward towards it.  
+### Panel 3 *(1/3rd page width. 1/3rd page height)*:  
+**Victor Bravo** face-plants just outside the back door. Behind his is a crude set of stairs made of cinder blocks.  
+### Panel 4 *(1/3rd page width. 1/3rd page height)*:  
+**Victor Bravo** looks back at the staircase; it should be six blocks in a 3-2-1 configuration, but the bottom step is missing.  
+### Panel 5 *(1/3rd page width. 1/3rd page height)*:  
+The missing cinder block impacts the top of **Victor Bravo's** head, shattering.  
+### Panel 6 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** flies up to the roof using his jet pack.  
+### Panel 7 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** has landed on the roof. He reaches for his side-arm, and looks down to confirm that it's missing from its holster.  
+
+## Page W+3  
+
+*Note: All continuity issues are intentional. Penny's a reality warper, bullshit is her weapon. It should look at least superficially plausible.*
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Penny Skragg** lifts **Victor Bravo's** oversized sidearm to aim it at **Victor Bravo's** solar plexus. **Victor Bravo** stands there, slack-jawed.  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+A laser blast strikes **Victor Bravo's** body armor; there is a small explosion of sparks.  
+#### SF/X  
+ZZAP  
+#### **Victor Bravo** *(grunt of pain)*  
+gnnh...  
+### Panel 3 *(Half page width. 1/3rd page height)*:  
+Much like Panel 2. **Penny Skragg** has found the second trigger, and has fired a miniature explosive shell into **Victor Bravo's** solar plexus. There is a muffled explosion.  
+#### SF/X *(muffled explosion)*  
+*THOMP*  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+**Victor Bravo** falls to his knees. He has been disembowelled inside his body armor. Blood is already starting to pool around his knees.  
+#### **Victor Bravo** *(dying)*  
+> It's.. 
+> cold... 
+### Panel 5 *(Full page width. 1/3rd page height)*:  
+**Penny Skragg** looks on in horror as **Victor Bravo** falls face-first onto the roof of the vacant building. **Victor Bravo** bleeds out.  
+#### **Victor Bravo** *(dying)*  
+> Whyzit...  
+> ...col--  
+#### Box *(lower right, **Penny Skragg**, neurocomm)*  
+> "Victor Bravo's *down.*"
+
+## Page X  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+The cockpit of the **Black Sabbath**. **Jinx Bubastis** operates an inexpensive aircraft radio (similar to a Garmin 115) that has been duct-taped to one of the consoles.  
+### **Jinx Bubastis**  
+> LAX Tower, Black Sabbath Niner Niner X-Ray, At two thousand seven hundred. request clearance en route to Radio Hill.  
+#### **LAX ATC** *(from radio)*  
+> Black Sabbath Niner Niner X-Ray, Maintain two thousand seven hundred, 
+### **Jinx Bubastis**  
+> Maintain two thousand seven hundred, wilco. Black Sabbath Niner Niner X-Ray.    
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+**Peter Cat** hangs on the edge of space above the Los Angeles Basin. He is concentrating intensely. 
+#### **Peter Cat** *(neurocomm)*  
+> Good.  
+> I have all ten bombs.  
+> Isolating.  
+### Panel 3 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** turns to the miniature gunnery station next to the cockpit. A view of the Radio Hill transmitter is on screen. She has moved a targeting reticle to the building using a small joystick. 
+#### **Peter Cat** *(neurocomm)*  
+> Isolated.  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** looks at the covered arming switch for the **Black Sabbath's** nose-mounted deck gun. It remains unarmed.  
+### Panel 5 *(Full page width. 1/3rd page height)*:  
+The **Black Sabbath** lands near the entrance to the transmitter building. **Bearcat** and **Killotron** are standing watch outside the front door.  
+
+## Page X+1  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Bearcat** opens the door to let **Jinx Bubastis** in. **Killotron** has a laser cannon extended, and is closely following **Jinx Bubastis'** movements.  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+**Demonslayer** turns to face **Jinx Bubastis**. She is holding a **detonator**.  
+#### **Demonslayer**  
+> So, you came.  
+> You know, I could use a new *Number Six--*  
+#### **Jinx Bubastis** *(interrupting **Demonslayer**)*  
+> No.  
+### Panel 3 *(Half page width. 1/3rd page height)*:  
+**Demonslayer** turns around to face **Jinx Bubastis**, with the **floating sphere** behind her.  
+#### **Demonslayer**  
+> You brought your *vessel?*  
+#### **Jinx Bubastis**  
+> Yes.  
+> Come and *take* it.  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+**Demonslayer** gives **Jinx Bubastis** a hard look. **Jinx Bubastis** does not react.  
+### Panel 5 *(Full page width. 1/3rd page height)*:  
+**Demonslayer** waves one hand and gives an order. **Bearcat** and **Killotron** close in on **Jinx Bubastis**.  
+#### **Demonslayer**  
+> Kill her.  
+
+## Page X+2  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** has telepathically reached deep into **Bearcat's** mind; her words are **Words of Power**.  
+#### **Jinx Bubastis** *(Words of Power)*  
+> Your mind was *never your own.*  
+> You were *always a pet.*  
+> Your *life* was a *lie.*  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+**Bearcat** reels, his face distorted with despair. **Jinx Bubastis** jumps forwards and removes **Killotron's** head with an uppercut.  
+### Panel 3 *(Full page width. 1/3rd page height)*:  
+**Killotron** staggers back, trying to aim his laser cannon blind. **Bearcat** puts a pistol to his own head.  
+#### **Killotron**  
+> No light through shattered lenses—  
+> Yet my circuits hum with unyielding fire.  
+> Your fist a storm, your breath a blade,  
+> I'll carve your name in static--  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** shatters the crystal on **Killotron's** chest.  
+#### SF/X *(from behind **Jinx Bubastis**, **Bearcat** shoots himself in the head off-panel)*  
+> BLAM!  
+### Panel 5 *(Half page width. 1/3rd page height)*:  
+A ghostly wisp escapes from **Killotron's** inert body. **Jinx Bubastis** speaks **Words of Power** with a sad look.  
+#### **Jinx Bubastis** *(Words of Power)*  
+> Be free now.  
+
+## Page X+3  
+
+### Panel 1 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** snatches the **detonator** from **Demonslayer's** hand. **Demonslayer** is having difficulty processing what is happening.  
+#### **Jinx Bubastis**  
+> No speech.  
+> No wizards' duel.  
+### Panel 2 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** depresses the plunger of the **detonator** while flipping off **Demonslayer.** **Demonslayer** is illuminated from behind by a light like a flashbulb, and not the detonation she was expecting.  
+#### **Jinx Bubastis**  
+> No *suicide bomb.*  
+### Panel 3 *(Half page width. 1/3rd page height)*:  
+**Jinx Bubastis** holds **Demonslayer** by the neck. She seems to be consuming a glowing smoky mass coming from **Demonslayer'** head. **Jinx Bubastis** eats **Demonslayer's** soul.  
+### Panel 4 *(Half page width. 1/3rd page height)*:  
+Another realm. At the shores of the **Lake of Fire**, **Demonslayer** screams as **Jinx Bubastis** pins her arms behind her back and prepares to give her a shove.  
+### Panel 5 *(Full page width. 1/3rd page height)*:  
+A view of the **Lake of Fire**. **Jinx Bubastis** has just pushed **Demonslayer** over the edge. You can get a good reference for how this should look from a Jack Chick tract.  
 
