@@ -143,7 +143,7 @@
   - **Current roster**:
     - **Victor Bravo**: a young male Fe Arran super-soldier equipped with the Corporation's latest and greatest military gear. Recently installed as team leader.  
 	- **Jolt**: an older female Fe Arran. Her body produces a very strong electrical charge which is channeled by a containment bodysuit. Veteran member of the team, former team leader.  
-	- **Thresher**: a male Fe Arran cyborg with a full-body prosthesis optimized for zero gravity melee combat and boarding actions. Can shoot tethers, arms feature retractable chainsaws.  
+	- **Thresher**: a male Fe Arran cyborg with a full-body prosthesis optimized for zero gravity melee combat and boarding actions. Can shoot tethers, arms feature retractable chainsaws. Wears a face mask that somewhat resembles a hockey goalie's face mask.  
 	- **The Eye**: a young, perky female Fe Arran. Born without eyes, her eyesockets are covered with mirrored lenses. She can see thanks to a magical amulet fused to the top of her sternum that gives her 360° vision and limited precognition. Acrobatic, fights with flashbang grenades and diamond-bladed laser knives. Her precognitive powers result in her often stating the blindingly obvious.  
   - **Former members**: include Peter Cat, working under the codename **Arsenal**.  
   
