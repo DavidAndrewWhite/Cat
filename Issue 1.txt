@@ -733,7 +733,7 @@ A glowing projection of **Angela**, a well-composed female Fe Arran agent workin
 **Angela** tries to reassure **Jolt**.  
 #### **Angela**  
 > They say Peter's *mellowed out*-- 
-#### **Jolt**  *(off-panel, interrupting)*
+#### **Jolt***(off-panel, interrupting)*
 > --he was supposed to be *drooling* into a *pillow*.  
 > What happened?  
 #### **Angela**   
@@ -748,7 +748,7 @@ A glowing projection of **Angela**, a well-composed female Fe Arran agent workin
 **Angela** is visibly uncomfortable.  
 #### **Angela** 
 > *Victor Bravo* was performing an *extrajudicial*--
-#### **Jolt**  *(off-panel, interrupting)*
+#### **Jolt** *(off-panel, interrupting)*
 > --Was out with his *death squad*, Angela, we can talk like grown women.  
 #### **Angela**  
 > Target was a Reyll engineer.  

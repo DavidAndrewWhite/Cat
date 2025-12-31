@@ -308,7 +308,7 @@ Inside the **Crisis Center**, **Jinx Bubastis** hands out small devices -- **neu
 #### **Camillo Skragg**  
 > What *is* it?  
 #### **Jinx Bubastis** *(to **Camillo Skragg**)*  
-> It's a *neurcomm* -- a *neural interface* attached to a tiny *interocitor*.  
+> It's a *neurocomm* -- a *neural interface* attached to a tiny *interocitor*.  
 > There's software that lets you *stream* sensory inputs, too.  
 ### Panel 2 *(Half page width. 1/3rd page height)*:  
 **Penny Skragg** looks at **Camillo Skragg**. **Camillo Skragg** looks through a semi-transparent image of what **Penny Skragg** sees. **Jinx Bubastis** looks at this with mild amusement.  
@@ -322,12 +322,12 @@ Inside the **Crisis Center**, **Jinx Bubastis** hands out small devices -- **neu
 > Since we're doing *counter-insurgency* now, we're going to need good coordination and mobility.  
 > These should help a lot, especially if we have to split up.  
 ### Panel 3 *(Half page width. 1/3rd page height)*:  
-The **DHS Liason** is talking on her smartphone. She gestures towards **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg**, getting their attention.  
-#### DHS Liason *(into smartphone)*  
+The **DHS Liaison** is talking on her smartphone. She gestures towards **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg**, getting their attention.  
+#### DHS Liaison *(into smartphone)*  
 > So, it's a *confirmed* sighting?  
 > Let me put you on *speakerphone.*  
 ### Panel 4 *(Half page width. 1/3rd page height)*:  
-The **DHS Liason** puts her smartphone on the conference table. **Jinx Bubastis'** eyes glow as she telepathically makes contact with the caller.  
+The **DHS Liaison** puts her smartphone on the conference table. **Jinx Bubastis'** eyes glow as she telepathically makes contact with the caller.  
 #### Smartphone *(Dispatch officer)*  
 > Hello! This is the East LA Sheriff's Department.
 > As I was saying, we have reports of a *seven-foot cat-man* in Whittier and Montebello. 
@@ -439,7 +439,7 @@ An office in the **East LA Sheriff's Department**. **Peter Cat**, **Jinx Bubasti
 *Note: All continuity issues are intentional. Penny's a reality warper, bullshit is her weapon. It should look at least superficially plausible.*
 
 ### Panel 1 *(Half page width. 1/3rd page height)*:  
-**Victor Bravo** smashes through the front door of the vacant building, breaking the gate and doorframe into pieces, tearing out bits of wall.  
+**Victor Bravo** smashes through the front door of the vacant building, breaking the gate and door frame into pieces, tearing out bits of wall.  
 ### Panel 2 *(Half page width. 1/3rd page height)*:  
 Light streams into the darkened interior of the vacant building though the open back door. **Victor Bravo** charges forward towards it.  
 ### Panel 3 *(1/3rd page width. 1/3rd page height)*:  
@@ -449,7 +449,7 @@ Light streams into the darkened interior of the vacant building though the open 
 ### Panel 5 *(1/3rd page width. 1/3rd page height)*:  
 The missing cinder block impacts the top of **Victor Bravo's** head, shattering.  
 ### Panel 6 *(Half page width. 1/3rd page height)*:  
-**Victor Bravo** flies up to the roof using his jet pack.  
+**Victor Bravo** flies up to the roof using his jetpack.  
 ### Panel 7 *(Half page width. 1/3rd page height)*:  
 **Victor Bravo** has landed on the roof. He reaches for his side-arm, and looks down to confirm that it's missing from its holster.  
 
@@ -589,7 +589,7 @@ The cockpit of the **Black Sabbath**. **Jinx Bubastis** operates an inexpensive 
 > I have all ten bombs.  
 > Isolating.  
 ### Panel 3 *(Half page width. 1/3rd page height)*:  
-**Jinx Bubastis** turns to the miniature gunnery station next to the cockpit. A view of the Radio Hill transmitter is on screen. She has moved a targeting reticle to the building using a small joystick. 
+**Jinx Bubastis** turns to the miniature gunnery station next to the cockpit. A view of the Radio Hill transmitter is on the screen. She has moved a targeting reticle to the building using a small joystick. 
 #### **Peter Cat** *(neurocomm)*  
 > Isolated.  
 ### Panel 4 *(Half page width. 1/3rd page height)*:  

@@ -18,3 +18,4 @@
 {"rule":"MD_BASEFORM","sentence":"^\\QThey taught things like \"Might does not make right\" or \"kindness is power.\"\\E$"}
 {"rule":"LITTLE_BIT","sentence":"^\\QJust a little bit real?\\E$"}
 {"rule":"SENTENCE_WHITESPACE","sentence":"^\\QI don't know what I can and can't tell them.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBlack Sabbath Niner Niner X-Ray.\\E$"}
