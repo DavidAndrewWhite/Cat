@@ -334,7 +334,7 @@ From front to back, **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **
 ## Page 10  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-**Demonslayer's** sanctum on the **Bastard Sun**.  **Demonslayer** is looking intently at a star map of the outskirts of Corporate space, tiny dots of light with a few highlighted with bounding cubes. A translucent orange truncated cone with rounded edges is overlaid over a few of these points. As a side effect, **Demonslayer's** face is illuminated almost as she were holding a flashlight and shining it upwards from beneath her face.  **Champion** stands close behind her, arms crossed. **Bearcat** is side-eyeing **Champion**. **Killotron** stands on **Demonslayer's** other side, awaiting orders.  
+**Demonslayer's** sanctum on the **Bastard Sun**.  **Demonslayer** is looking intently at a star map of the outskirts of Corporate space, tiny dots of light with a few highlighted with bounding cubes. A translucent orange truncated cone with rounded edges is overlaid over a few of these points. As a side effect, **Demonslayer's** face is illuminated almost as if she were holding a flashlight and shining it upwards from beneath her face.  **Champion** stands close behind her, arms crossed. **Bearcat** is side-eyeing **Champion**. **Killotron** stands on **Demonslayer's** other side, awaiting orders.  
 #### Box *(upper left)*  
 > The *Bastard Sun*, warship of *M-Seven*...
 #### **Demonslayer**  
@@ -376,7 +376,7 @@ Pull back to see **Bearcat**, **Champion**, **Demonslayer**, and **Killotron** s
 *Warning: This page contains International Phonetic Alphabet characters.*
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-Close-up on **Camillo Skragg**. He is sitting in a room dimly illuminated by colored lights, at a booth. He looks like he his asking a rhetorical question.  
+Close-up on **Camillo Skragg**. He is sitting in a room dimly illuminated by colored lights, at a booth. He looks like he is asking a rhetorical question.  
 #### Box *(upper left)*  
 > Meanwhile...  
 #### **Camillo Skragg**  
@@ -459,7 +459,7 @@ In the club, **Demonslayer** appears on stage, pointing at **Penny Skragg** and 
 > Oh, *fuck off*...  
 > I got this!  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-A clearer view of the stage. An incredibly fast moving, smoky streak flies through the back wall, leaving it unharmed. Some of the **Musicians** look at the place where **Demonslayer** was. The **Singer** gets to her feet.  
+A clearer view of the stage. An incredibly fast moving, smoky streak flies through the back wall, leaving it unharmed. Some **Musicians** look at the place where **Demonslayer** was. The **Singer** gets to her feet.  
 #### SF/X  
 > *yoink*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
@@ -621,7 +621,7 @@ The mess hall on the **Mark IX corvette**. **Jinx Bubastis** and **Penny Skragg*
 #### **Jinx Bubastis** *(to **Penny Skragg**)*  
 > Ours don't tend to *do that* unless we've been exposed to *toxins* or *radiation*.  
 > You say this is a *regular* thing?  
-#### **Penny Skragg**  *(to **Jinx Bubastis**)*  
+#### **Penny Skragg** *(to **Jinx Bubastis**)*  
 > Yeah. It's not pressing, but...  
 #### **Jinx Bubastis** *(to **Penny Skragg**)*  
 > No problem! We have extensive *medical supplies*, I can probably adapt something.  
@@ -698,7 +698,7 @@ Close-up on **Camillo Skragg**, who is grinning.
 #### **Peter Cat**  
 > It's difficult.  
 > You have to pick the correct point in the *light-shell*, set up the decoders, and forward the stream to a device that can display the output.  
-> Then the *signals* will replay like they did  when *originally broadcast*.  
+> Then the *signals* will replay like they did when *originally broadcast*.  
 #### **Penny Skragg**  
 > So the *remote control's* 160 light-years across.  
 ### Panel 5 *(Full page width, 1/3rd page height)*: 
@@ -779,7 +779,7 @@ In the mess, **Camillo Skragg** sits at the table, looking into a folding portab
 **Camillo Skragg**, **Jinx Bubastis**, and **Peter Cat** rush off-panel towards the shop, like there's some kind of serious emergency.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 Black panel.  **Penny Skragg's** POV, such as it is.  
-#### **Peter Cat**  *(not visible)*  
+#### **Peter Cat** *(not visible)*  
 > --slowly. I've stopped the data flow.  
 #### **Camillo Skragg** *(not visible)*  
 > She's stopped *spasming.*  

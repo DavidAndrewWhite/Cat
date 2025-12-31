@@ -29,3 +29,6 @@ Deorbiting
 ossuary
 shotglass
 shotglasses
+autocannon
+hyperion
+hypocenter

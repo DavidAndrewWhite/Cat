@@ -326,7 +326,7 @@ A composition similar to Panel 1, with **Jolt** next to the **Mayor of Tulsa**. 
 > Target locked.  
 > FIRE!  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-The cylinder streaks from over **Victor Bravo's** shoulder and closes in on **Champion**, who is turning over Maple Ridge for another pass. Two streaks, about to collide in mid-air.  
+The cylinder streaks from over **Victor Bravo's** shoulder and closes in on **Champion**, who is turning over Maple Ridge for another pass. Two streaks, about to collide in midair.  
 
 ## Page 11  
 
@@ -342,7 +342,7 @@ The houses surrounding the traffic circle are severely damaged by a blast wave.
 #### Box *(narration)*  
 > The *blast wave* was relatively small.  
 > The buildings surrounding the *hypocenter* were *destroyed.*  
-> The ones around them *severely damaged.*  
+> The surrounding ones *severely damaged.*  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 A small but recognizable mushroom cloud rises from Maple Ridge.  
 
@@ -353,7 +353,7 @@ A small but recognizable mushroom cloud rises from Maple Ridge.
 #### **Champion** *(weakened)*  
 > ...uhhh...  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Victor Bravo** flies using a jet pack like harness, and rapidly approaches a stricken **Champion**, who has not yet recovered.  
+**Victor Bravo** flies using a jetpack like harness, and rapidly approaches a stricken **Champion**, who has not yet recovered.  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
 A human male lies dead on a sidewalk in front of a sidewalk dining table and chair.  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
@@ -534,7 +534,7 @@ The depths of the Mojave Desert, an uninhabited area of Nevada far from prying e
 #### **Peter Cat** *(whispered, to **Jinx Bubastis**)*  
 > Five other marks, we're surrounded.  
 > One *flyer*, one *insubstantial,* probably *invisible.*  
-#### **Jinx Bubstis** *(whispered, to **Peter Cat**)*  
+#### **Jinx Bubastis** *(whispered, to **Peter Cat**)*  
 > Fe Arrans?  
 #### **Peter Cat** *(whispered, to **Jinx Bubastis**)*  
 > Humans, I think.  
@@ -571,7 +571,7 @@ The **Mayor of Tulsa** looks up from a conference table strewn with papers. He l
 > *Different* ones.  
 > They're here to help.  
 ### Panel 4 *(Full page width, 1/3rd page height)*:  
-The conference room in the **Crisis Center**. The table is strewn with papers, tablets, and laptops. A couple of large monitors are set up and playing muted TV newscasts. On the left sit the **Mayor of Tulsa** and a **FEMA Liason**. Extremely clever and attractive defense analyst **Jake Lyon** stands at the end of the table and shoots a death glare at **Peter Cat** and **Jinx Bubastis** through his thick-framed glasses as he leans on the table with his knuckles. On the right are the most senior **General of the Oklahoma National Guard**, a **DoE Liason**, and a harried looking **DHS Liason**. It's a tough crowd, the spectrum of responses ranges from restrained outrage to an unspoken "What the *actual* fuck?"  
+The conference room in the **Crisis Center**. The table is strewn with papers, tablets, and laptops. A couple of large monitors are set up and playing muted TV newscasts. On the left sit the **Mayor of Tulsa** and a **FEMA Liaison**. Extremely clever and attractive defense analyst **Jake Lyon** stands at the end of the table and shoots a death glare at **Peter Cat** and **Jinx Bubastis** through his thick-framed glasses as he leans on the table with his knuckles. On the right are the most senior **General of the Oklahoma National Guard**, a **DoE Liaison**, and a harried looking **DHS Liaison**. It's a tough crowd, the spectrum of responses ranges from restrained outrage to an unspoken "What the *actual* fuck?"  
 #### **Peter Cat**  
 > Hello.  
 > My name is *Peter Cat* and this is *Jinx Bubastis.*  
@@ -619,7 +619,7 @@ The conference room in the **Crisis Center**. The table is strewn with papers, t
 #### **Peter Cat**  
 > The *device* Victor Bravo used was a *enhanced radiation low-yield tactical fusion bomb.*  
 > It fuses *neutron-rich* isotopes, so *thermal* output is limited.  
-> Most of it is *netron flux.*  
+> Most of it is *neutron flux.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Jake Lyon** is listening carefully. He's looking for a contradiction to or inconsistency with something he already knows, but he hasn't heard one yet.  
 #### **Peter Cat** *(off-panel)*  
@@ -698,7 +698,7 @@ From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** tu
 **Jinx Bubastis** continues talking, moving around the table towards **Peter Cat**.  
 #### **Jinx Bubastis**  
 > I worked with Demonslayer, briefly.  
-> She was *infamous* for turning *scripted childrens' entertainment* into *mass casualty events.*  
+> She was *infamous* for turning *scripted children's entertainment* into *mass casualty events.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** stands near **Jake Lyon** and looks at him carefully.  
 #### **Jinx Bubastis**  
@@ -763,7 +763,7 @@ A close-up of **Jinx Bubastis** as she prepares to change the subject.
 > We've been out of the *entertainment sector* for a long time now.  
 > We've been *militarized.*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
-At the conference table, the **DHS Liason** looks up. She is beginning to realize where this is going.  
+At the conference table, the **DHS Liaison** looks up. She is beginning to realize where this is going.  
 #### **Peter Cat** *(off-panel)*  
 > I have been the victim of a *neutralization attempt.*  
 > *Jinx* has *burned her bridges* with *Corporate military intelligence.*  
@@ -790,7 +790,7 @@ Close-up on the **DHS Liaison**, who looks flabbergasted.
 > But you *know the proper channels.*  
 > *I* can help.  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
-**The Magister** looks up at **Peter Cat**, off-panel. The **DHS Liason** is having a quiet nervous breakdown.  
+**The Magister** looks up at **Peter Cat**, off-panel. The **DHS Liaison** is having a quiet nervous breakdown.  
 #### **The Magister**  
 > Please come out to the hallway.  
 > I'd like to discuss something.  

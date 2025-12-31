@@ -16,3 +16,4 @@
 {"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QBox *(Peter Cat, continued)\nLand so they can see their home world through the window.\\E$"}
 {"rule":"STARS_AND_STEPS","sentence":"^\\QIn the background, there is a terrible detonation as the two star ships collide.\\E$"}
 {"rule":"MD_BASEFORM","sentence":"^\\QThey taught things like \"Might does not make right\" or \"kindness is power.\"\\E$"}
+{"rule":"LITTLE_BIT","sentence":"^\\QJust a little bit real?\\E$"}
