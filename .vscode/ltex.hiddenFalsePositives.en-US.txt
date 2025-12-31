@@ -1,0 +1,18 @@
+{"rule":"MD_BASEFORM","sentence":"^\\QReyll religion is touched on with phrases like \"Might does not make right\" and \"Kindness is power.\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QA plethora of extremely kitschy replicas of Fe Arran tallow lamps with simulated flames like candles surround her.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe 2018 Ford Focus is inside the \"Civic Centre Parkade\" (sic) at 550 W 3rd St.\nPenny Skragg\nI pressed the forward assist, and it's like nothing happened.\\E$"}
+{"rule":"YOU_GOOD","sentence":"^\\QYou ready?\\E$"}
+{"rule":"THERE_RE_CONTRACTION_UNCOMMON","sentence":"^\\QI think there're bits of her head all over the place.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe ruins themselves look like Göbleki Tepe, with the artistic license that the ruins are on the surface.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNightstalker bridge: Imagine the bridge of the \"Enterprise\" from ST:TNG re-imagined by the artists who did early \"Judge Dredd\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhile I borrowed this from the Star Trek episode \"The Tholian Web\", I hope I changed it beyond recognition.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSee the area south of W 76th Street near the intersection with S 137th Ave -- that's not a McMansion, there's a couple of rectangular fields with plow marks.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QPointing out that the Nazis' \"Arier\" have more to do with Helene Blavatsky and esoteric teachings than history, linguistics, or archaeology is also on the menu.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QSF/X (Telephone)\nBOOOP BOOOP\nPanel 5 (1/3rd page width, 1/3rd page height):\nA TA-955 field telephone rings on a desk in a military tent.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QTA-955 field telephone\nDRRRRRT DRRRRRT\nBox (narration, lower right)\nEngagement Area: just outside Phoenicia, New York\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE_2","sentence":"^\\QHold still so the inertial compensators can do their thing.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QCamillo Skragg\nYou forgot my meds and I'm having a psychotic break.\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QI was never good at emoting, but I think I recognize abject terror when I see it.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QBox *(Peter Cat, continued)\nLand so they can see their home world through the window.\\E$"}
+{"rule":"STARS_AND_STEPS","sentence":"^\\QIn the background, there is a terrible detonation as the two star ships collide.\\E$"}
+{"rule":"MD_BASEFORM","sentence":"^\\QThey taught things like \"Might does not make right\" or \"kindness is power.\"\\E$"}

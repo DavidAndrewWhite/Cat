@@ -6,7 +6,7 @@
 ## Page 1
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-The laboratory/shop of the **Mark IX Corvette**. This walls are surrounded by a variety of tools; these include workbenches and a structure that looks like, and is, a glove-box and fume hood. In the foreground, the **Neural Interface** lurks in the middle of the room. Behind it, **Peter Cat** and **Camillo Skragg** stand on one side of the open door, and **Jinx Bubastis** and **Penny Skragg** stand on the other. **Jinx Bubastis** gestures towards the walls. **Penny Skragg** looks directly at the **Neural Interface**.  
+The laboratory/shop of the **Mark IX Corvette**. The walls are surrounded by a variety of tools; these include workbenches and a structure that looks like, and is, a glove-box and fume hood. In the foreground, the **Neural Interface** lurks in the middle of the room. Behind it, **Peter Cat** and **Camillo Skragg** stand on one side of the open door, and **Jinx Bubastis** and **Penny Skragg** stand on the other. **Jinx Bubastis** gestures towards the walls. **Penny Skragg** looks directly at the **Neural Interface**.  
 #### **Jinx Bubastis**  
 > So, this is the lab. I've been using it as storage.  
 #### **Penny Skragg**  
@@ -24,7 +24,7 @@ The laboratory/shop of the **Mark IX Corvette**. This walls are surrounded by a 
 > This thing can *expand your senses* enough to do that.  
 #### **Camillo Skragg**  
 > Or make you *trip balls*.
-#### **Peter Cat**  *(deadpan)*
+#### **Peter Cat** *(deadpan)*
 > Yes.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** leads the others out of the lab into the narrow hallway. She wants to change the subject quickly. **Peter Cat** follows closely behind. 
@@ -39,7 +39,7 @@ The laboratory/shop of the **Mark IX Corvette**. This walls are surrounded by a 
 #### **Peter Cat** 
 > I *know* you, Jinx.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Peter Cat** and **Jinx Bubastis** frame **Camillo Skragg** and **Penny Skragg** as the proceed down the hallway.  
+**Peter Cat** and **Jinx Bubastis** frame **Camillo Skragg** and **Penny Skragg** as they proceed down the hallway.  
 #### **Jinx Bubastis**  
 > I *paid good money* for this ship!  
 > Bought it off some *drug smugglers* who owed their *suppliers*.  
@@ -172,7 +172,7 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > I'm sorry, Victor.  
 > I was just trying to help.  
 ### Panel 5 *(Half page width, 1/3rd page height)*: 
-**Jolt** turns to the front view screen, towards the reader. She has a expression of disgust. 
+**Jolt** turns to the front view screen, towards the reader. She has an expression of disgust. 
 #### **Jolt**  
 > "an illegal underground installation providing provisions to criminals"?  
 > Sadistic little *nerds*!  

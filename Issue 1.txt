@@ -14,7 +14,7 @@ A small image of uniformed Fe Arran crew running down a hallway, inset into Pane
 ### Panel 1b *(Small square inset into Panel 1, lower right)*: 
 A small image of crewmen sitting on benches inside a cylindrical escape pod.
 ### Panel 2 *(Half page width, 1/3rd page height)*: 
-**Jinx Bubastis** lies on her belly in narrow maintenance duct illuminated with red light. She is typing on a incongruously "retro" keyboard attached to an access port on the wall, and looks into a glowing green display.
+**Jinx Bubastis** lies on her belly in narrow maintenance duct illuminated with red light. She is typing on an incongruously "retro" keyboard attached to an access port on the wall, and looks into a glowing green display.
 #### Box *(PA announcement, upper left of panel)*
 > SELF DESTRUCT INITIATED. PROCEED TO ESCAPE CAPSULES IMMEDIATELY. REPEAT--
 #### SF/X *(Mechanical keyboard noises)*
@@ -40,7 +40,7 @@ The point defense grid of the **Corporate frigate** opens fire on the escape pod
 **Jinx Bubastis** pushes open an access panel beneath the now abandoned bridge of the **Corporate frigate**. The bridge is illuminated with red light, and various warning lights blink frantically. 
 #### Box *(PA announcement, upper left of panel)*
 > SELF DESTRUCT INITIATED. PROCEED TO ESCAPE CAPSULES IMMEDIATELY. REPEAT--
-#### Box *(**Jinx Bubastis**,  , bottom of panel)*
+#### Box *(**Jinx Bubastis**, narration, bottom of panel)*
 > My name is Jinx Bubastis. Back in the day, I was a super-powered space pirate "heel" for the Corporation's *Fun Division*
 ### Panel 2 *(Half page width, 1/3rd page height)*: 
 **Jinx Bubastis** flips a switch on one of the rear panels of the bridge, which restores normal lighting and calms down the flashing warning lights. She is wearing a heavy environmental protection suit, vaguely resembling a space suit, but much lighter. She carries a matching helmet under her other arm.
@@ -60,7 +60,7 @@ The interior of a bunker on the surface of the planet. A uniformed Fe Arran **Co
 #### **Corporate crewman (1)**
 > No response from the ship, sir!
 ### Panel 5 *(Full page width, 1/3rd page height)*:
-**Corporate crewman (1)** looks over his shoulder at **Corporate crewman (2)**, a male Fe Arran in a maintenance jumpsuit caught in mid shrug, and **Corporate crew chief**, a frazzled-looking uniformed female Fe Arran holding a bottle of antacid tablets.
+**Corporate crewman (1)** looks over his shoulder at **Corporate crewman (2)**, a male Fe Arran in a maintenance jumpsuit caught in mid-shrug, and **Corporate crew chief**, a frazzled-looking uniformed female Fe Arran holding a bottle of antacid tablets.
 #### **Corporate crew chief (1)**
 > Alert the surface patrols.
 #### **Corporate crewman (1)**
@@ -92,7 +92,7 @@ The panel should look like a view through the Lancer's optic, with what may be a
 **Jinx Bubastis** taps the **Lancer** on the shoulder. The **Lancer** is trying to find the target he sighted earlier.
 #### **Jinx Bubastis** *(Electronically distorted*)
 > A little to your left.  
-### Panel 5 *(Half page width, 1/3 page height)*:
+### Panel 5 *(Half page width, 1/3rd page height)*:
 Back in the bunker, **Corporate crewman (1)** relays some unfortunate news from his communication station screen.
 #### **Corporate crewman (1)**
 > Sir? Contact lost with surface patrol.  
@@ -214,7 +214,7 @@ A close-up on **Jinx Bubastis**, scratching her chin as she starts speaking anim
 ### Panel 2 *(Half page width, 1/3rd page height)*:
 **Peter Cat** stands, looking down, arms crossed, as **Jinx Bubastis** continues.  
 #### **Jinx Bubastis** *(off-panel)*
-> -- if an navigator running the standard *Corporate software distro* sees the location coordinates correspond too closely to the middle of *Source*, it'll trigger a automated self-destruct sequence.  
+> -- if a navigator running the standard *Corporate software distro* sees the location coordinates correspond too closely to the middle of *Source*, it'll trigger an automated self-destruct sequence.  
 > Turned it into a pretty handy exploit.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:
 **Peter Cat** looks up and turns a little towards **Jinx Bubastis** with a slightly concerned look on his face.
@@ -253,7 +253,7 @@ A close up of **Peter Cat**, who is starting to smile a little.
 > DOOT DOOT DOOT dit dit dit DOOT DOOT DOOT
 #### **Peter Cat**
 > That's an archaic distress call, but they're modulating it directly on the carrier. Weird!
-### Panel 4 *(Full page width, 1/3 page height)*:
+### Panel 4 *(Full page width, 1/3rd page height)*:
 **Peter Cat** smiles warmly at **Jinx Bubastis**.
 #### **Jinx Bubastis**
 > I have a course laid in already.  
@@ -270,7 +270,7 @@ The arc of Earth, North America beneath clouds. The terminator -- the line betwe
 #### Box *(upper left)*
 > It's morning in America...
 #### Box *(lower right)*
-> ...At least in Buffalo.
+> ...at least in Buffalo.
 ### Panel 2 *(Full page width, 1/3rd page height)*:
 **The Magister** slurps from a cup of coffee. He is sitting at a bar. Behind the bar, the **Bartender** is cleaning a glass with a rag. Up to the right, a TV on an articulated arm shows a newscast, where an **Anchorwoman** speaks.
 #### **Bartender**
@@ -282,7 +282,7 @@ The arc of Earth, North America beneath clouds. The terminator -- the line betwe
 #### Mystical voice *(lower left, near **the Magister**, a word of power whispered into his ear from deep in **the World of Ash**)*
 > THEY ARE COMING.  
 > THEY WILL BE HERE SOON.  
-### Panel 3 *(1/3rd page width, 1/3 page height)*:
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:
 **The Magister** dials a number on a burner phone.
 #### **The Magister**
 > Could you mute the TV?
@@ -294,7 +294,7 @@ The arc of Earth, North America beneath clouds. The terminator -- the line betwe
 > BOOOP  
 > BOOOP
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:
-A  **TA-955 field telephone** rings on a desk in a military tent.
+A **TA-955 field telephone** rings on a desk in a military tent.
 #### **TA-955 field telephone**
 > DRRRRRT  
 > DRRRRRT
@@ -339,7 +339,7 @@ The **Colonel** snaps out of his altered state of consciousness and speaks into 
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
 A **Sergeant** commands several **Soldiers** to withdraw from the fortifications surrounding **Camillo Skragg's house**. In the sky behind and above him, something like a shooting star twinkles in the background; it is a **Mark IX corvette** leaving behind a trail of plasma as it decelerates and enters Earth's atmosphere. From this distance, only the meteor-like plasma trail is visible.  
-#### **Seargent** *(shouting)*
+#### **Sergeant** *(shouting)*
 > MOVE IT! MOVE IT!
 ### Panel 2 *(Half page width, 1/3rd page height)*:
 The cockpit of the **Mark IX corvette**. This is very much *not* the open space they were in on Pages 6 to 8. The space is a rounded cylinder. **Jinx Bubastis** sits at the front helm console, operating a control yoke that at least somewhat resembles flight controls from a real-world aircraft. Levers and displays on articulated arms are mounted on a ceiling console. Behind her are four stations facing consoles on the side of the capsule. **Peter Cat** sits directly behind her, bent over a sensor display. He has switched this over to a large glowing green screen and a retractable mechanical keyboard on a hinged mount, and is bent over the console to avoid bumping his head.
@@ -386,11 +386,11 @@ From behind the front door of **Camillo Skragg's house**, **Jinx Bubastis** pron
 **Camillo Skragg** and **Penny Skragg** are illuminated by the light from the open front door. They look at each other, unsure how to interpret what is happening.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:
 **Camillo Skragg** and **Penny Skragg** look at **Jinx Bubastis** (off-panel) -- it should look like they are looking at the reader. Their expressions are still puzzled.
-#### **Camillo Skrag**
+#### **Camillo Skragg**
 > Y-yes?  
 > That was, uh, me.  
 ### Panel 5 *(Full page width, 1/3rd page height)*: 
-**Camillo Skragg** and **Penny Skrag** run through the front yard towards the **Mark IX corvette** sitting on the highway. **Jinx Bubastis** calls after them.  
+**Camillo Skragg** and **Penny Skragg** run through the front yard towards the **Mark IX corvette** sitting on the highway. **Jinx Bubastis** calls after them.  
 #### **Jinx Bubastis**
 > Airlock's in the back!  
 > Watch your heads!  
@@ -421,7 +421,7 @@ Inside the ship, **Jinx Bubastis** closes the airlock behind her. **Camillo Skra
 > Hey! Jinx!   
 > I think they're launching something, we'd better get out of here!  
 ### Panel 4 *(Half page width, 1/3rd page height)*:
-Seen from the point of view of **Camillo Skragg** and **Penny Skrag**, **Peter Cat** turns towards the cowering humans, smiles, and waves. His toothy smile reveals a large mouth filled with sharp teeth, so his friendly gesture doesn't have the intended effect.  
+Seen from the point of view of **Camillo Skragg** and **Penny Skragg**, **Peter Cat** turns towards the cowering humans, smiles, and waves. His toothy smile reveals a large mouth filled with sharp teeth, so his friendly gesture doesn't have the intended effect.  
 #### **Peter Cat**
 > Hi there!  
 > We'll be with you in a bit.  
@@ -504,7 +504,7 @@ The **Mark IX corvette** sets down on the surface of the Moon.
 **Peter Cat** looks over his shoulder, as **Jinx Bubastis** continues.
 #### **Jinx Bubastis**
 > ...you're getting better at being *nice*.  
-#### **Peter Cat**  
+#### **Peter Cat**
 > Thanks.  
 ### Panel 3 **(Full page width, 1/3rd page height)*:  
 **Peter Cat** and **Jinx Bubastis** walk through the sliding door to the cargo bay. **Penny Skragg** seems to have recovered a little, and notices the door opening. **Camillo Skragg** is still sitting on the floor, holding his head. **Penny Skragg** is frowning, and has a look of aggressive skepticism on her face.  
@@ -539,7 +539,7 @@ Largely the same composition as Panel 3 -- **Penny Skragg** animatedly expresses
 #### **Penny Skragg**  
 > We're not *ANCIENT ALIENS*!  
 > We're two *assholes* from the *Catskills*!  
-#### **Camillo Skragg**  *(mumbling)*
+#### **Camillo Skragg** *(mumbling)*
 > Hey, both things can be true at once.  
 ### Panel 5 *(Half page width, 1/3rd page height)*  
 Close up on **Camillo Skragg**, who seems to be coming to terms with the situation.  
@@ -609,7 +609,7 @@ A close-up on **Camillo Skragg** as he talks.
 > All you end up with are *amnesiacs*.  
 > Spent a while in a *mental hospital* after that.  
 ### Panel 5 *(Full page width, 1/3rd page height)*:  
-A side view of the hallway in the crew hull leading past the door to the bridge. **Peter Cat** and **Jinx Bubastis** stand on one side of the door, and **Camillo Skragg** and **Penny Skragg** stand on the other. **Peter Cat** looks **Camillo Skragg** in the eye, and **Camillo Skragg** holds his head high. **Penny Skrag** touches him on the shoulder.  
+A side view of the hallway in the crew hull leading past the door to the bridge. **Peter Cat** and **Jinx Bubastis** stand on one side of the door, and **Camillo Skragg** and **Penny Skragg** stand on the other. **Peter Cat** looks **Camillo Skragg** in the eye, and **Camillo Skragg** holds his head high. **Penny Skragg** touches him on the shoulder.  
 #### **Peter Cat**  
 > That's awful.  
 > I'm so sorry.  
@@ -621,7 +621,7 @@ A side view of the hallway in the crew hull leading past the door to the bridge.
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 A view from inside the bridge. The door is open now. **Camillo Skragg** and **Penny Skragg** lean over to look through the doorway. On the other side, **Peter Cat** and **Jinx Bubastis** also lean the other direction to look through the doorway on the other side. No one speaks.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Jinx Bubastis** breaks the silence and points the stations out on the bridge. One station has some equipment  the Reyll navigation computer -- held in place with duct tape. 
+**Jinx Bubastis** breaks the silence and points the stations out on the bridge. One station has some equipment the Reyll navigation computer -- held in place with duct tape. 
 #### **Jinx Bubastis**  
 > Well. The helm's in front, and the side panels can be configured for communications, gunnery, admin, or analysis.  
 #### **Penny Skragg**
@@ -639,7 +639,7 @@ In the hallway, **Camillo Skragg** asks **Peter Cat** a question.
 #### **Peter Cat**  
 > Yeah, we call them that.  
 #### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Peter Cat** and **Camillo Skragg** walk together down the hallway, following **Jinx Bubastis** and **Penny Skrag**.  
+**Peter Cat** and **Camillo Skragg** walk together down the hallway, following **Jinx Bubastis** and **Penny Skragg**.  
 #### **Peter Cat** 
 > But it wouldn't surprise me if it's because of that movie.   
 
