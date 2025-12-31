@@ -19,3 +19,4 @@
 {"rule":"LITTLE_BIT","sentence":"^\\QJust a little bit real?\\E$"}
 {"rule":"SENTENCE_WHITESPACE","sentence":"^\\QI don't know what I can and can't tell them.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBlack Sabbath Niner Niner X-Ray.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QCorporate crewman (1)\nMy contract says I get notice if Fun Division sends in some freak.\\E$"}
