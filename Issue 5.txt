@@ -5,23 +5,23 @@
 
 ## Page 1  
 
-### Panel 1 *(Full page width, 1/3rd page height)*  
+### Panel 1 *(Full page width, 1/3rd page height)*:  
 The **Black Sabbath** on landing approach over Main St in Phoenecia, NY. The area is not heavily populated, but the center of town has a number of small markets and bar and grills. 
 #### **Camillo Skragg** *(from inside crew hull)*  
 > All right, just a bit further out of the middle of town.  
 > There's a spot *behind* the house, see if you can *set down there.*  
-### Panel 2 *(Half page width, 1/3rd page height)*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
 The **Black Sabbath** has landed in the backyard of **Camillo Skragg's** house. **Camillo Skragg** and **Penny Skragg** lead **Jinx Bubastsis** and **Peter Cat** to the back door of the house.
 #### **Penny Skragg**  
 > It looks like there wasn't very much damage from when the troops pulled out.  
 #### **Peter Cat**  
 > That's good.  
-### Panel 3 *(Half page width, 1/3rd page height)*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
 The kitchen and pantry of **Camillo Skragg's** house. **Peter Cat** and **Jinx Bubastis** look around with some curiosity. **Camillo Skragg** and **Penny Skragg** follow close behind.  
 #### **Camillo Skragg**  
 > On the *top floor* we have some *attic space.*  
 > I was thinking you guys could set up there.  
-### Panel 4 *(Full page width, 1/3rd page height)*  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
 As would be expected from attic space, there is a staircase and railing leading down roughly in the middle of the room. One eave has turned into a small but useful bathroom; otherwise, the space has been left open. Several round windows let in light from the other eaves. A double bed was moved up here into another eave a while ago -- neither Camillo nor Penny needed it -- and there are a handful of surplus wardrobes and dressers. **Peter Cat** and **Jinx Bubastis** look around.  
 #### **Peter Cat**  
 > Looks nice.  
@@ -30,17 +30,52 @@ As would be expected from attic space, there is a staircase and railing leading 
 
 ## Page 2  
 
-### Panel 1 *(Full page width, 1/3rd page height)*  
+### Panel 1 *(Full page width, 1/3rd page height)*:  
 A view very much like Page 1, Panel 1; **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **Penny Skragg** walk in to "downtown" Phoenecia, NY. 
 #### Box *(upper left, narration)*  
 > *Phoenecia* is not a large town. 
-### Panel 2 *(1/3rd page width, 1/3rd page height)*  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 **Jinx Bubastis** walks out of a clothing store, followed by **Peter Cat**, who is carrying a large stack of bags filled with clothing and towels for them both.
-### Panel 3 *(1/3rd page width, 1/3rd page height)*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
 **Penny Skragg** introduces **Peter Cat** to a shopkeeper.  
-### Panel 4 *(1/3rd page width, 1/3rd page height)*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 **Jinx Bubastis** leaves a bookstore with a pile of basic reference material -- things like atlases, almanacs, and the like -- followed closely by **Camillo Skragg**.
-### Panel 5 *(Half page width, 1/3rd page height)*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
 The exterior of the Steakhouse.  
-### Panel 6 *(Half page width, 1/3rd page height)*  
+#### **Peter Cat** *(from interior)*  
+> On the one hand, I'm grateful that we aren't getting a ton of attention.  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
 The interior of the Steakhouse. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** sit at a long table. They have just finished a large meal, and are talking to the **Waitress**.  
+#### **Peter Cat**  
+> On the other hand, it bothers me that it's being broken up into *three unrelated stories* that don't make any sense.  
+#### **Waitress**  
+> I dunno, that's kinda why I don't bother trying to follow the news.  
+
+## Page 3
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+A **young man** and a **young woman** seem to simply appear at one end of the table. **Peter Cat** and the others sit up and look at the strangers; the **Waitress** is frozen with surprise.  
+#### **young man**  
+> It is good we have found you.  
+#### **young woman**  
+> We bear an important message.  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+The **young man** kneels before the **young woman**, who places a gauzy pale yellow hood or veil over his head.  
+#### **young woman**  *(to the **young man**)*  
+> Are you ready?  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+The **young man** bows his head deeply, or droops. The shape of his skull seems to have changed; the forehead is large, round and protrudes outwards. The **Waitress** looks on in horror.  
+#### **Waitress**  
+> Is that some kind of mask?  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+The **young man** no longer looks like a young man -- he has become **The King in Yellow**. As he lifts his head and gets to his feet, he has the hunched posture of an ancient old man. Along with his over-sized forehead is a large, straight nose. He grasps the edge of the table with an ancient, frail hand.  
+#### **The King in Yellow**  
+> I wear no mask.  
+### Panel 5 *(Full page width, 1/3rd page height)*:  
+**The King in Yellow** stands next to the **young woman**, who appears to be in a trance. He stares down **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg**, while the **Waitress** stands there with a deer-in-the-headlights expression.  
+#### **The King in Yellow**  
+> Fear not.  
+> I bear an *invitation.*  
+> You must *come to Carcosa.*  
+> You will be my guests.  
+
