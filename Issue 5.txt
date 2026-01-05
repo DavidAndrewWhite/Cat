@@ -35,11 +35,17 @@ A view very much like Page 1, Panel 1; **Peter Cat**, **Camillo Skragg**, **Jinx
 #### Box *(upper left, narration)*  
 > *Phoenecia* is not a large town. 
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
-**Jinx Bubastis** walks out of a clothing store, followed by **Peter Cat**, who is carrying a large stack of bags filled with clothing and towels for them both.
+**Jinx Bubastis** walks out of a clothing store, followed by **Peter Cat**, who is carrying a large stack of bags filled with clothing and towels for them both.  
+#### Box *(lower left, narration)*  
+> Still, Peter and Jinx need *everything.*  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
 **Penny Skragg** introduces **Peter Cat** to a shopkeeper.  
+#### Box *(upper right, narration)*  
+> *Introductions* need to be made...  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
-**Jinx Bubastis** leaves a bookstore with a pile of basic reference material -- things like atlases, almanacs, and the like -- followed closely by **Camillo Skragg**.
+**Jinx Bubastis** leaves a bookstore with a pile of basic reference material -- things like atlases, almanacs, and the like -- followed closely by **Camillo Skragg**.  
+#### Box *(lower right, narration)*  
+> ...and basic *information* gathered.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 The exterior of the Steakhouse.  
 #### **Peter Cat** *(from interior)*  
@@ -59,6 +65,8 @@ A **young man** and a **young woman** seem to simply appear at one end of the ta
 > It is good we have found you.  
 #### **young woman**  
 > We bear an important message.  
+#### **Peter Cat**  
+> We're *listening.*  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 The **young man** kneels before the **young woman**, who places a gauzy pale yellow hood or veil over his head.  
 #### **young woman**  *(to the **young man**)*  
@@ -78,4 +86,6 @@ The **young man** no longer looks like a young man -- he has become **The King i
 > I bear an *invitation.*  
 > You must *come to Carcosa.*  
 > You will be my guests.  
+
+## Page 4  
 
