@@ -61,15 +61,15 @@ The interior of the Steakhouse. **Peter Cat**, **Jinx Bubastis**, **Camillo Skra
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
 A **young man** and a **young woman** seem to simply appear at one end of the table. **Peter Cat** and the others sit up and look at the strangers; the **Waitress** is frozen with surprise.  
-#### **young man**  
+#### **Young man**  
 > It is good we have found you.  
-#### **young woman**  
+#### **Young woman**  
 > We bear an important message.  
 #### **Peter Cat**  
 > We're *listening.*  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 The **young man** kneels before the **young woman**, who places a gauzy pale yellow hood or veil over his head.  
-#### **young woman**  *(to the **young man**)*  
+#### **Young woman** *(to the **young man**)*  
 > Are you ready?  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
 The **young man** bows his head deeply, or droops. The shape of his skull seems to have changed; the forehead is large, round and protrudes outwards. The **Waitress** looks on in horror.  
@@ -88,4 +88,35 @@ The **young man** no longer looks like a young man -- he has become **The King i
 > You will be my guests.  
 
 ## Page 4  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** looks at **The King in Yellow** evenly.  
+#### **Peter Cat**  
+> Who *are* you?  
+#### **The King in Yellow**  
+> I am called "The King in Yellow."  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**The King in Yellow** pulls down one of his sleeves, revealing a tattoo of **the Yellow Sign**.  
+#### **The King in Yellow**  
+> Some of my subjects *volunteer* to bear my mark...  
+> ...to let me speak through them.  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+A full view of the table. **The King in Yellow** points to **Jinx Bubastis**. **Peter Cat** observes **The King in Yellow** carefully. **Camillo Skragg** leans back in his chair and listens carefully. **Penny Skragg** leans on the table with her elbow.  
+#### **Jinx Bubastis**  
+> What do you *need* from us?  
+#### **The King in Yellow**  
+> For *you*, I have a *gift.*  
+#### **Camillo Skragg**  
+> What about us?  
+#### **The King in Yellow**  
+> There are *things* I can show you in *Carcosa.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**The King in Yellow** gestures towards the **young woman**.  
+#### **The King in Yellow**  
+> *She* has a *sealed envelope* with all the details.  
+> We will speak again.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+The **young man** snatches the veil from his head and gasps for breath. He seems to be unharmed by his transformation. The **young woman** fetches a large Manila envelope sealed with a wax impression of **the Yellow Sign**.
+
+## Page 5
 
