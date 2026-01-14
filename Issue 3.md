@@ -76,7 +76,7 @@ The escape pods' destination becomes clearer -- somewhere in the middle of the U
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 The **Corporate escape pod** makes a controlled approach to an open area in the huge parking lot surrounding the Tulsa Expo Center.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
-The **Reyll launch** skids to a stop in a cornfield on a farm just outside of the city, shedding outer panels.  
+The **Reyll launch** skids to a stop in a cornfield on a farm just outside the city, shedding outer panels.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 The Tulsa police have arrived and surrounded the landed **Corporate escape pod**. **Honor Guard** approach them, smiling and waving. The human police seem to recognize **Honor Guard** as fellow law enforcement.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
@@ -519,7 +519,7 @@ The depths of the Mojave Desert, an uninhabited area of Nevada far from prying e
 > *I* like it.  
 #### **Peter Cat**  
 > All right.  
-> Jinx can do really good illusions, but I don't want to *rely* on that.  
+> Jinx can do excellent illusions, but I don't want to *rely* on that.  
 > I can *fuse* a *glass dome* and move a *sand dune* over it.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** look over their shoulders as an unexpected voice comes from behind.  
@@ -617,7 +617,7 @@ The conference room in the **Crisis Center**. The table is strewn with papers, t
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** has walked over to the table, and looks **Jake Lyon** in the eye. It's not confrontational -- or Peter doesn't intend it to be -- it's more confessional.  
 #### **Peter Cat**  
-> The *device* Victor Bravo used was a *enhanced radiation low-yield tactical fusion bomb.*  
+> The *device* Victor Bravo used was an *enhanced radiation low-yield tactical fusion bomb.*  
 > It fuses *neutron-rich* isotopes, so *thermal* output is limited.  
 > Most of it is *neutron flux.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
