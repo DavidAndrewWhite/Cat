@@ -113,7 +113,7 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > We're doing another take!  
 ### Panel 1b *(small square insert in Panel 1, right)*:  
 **Thresher** leans with both hands on the front-facing low rear console. Small image. 
-#### *Thresher**  
+#### **Thresher**  
 > Incoming communication from Strategic Coordination!  
 #### **Victor Bravo** *(off panel, from below and to the left)*  
 > On screen, Thresher!  
