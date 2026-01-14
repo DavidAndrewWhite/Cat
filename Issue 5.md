@@ -169,8 +169,11 @@ The **young woman** and **young man** prepare to leave.
 ## Page 6  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-**Peter Cat** and **Jinx Bubastis** compare their passport photos as they stand in line with **Penny Skragg** and **Camillo Skragg** at the check-in for **Air Hyades**, Carcosa's flag airline. The **Air Hyades** logo is 1 large black star, 3 smaller black stars at 10 o'clock, 1 o'clock, and 2 o'clock, and 1 final small black star at 11 o'clock.  
+**Peter Cat** and **Jinx Bubastis** compare their passport photos as they stand in line with **Penny Skragg** and **Camillo Skragg** at the check-in for **Air Hyades**, Carcosa's flag airline. The **Air Hyades** logo is 1 large black star, 3 smaller black stars at 10 o'clock, 1 o'clock, and 2 o'clock, and 1 final small black star at 11 o'clock. The stars are trimmed with yellow; the background is silver.  
 #### **Peter Cat**  
 > I think *my* picture's *worse.*  
 #### **Jinx Bubastis**  
 > At least you're *smiling.*  
+
+#### Title  
+> A Mission to Carcosa  
