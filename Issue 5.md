@@ -174,6 +174,29 @@ The **young woman** and **young man** prepare to leave.
 > I think *my* picture's *worse.*  
 #### **Jinx Bubastis**  
 > At least you're *smiling.*  
-
+#### **Penny Skragg**  
+> Hey, guys!  
+> Looks like we're *boarding.*  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+The interior of the **Air Hyades** jet, a relatively small jetliner with a single aisle with a pair of seats on each side. **Penny Skragg** and **Camillo Skragg** sit on one side of the aisle, and **Peter Cat** and **Jinx Bubastis** sit on the other.  
+#### **Penny Skragg**  
+> Huh, there's no *text* on the *safety card.*  
+> It's just *pictograms.*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+**Camillo Skragg** talks to **Peter Cat** on the other side of the aisle.  
+#### **Camillo Skragg**  
+> So, what do you think about *air travel?*  
+#### **Peter Cat**  
+> It's OK. I was *curious.*  
+> This might be *less cramped* than our ship.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+**Jinx Bubastis** looks out the airplane window.  
+#### **Jinx Bubastis**  
+> I think we'll be *landing* soon.  
+### Panel 5 *(Full page width, 1/3rd page height)*:  
+The **Air Hyades** airliner approaches the city of **Hali**. While the center of town has a few tall skyscrapers, most of the rest of the town are low buildings made of marble. Towards the lake shore, there are broad thoroughfares and plazas. A few towers mark the skyline in these residential areas.  
 #### Title  
 > A Mission to Carcosa  
+
+## Page 7  
+
