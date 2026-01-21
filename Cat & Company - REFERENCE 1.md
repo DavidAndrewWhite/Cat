@@ -49,11 +49,69 @@ A **2018 Ford Fusion** should be the basis for the car driven by Camillo Skragg 
 
 ### Characters
 
+#### Main Characters
+
+- **Peter Cat**  
+  - **Species**: **Fe Arran** (Cloned Series 350 Engineer).  
+  - **Role**: **Walking weapon** (energy/matter manipulation); **ex-Honor Guard** ("face" team).  
+  - **Abilities**: Energy and matter manipulation coming from an ability to subvert entropy, like the **Maxwell's demon** though experiment.  
+  - **Conflict**: PTSD from past as weaponized paranormal. Aspires to be a gentle, amiable, and benevolent superhero, but cannot escape his talent for cold, clinical violence.  
+  - **Personality**: Gentle, goofy humor; **unassuming despite terrifying power**.  Can change in an instant into a walking weapon of mass destruction.  
+
+- **Jinx Bubastis**  
+  - **Species**: **Fe Arran** (demon-fused).  
+  - **Role**: **Former M-Seven member** ("heel" team); now seeks **meaning in chaos**.  
+  - **Abilities**: Demonic strength, teleportation, mind-reading, magic.  
+  - **Conflict**: Betrayed M-Seven after realizing a terrorist attack would kill millions. More generally, rejects nihilism in favor of meaning, frustrated with being a simple villain.  
+  - **Dynamic**: **Calvin & Hobbes-esque** with Peter (abrasive vs. gentle).  
+
+- **Camillo Skragg**  
+  - **Species**: **Human** (ex-engineer).  
+  - **Role**: **Mental patient** building alien power armor to reclaim identity.  
+  - **Background**: Mind-damaged by **secret human research into Corporate tech**, subjected by human authorities to a crude form of mind-wipe along the lines of MKULTRA.  
+  - **Personality**: Introverted, obsessive, **loves music** (like Penny).  
+
+- **Penny Skragg**  
+  - **Species**: **Human** (Camillo’s younger cousin).  
+  - **Role**: **Slacker** with reality-warping powers (triggered by "pretending" to be a martial artist).  
+  - **Personality**: **Free spirit**, loves bad movies, **absurdist humor**.  
+
+- **Honor Guard**:
+  - **Role**: "face" team, in kayfabe **space police**.
+  - **Current roster**:
+    - **Victor Bravo**: a young male Fe Arran super-soldier equipped with the Corporation's latest and greatest military gear. Recently installed as team leader.  
+	  - **Jolt**: an older female Fe Arran. Her body produces a very strong electrical charge which is channeled by a containment bodysuit. Veteran member of the team, former team leader.  
+	  - **Thresher**: a male Fe Arran cyborg with a full-body prosthesis optimized for zero gravity melee combat and boarding actions. Can shoot tethers, arms feature retractable chainsaws. Wears a face mask that somewhat resembles a hockey goalie's face mask.  
+	  - **The Eye**: a young, perky female Fe Arran. Born without eyes, her eye sockets are covered with mirrored lenses. She can see thanks to a magical amulet fused to the top of her sternum that gives her 360° vision and limited precognition. Acrobatic, fights with flashbang grenades and diamond-bladed laser knives. Her precognitive powers result in her often stating the blindingly obvious.  
+  
+- **M-Seven**:
+  - **Role**: "heel" team of kayfabe **terrorists**, a propaganda caricature of the late-stage Reyll theocracy.  
+   - **Current roster**:
+     - **Demonslayer**: a Reyll witch/priestess, exiled for the Reyll Theocracy for sadism and anti-social tendencies. Long time leader of M-Seven, which she runs like an abusive cult. A cruel caricature of Reyll beliefs and practices, exploited for Corporate propaganda. **Number One** of M-Seven.  
+     - **Bearcat**: a Fe Arran analog of a gorilla, uplifted by Demonslayer to a high level of intelligence. Slavishly loyal to Demonslayer. **Number Two** of M-Seven.  
+     - **Killotron**: an advanced Reyll android resembling a mechanical Fe Arran. A glowing crystal on his chest allegedly contains "the soul of a poet". Also slavishly loyal to Demonslayer. **Number Three* of M-Seven.
+     - **Champion**: a large, muscular male Fe Arran. His left eye has been ruined, and he wears an eypatch. Flying brick with a nuclear fission metabolism, used to be a well-regarded superhero on a colony that failed to free itself from Corporate control (**Magrige**). He was hoping playing an evil Superman would be more fun than this. Despite suffering from severe burn-out, still has enough values to find Demonslayer loathsome, and enough power to stand up to her. **Number Six** of M-Seven.
+
+- **The Magister**  
+  - **Species**: **human**, but immortal and possessing eldritch powers. Comparable to (and may be the same person as) the **Comte de Saint Germain**.  
+  - **Role**: **Human scam artist** manipulating **Earth, the Corporation, and the Space Bankers**.  
+  - **Goal**: Merge Earth with Corporation to build **interstellar empire**.  
+  - **Method**: Uses **geomantic powers** and **Akashic Records** (Lemurian psychic network).  
+  - **Conflict**: Views **Cat & Company** as tools to **eliminate rivals** (e.g., direct attack on King in Yellow).  
+  - **Personality**: A glib fast-talker with dark charisma.  
+
+- **The Ready Men**
+  - **Role**: superpowered operatives working directly for **the Magister**.  
+  - **Current roster** *(as seen in these scripts)*:
+    - **Image**: apparently, a woman of indeterminate age. Insubstantial, can become invisible, and teleport. Carries a pair of nickel-plated Colt 1911 pistols. A ghost, has been dead for years. With some help from Sleep, can enter the Necrosphere.
+
+#### Side Characters
+
 - The **Mayor of Tulsa** should vaguely resemble the current incumbent at the time of writing (2025), Monroe Nichols. For historical and story reasons, there are good reasons to make him an African-American man. This should *not* be a caricature of the real-world politician, though. For clarity, and to clue in the LLM I am using for first-pass redaction, he is a human being.  
 
 - The **Chief of Police** isn't going to get a lot of development. Considering the awful stuff that's going to happen, he too shouldn't be a direct adaptation of any real Tulsa official. For clarity, and to clue in the LLM I am using for first-pass redaction, he is a human being.  
 
-- The **Old Farmer** and the **Old Farmer's Wife** are two very religious residents of a farm in Tulsa's exurbs, maybe 15 km WSW from Downtown. See the area south of W 76th Street near the intersection with S 137th Ave -- that's not a McMansion, there's a couple of rectangular fields with plow marks. They are old. They are scared. For clarity, and to clue in the LLM I am using for first-pass redaction, they are both human beings.  
+- The **Old Farmer** and the **Old Farmer's Wife** are two very religious residents of a farm in Tulsa's exurbs, maybe 15 km WSW from Downtown. See the area south of W 76th Street near the intersection with S 137th Ave -- that's not a McMansion, there are a couple of rectangular fields with plow marks. They are old. They are scared. For clarity, and to clue in the LLM I am using for first-pass redaction, they are both human beings.  
 
 - Any similarity between **Jake Lyon** and the protagonist of a number of Tom Clancy books is purely intentional. He has big protagonist energy, so does most of the talking. A superficially nerdy human being with Hollywood good looks behind his thick glasses.  
 
