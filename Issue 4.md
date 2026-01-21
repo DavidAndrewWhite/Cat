@@ -43,7 +43,7 @@ The **2018 Ford Focus** rolls down the spiral driveway with **Camillo Skragg** b
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 The engine of the **2018 Ford Focus** idles as **Penny Skragg** moves to sit on the passenger-side door, holding the carbine; she will be firing over the roof of the car.  
 #### Box *(**General of the Oklahoma National Guard**, *not visible*)*  
-> "Against my *better judgement*, we provided the Skraggs a *carbine* and some *ammunition.*"  
+> "Against my *better judgment*, we provided the Skraggs a *carbine* and some *ammunition.*"  
 > "Evidently they want their *pound of flesh.*"  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 From left to right, **The Eye**, **Thresher**, and **Jolt** stand in front of the "Page Belcher Federal Building" entrance at 333 W 4th St. 
@@ -199,7 +199,7 @@ The bottom of the **Corporate escape pod**. **Victor Bravo** has survived a tran
 #### Box (**Peter Cat**, *not visible*)  
 > *Jinx* is right.    
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
-Unfortunately, the fall and impact were not lethal. **Victor Bravo** crawls on to the shore.  
+Unfortunately, the fall and impact were not lethal. **Victor Bravo** crawls onto the shore.  
 #### Box (**Peter Cat**, *not visible*)  
 > *Victor Bravo* is still a *threat.*  
 ### Panel 5 *(Full page width, 1/3rd page height)*:  
@@ -577,7 +577,7 @@ The **Radio operator** talks to **Jinx Bubastis**, and offers her an inexpensive
 ### Panel 1 *(Half page width. 1/3rd page height)*:  
 The cockpit of the **Black Sabbath**. **Jinx Bubastis** operates an inexpensive aircraft radio (similar to a Garmin 115) that has been duct-taped to one of the consoles.  
 ### **Jinx Bubastis**  
-> LAX Tower, Black Sabbath Niner Niner X-Ray, At two thousand seven hundred. request clearance en route to Radio Hill.  
+> LAX Tower, Black Sabbath Niner Niner X-Ray, At two thousand seven hundred, request clearance en route to Radio Hill.  
 #### **LAX ATC** *(from radio)*  
 > Black Sabbath Niner Niner X-Ray, Maintain two thousand seven hundred, 
 ### **Jinx Bubastis**  

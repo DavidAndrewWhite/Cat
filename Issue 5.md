@@ -195,8 +195,19 @@ The interior of the **Air Hyades** jet, a relatively small jetliner with a singl
 > I think we'll be *landing* soon.  
 ### Panel 5 *(Full page width, 1/3rd page height)*:  
 The **Air Hyades** airliner approaches the city of **Hali**. While the center of town has a few tall skyscrapers, most of the rest of the town are low buildings made of marble. Towards the lake shore, there are broad thoroughfares and plazas. A few towers mark the skyline in these residential areas.  
+#### Announcement *(Public Address system)*  
+> We will be landing shortly.  
+> Visitors are reminded that the standard *tourist visa* does *not* permit leaving Hali city limits.  
 #### Title  
 > A Mission to Carcosa  
 
 ## Page 7  
 
+### Panel 1 (Half page width, 1/3rd page height):  
+**Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** have picked up their bags at **Hali International Airport** and are headed to the train to **Hali**.  
+#### **Peter Cat**  
+> So, *this* way?  
+#### **Penny Skragg**  
+> Yeah, I'm guessing that symbol means "towards the center of town".  
+### Panel 2 (Half page width, 1/3rd page height):  
+**Jinx Bubastis** looks out the window of the train. 
