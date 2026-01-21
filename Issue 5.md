@@ -53,7 +53,7 @@ The exterior of the Steakhouse.
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 The interior of the Steakhouse. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** sit at a long table. They have just finished a large meal, and are talking to the **Waitress**.  
 #### **Peter Cat**  
-> On the other hand, it bothers me that it's being broken up into *three unrelated stories* that don't make any sense.  
+> On the other hand, it bothers me that *everything we've done* has been broken up into *three unrelated stories* that don't make any sense.  
 #### **Waitress**  
 > I dunno, that's kinda why I don't bother trying to follow the news.  
 
@@ -145,7 +145,7 @@ The **young man** snatches the veil from his head and gasps for breath. He seems
 A close-up on the **young woman**.  
 #### **Young woman**  
 > We have some *religious beliefs* about the *written word.*  
-> Every village is built around a *library tower*, where we keep them *safe.*  
+> Every village is built around a *library tower*, where we keep our writings *safe.*  
 > Books, ledgers, personal journals...  
 > ...are *all* considered *sacred* and worthy of protection.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
