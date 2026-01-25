@@ -559,7 +559,7 @@ The **Radio operator** talks to **Jinx Bubastis**, and offers her an inexpensive
 ### Panel 3 *(Half page width, 1/3rd page height)*  
 **Camillo Skragg** seems palpably relieved. He hangs up.
 #### **Camillo Skragg**  
-> Thanks! You're a real life-saver.  
+> Thanks, you're a real life-saver.  
 ### Panel 4 *(Half page width, 1/3rd page height)*  
 **Camillo Skragg** downloads the image onto his smartphone.  
 #### **Camillo Skragg** *(neurocomm)*  
