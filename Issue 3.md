@@ -17,7 +17,7 @@ A close-up on **Demonslayer** mid-gloat.
 > The *Nightstalker* will be *upon us* in *seconds--*  
 > --but I had a *very good reason* to select *this* destination.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
-The **Nightstalker** appears. The PoV has shifted it is clear that this is in Earth orbit.  
+The **Nightstalker** appears. The PoV has shifted; it is clear that this is in Earth orbit.  
 #### Box *(**Demonslayer**)*  
 > This *accursed place* is the *closest* they have to *hallowed ground.*  
 > It is *forbidden* to them.  
@@ -58,7 +58,7 @@ The sanctum of the **Bastard Sun**. **Champion** stands next to **Demonslayer** 
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Killotron** recites some verse and **Bearcat** gets to the point.  
 #### **Killotron**  
-> The sabers close, her triumph a blade—  
+> The sabers close, her triumph a blade--  
 > We flee as stars fracture the void.  
 > Escape pods scream through silent skies,  
 > A second chance to fight another day.  
@@ -90,7 +90,7 @@ The entrance to the Tulsa Sheriff's Office (W 5th St., facing SE.) The **Mayor o
 > So you're saying they're *cops*?  
 > From *outer space?*  
 #### **Chief of Police**  
-> Yessir.  
+> Yes, sir.  
 > *Cat people*.  
 #### **Mayor of Tulsa**  
 > Uh-huh.  
@@ -236,7 +236,7 @@ The **Mayor of Tulsa** smiles tensely.
 **Demonslayer** tells a truth that's hard for her to accept, but she needs to say it.  
 #### **Demonslayer**  
 > The Corporation *defeated* us.  
-> They're not building *camps*  
+> They're not building *camps,*  
 > but I don't think they *need to.*  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Demonslayer** looks at **Champion** with a cold matter-of-fact stare. **Champion** isn't sure what to say. He wasn't expecting honesty from her.  
@@ -247,9 +247,9 @@ The **Mayor of Tulsa** smiles tensely.
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Killotron** interrupts, pointing to the TV still running in the living room. He speaks directly to **Champion**.  
 #### **Killotron**  
-> Your voice cuts through the static—  
+> Your voice cuts through the static--  
 > Her truth burns hotter than your doubt.  
-> A signal hums—a whisper in the dark—  
+> A signal hums -- a whisper in the dark--  
 > We'll meet our prey where shadows bark.  
 
 ## Page 8  
@@ -259,7 +259,7 @@ The TV in the living room of the **Old Farmer's** and **Old Farmer's Wife's** fa
 #### **Newscaster** *(TV audio)*  
 > Once again, *FIRST CONTACT* has happened here, in *Tulsa!*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Demonslayer** marches through the front doorway of the farmhouse, gesturing for the others to follow. Remnants of the front door hang from the hinges. **Killotron** and **Bearcat** follow behind. 
+**Demonslayer** marches through the front doorway of the farmhouse, gesturing for the others to follow. Remnants of the front door hang from the hinges. **Killotron** and **Bearcat** follow behind.  
 #### **Demonslayer**  
 > Come!  
 > We have work to do!  
@@ -456,7 +456,7 @@ A floating TV image displayed on the "porn hub." A female newscaster holds up 2 
 #### **Jinx Bubastis** *(to floor)*  
 > No.  
 #### **Newscaster** *(from floating TV image, off-panel)*  
-> Codenamed "Victor Bravo", he is *seven feet tall, feline, and heavily armed and dangerous*.  
+> Code-named "Victor Bravo", he is *seven feet tall, feline, and heavily armed and dangerous*.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** gets to her feet, muttering to herself.  
 #### **Jinx Bubastis** *(muttering to herself)*  
@@ -490,8 +490,6 @@ A floating TV image displayed on the "porn hub." A female newscaster holds up 2 
 > If you're looking for *forgiveness,* you're asking the *wrong people.*  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** stands next to **Camillo Skragg**, and also looks at **Jinx Bubastis**.  
-#### **Camillo Skragg**  
-> If you're looking for *forgiveness,* you're asking the *wrong people.*  
 #### **Penny Skragg**  
 > I'm pretty sure you were *here* and not in *Tulsa.*  
 > You didn't *pull the trigger.*  
@@ -716,7 +714,7 @@ From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** tu
 #### **Jinx Bubastis**  
 > Do you have a better image of the *farmhouse crash site?*  
 > Thank you.  
-> I'm *familiar* with this type of craft. It is a *poor choice* for planetfall.  
+> I'm *familiar* with this type of craft. It is a *poor choice* for planet-fall.  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 **Jinx Bubastis** turns away from the monitor and heads back towards **Jake Lyon**.    
 #### **Jinx Bubastis**  
@@ -728,7 +726,7 @@ From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** tu
 > This means--  
 > --*Demonslayer has access to antimatter.*  
 #### **Jake Lyon**  
-> ...my God,,, 
+> ...my God... 
 ### Panel 7 *(Half page width, 1/3rd page height)*:  
 A close-up of **Jinx Bubastis** as she prepares to change the subject.  
 #### **Jinx Bubastis**  

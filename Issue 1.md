@@ -74,9 +74,9 @@ The interior of a bunker on the surface of the planet. A uniformed Fe Arran **Co
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
 A fire team of four Fe Arrans in powered armor on the surface of LV-4209. The ground is covered with bubbling water, and as the bubbles burst, they release tendrils of organic residue that stain the fire team's armor. Sight is limited in range and obscured by smoky fog. The Lancer (team leader) is using a device resembling a pair of binoculars to try to make out distant features or potential targets. The other three go to a kneeling posture with their bulky rifles at their shoulders.
-#### **Lancer** *(electronically distorted)*
+#### **Lancer** *(Electronically distorted)*
 > Possible contact, sending coordinates.
-#### **Lancer's communicator** *(off-panel, electronically distorted)*
+#### **Corporate crew chief (1)** *(over the Lancer's radio, electronically distorted)*
 > Roger, engage at your discretion.
 ### Panel 2 *(Half page width, 1/3rd page height)*:
 The panel should look like a view through the Lancer's optic, with what may be a figure marked with a selection bounding box.
@@ -125,8 +125,6 @@ Inside the bunker control room. **Corporate crewman (1)** has turned away from t
 > Let's see what those bastards did to you.
 
 ## Page 5
-
-*(Note: this one is dialogue-heavy, leave enough space for speech balloons if we end up doing it "as-is". The visual through-line is that Panels 1 and 2 are Peter and Jinx, Panels 3 and 4 are just before and just after they arrive in the bunker control room, Panel 5 clears up the spatial relationships from Panel 4, and Panel 6 is the punchline. I'd like to keep the dialogue, but I'm amenable to a better composition for this page.)*
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
 **Jinx Bubastis** touches **Peter Cat's** temples as she whispers into his ear.
@@ -193,7 +191,7 @@ Now **Jinx Bubastis** is in the foreground. She speaks to the ship's computer. *
 #### **Peter Cat**
 > Don't call the ship computer that, it'll get mad and try to space us.  
 ### Panel 4 *(Full page width, 1/3rd page height)*:
-**Jinx Bubastis** and **Peter Cat** turn to face a large holographic projection in the middle of the room.  It looks like a three-dimensional analogue of a false-color image of a cosmological radio source. **Jinx Bubastis** points to the center of the roughly spherical blob.  
+**Jinx Bubastis** and **Peter Cat** turn to face a large holographic projection in the middle of the room.  It looks like a three-dimensional analog of a false-color image of a cosmological radio source. **Jinx Bubastis** points to the center of the roughly spherical blob.  
 #### **Jinx Bubastis**
 > I've been busy, I haven't had time to fiddle with the UI theme.  
 > This is what the Corporation's *creatives* call *Source*.  
@@ -210,16 +208,16 @@ Now **Jinx Bubastis** is in the foreground. She speaks to the ship's computer. *
 A close-up on **Jinx Bubastis**, scratching her chin as she starts speaking animatedly.  
 #### **Jinx Bubastis**
 > The Corporation isn't kidding about keeping it secret.  
-> Get this --  
+> Get this--  
 ### Panel 2 *(Half page width, 1/3rd page height)*:
 **Peter Cat** stands, looking down, arms crossed, as **Jinx Bubastis** continues.  
 #### **Jinx Bubastis** *(off-panel)*
-> -- if a navigator running the standard *Corporate software distro* sees the location coordinates correspond too closely to the middle of *Source*, it'll trigger an automated self-destruct sequence.  
+> --if a navigator running the standard *Corporate software distro* sees the location coordinates correspond too closely to the middle of *Source*, it'll trigger an automated self-destruct sequence.  
 > Turned it into a pretty handy exploit.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:
 **Peter Cat** looks up and turns a little towards **Jinx Bubastis** with a slightly concerned look on his face.
 #### **Peter Cat**
-> So, were' *not* going there?
+> So, we're going there, but *how*?  
 #### **Jinx Bubastis**
 > I got my hands on a salvaged *Reyll navigator*, set it up with help from an ex-POW.  
 #### **Peter Cat**
@@ -272,13 +270,13 @@ The arc of Earth, North America beneath clouds. The terminator -- the line betwe
 #### Box *(lower right)*
 > ...at least in Buffalo.
 ### Panel 2 *(Full page width, 1/3rd page height)*:
-**The Magister** slurps from a cup of coffee. He is sitting at a bar. Behind the bar, the **Bartender** is cleaning a glass with a rag. Up to the right, a TV on an articulated arm shows a newscast, where an **Anchorwoman** speaks.
+**The Magister** slurps from a cup of coffee. He is sitting at a bar. Behind the bar, the **Bartender** is cleaning a glass with a rag. Up to the right, a TV on an articulated arm shows a newscast, where an **Anchorwoman** speaks.  
 #### **Bartender**
 > Whut?
 #### **The Magister**
 > Ahh, nothing.
 #### **Anchorwoman** *(from TV)*
-> Meanwhile, the siege in *Phoenicia, New York* continues. Federal authorities claim that *illegal experiments* with *radioactive material* have endangered the *whole county*. The National Guard has been mobilized to surround the *compound* on the *outskirts of town*--
+> Meanwhile, the siege in *Phoenicia, New York* continues. Federal authorities claim that *illegal experiments* with *radioactive material* have endangered the *whole county*. The National Guard has been mobilized to surround the *compound* on the *outskirts of town*--  
 #### Mystical voice *(lower left, near **the Magister**, a word of power whispered into his ear from deep in **the World of Ash**)*
 > THEY ARE COMING.  
 > THEY WILL BE HERE SOON.  
@@ -316,7 +314,7 @@ The **Colonel** has his eyes glaze over as he holds the handset to his ear.
 #### **The Magister** *(a voice of power, a telepathic transmission directly into the brain of the **Colonel**)*
 > Do not worry about the unsecured line. An eavesdropper will hear nothing.  
 ### Panel 4 *(2/3rd page width, 1/3rd page height)*:
-Inside his mind, the **Colonel** stands before a high podium, holding the handset to his ear. The figure sitting at the podium (**the Magister**) is only visible in silhouette; blinding light comes from a glowing "eye in the pyramid" symbol in the background.
+Inside his mind, the **Colonel** stands before a high podium, holding the handset to his ear. The figure sitting at the podium (**the Magister**) is only visible in silhouette; blinding light comes from a glowing "eye in the pyramid" symbol in the background.  
 ####  **The Magister** *(a voice of power, a telepathic transmission directly into the brain of the **Colonel**)*  
 > You will receive visitors soon.  
 > They will come from the sky.  
@@ -325,24 +323,24 @@ Inside his mind, the **Colonel** stands before a high podium, holding the handse
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:
 The **Colonel** snaps out of his altered state of consciousness and speaks into the handset.
 #### **Colonel**
-> Yes, sir, I will!
+> Yes, sir, I will!  
 ### Panel 6 *(Half page width, 1/3rd page height)*:
 **The Magister** presses the button to hang up on his cheap mobile phone. The **Bartender** pauses drying the glass he was holding and side-eyes **The Magister**.  
 #### **Bartender**
-> What was that?
+> What was that?  
 ### Panel 7 *(Half page width, 1/3rd page height)*:
 **The Magister** gives his best "Alfred E. Neumann" shit-eating grin.  
 #### **The Magister**
-> Didn't hear a thing!
+> Didn't hear a thing!  
 
 ## Page 11
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
 A **Sergeant** commands several **Soldiers** to withdraw from the fortifications surrounding **Camillo Skragg's house**. In the sky behind and above him, something like a shooting star twinkles in the background; it is a **Mark IX corvette** leaving behind a trail of plasma as it decelerates and enters Earth's atmosphere. From this distance, only the meteor-like plasma trail is visible.  
 #### **Sergeant** *(shouting)*
-> MOVE IT! MOVE IT!
+> MOVE IT! MOVE IT!  
 ### Panel 2 *(Half page width, 1/3rd page height)*:
-The cockpit of the **Mark IX corvette**. This is very much *not* the open space they were in on Pages 6 to 8. The space is a rounded cylinder. **Jinx Bubastis** sits at the front helm console, operating a control yoke that at least somewhat resembles flight controls from a real-world aircraft. Levers and displays on articulated arms are mounted on a ceiling console. Behind her are four stations facing consoles on the side of the capsule. **Peter Cat** sits directly behind her, bent over a sensor display. He has switched this over to a large glowing green screen and a retractable mechanical keyboard on a hinged mount, and is bent over the console to avoid bumping his head.
+The cockpit of the **Mark IX corvette**. This is very much *not* the open space they were in on Pages 6 to 8. The room is a rounded cylinder. **Jinx Bubastis** sits at the front helm console, operating a control yoke that at least somewhat resembles flight controls from a real-world aircraft. Levers and displays on articulated arms are mounted on a ceiling console. Behind her are four stations facing consoles on the side of the capsule. **Peter Cat** sits directly behind her, bent over a sensor display. He has switched this over to a large glowing green screen and a retractable mechanical keyboard on a hinged mount, and is bent over the console to avoid bumping his head.
 #### **Jinx Bubastis**
 > Shields down.  
 > Entering atmospheric flight.  
@@ -586,8 +584,6 @@ A close-up on **Camillo Skragg** as he talks.
 
 ## Page 19
 
-*(While I understand the principle of "show, don't tell", what I want to show here is Camillo's defiance and lucidity, Penny's protectiveness and concern, and Peter's empathy -- he's just gone through something broadly similar to what Camillo is talking about.)*
-
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** talks, and rolls her eyes a little.  
 #### **Penny Skragg**  
@@ -668,7 +664,7 @@ A close-up of **Demonslayer's** face. She looks terribly tired, and her eyes are
 #### **Champion** *(off-panel)*  
 > The name's *Champion*, asshole.  
 #### **Demonslayer**  
-> *You* are *Number Six*.  
+> *You* are *Number Six*  
 > and *I* have been planning for the *future*.  
 > Come here and observe.  
 
@@ -760,11 +756,12 @@ A glowing projection of **Angela**, a well-composed female Fe Arran agent workin
 **Jolt** looks down and is quiet as **Angela** continues speaking. She seems sad at what she is hearing.  
 #### **Angela** *(off-panel)*
 > There was *permanent damage*.
-> His *neurosurgeon* and his *OptCond(R) LifeCoach(TM)* did their best. 
+> His *neurosurgeon* and his *OptCond® LifeCoach™* did their best. 
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 **Angela** seems to be relieved as the conversation comes to an end.  
 #### **Jolt** *(off-panel)*  
-> Tell the *writers* he's stumbling over his lines.    
+> Tell the *writers* he's stumbling over his lines.  
+> Any *words* over *two* syllables.  
 > That's not *funny*, it's *cruel*.  
 > I *care* about *Honor Guard*, and I *care* about him!  
 #### **Angela** 

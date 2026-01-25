@@ -206,9 +206,9 @@ Unfortunately, the fall and impact were not lethal. **Victor Bravo** crawls onto
 The **Corporate escape pod** keeps flying over Montebello, and approaches downtown Los Angeles.  
 #### **Killotron** *(from inside pod)*  
 > A landscape gnarled with alien breath,  
-> We’re cloaked in silence, veiled from their gaze.  
-> Mistress’ hand weaves the void’s dark thread—  
-> The primitives’ radio beams—blind to our threat.  
+> We're cloaked in silence, veiled from their gaze.  
+> Mistress' hand weaves the void's dark thread--  
+> The primitives' radio beams -- blind to our threat.  
 #### **Demonslayer** *(from inside pod)*  
 > *"Alien breath?"*  
 > Really, Killotron?  
@@ -240,7 +240,7 @@ Near sundown, a view from slightly above the parking lot of the Tulsa Expo Cente
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 **Jinx Bubastis** pulls back her hand. **Peter Cat** stands behind her, concerned.  
 #### **Jinx Bubastis**  
-> A *ward.*  ^
+> A *ward.*  
 > A *hex* on this place.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** looks concerned. **Peter Cat** turns to think a little.  
@@ -257,7 +257,7 @@ Near sundown, a view from slightly above the parking lot of the Tulsa Expo Cente
 ## Page 9  
 
 ### Panel 1 *(Half page width. 1/3rd page height)*:  
-Nighttime on Radio Hill in Elysium Park, a location near Downtown Los Angeles. The area is largely inhabited by the homeless. **Bearcat** and **Killotron** have been sent to clear an encampment near where **Demonslayer** has set up her base; she is planning on using the antenna here in the near future. A close-up of a woman's face, illuminated by a nearby fire. The last time has not been kind to her. Half of her face is splattered with blood. She wants to scream, but cannot.  
+Nighttime on Radio Hill in Elysium Park, a location near Downtown Los Angeles. The area is largely inhabited by the homeless. **Bearcat** and **Killotron** have been sent to clear an encampment near where **Demonslayer** has set up her base; she is planning on using the antenna here in the near future. A close-up of a woman's face, illuminated by a nearby fire. The last few years of her life has not been kind to her. Half of her face is splattered with blood. She wants to scream, but cannot.  
 #### Box *(narration, upper left)*  
 > Near Downtown L.A. is an abandoned place called *Radio Hill.*  
 #### **Bearcat** *(off-panel)*  
@@ -289,11 +289,11 @@ Nighttime on Radio Hill in Elysium Park, a location near Downtown Los Angeles. T
 #### **Killotron**  
 > My beam carved art from ash and bone,  
 > A symphony of smoke and flame.  
-> Comrade’s eyes, once wild, now gleam—  
+> Comrade's eyes, once wild, now gleam--  
 > A mind forged in her silent name.  
 > You whisper doubt, a blade unsharpened:  
-> “Does she carve our fate into the void?”  
-> Yet in her gaze, a star’s slow burn—  
+> "Does she carve our fate into the void?"  
+> Yet in her gaze, a star's slow burn--  
 > A reckoning born where shadows roil.  
 #### **Bearcat**  
 > It is *good* to see her *functioning* again.  
@@ -375,7 +375,7 @@ An office in the **East LA Sheriff's Department**. **Peter Cat**, **Jinx Bubasti
 > *One* has a *starship.*  
 > *She* will bring that ship to *Radio Hill.*  
 #### **Radio operator**  
-> How--?  
+> How is she *transmitting*--?  
 #### **Jinx Bubastis** *(to **Radio operator**)*  
 > Sympathetic magic.  
 ### Panel 4 *(Half page width. 1/3rd page height)*:  
@@ -559,7 +559,7 @@ The **Radio operator** talks to **Jinx Bubastis**, and offers her an inexpensive
 ### Panel 3 *(Half page width, 1/3rd page height)*  
 **Camillo Skragg** seems palpably relieved. He hangs up.
 #### **Camillo Skragg**  
-> Thanks! You're a real live-saver.  
+> Thanks! You're a real life-saver.  
 ### Panel 4 *(Half page width, 1/3rd page height)*  
 **Camillo Skragg** downloads the image onto his smartphone.  
 #### **Camillo Skragg** *(neurocomm)*  
@@ -577,9 +577,9 @@ The **Radio operator** talks to **Jinx Bubastis**, and offers her an inexpensive
 ### Panel 1 *(Half page width. 1/3rd page height)*:  
 The cockpit of the **Black Sabbath**. **Jinx Bubastis** operates an inexpensive aircraft radio (similar to a Garmin 115) that has been duct-taped to one of the consoles.  
 ### **Jinx Bubastis**  
-> LAX Tower, Black Sabbath Niner Niner X-Ray, At two thousand seven hundred, request clearance en route to Radio Hill.  
+> LAX Tower, Black Sabbath Niner Niner X-Ray, at two thousand seven hundred, request clearance en route to Radio Hill.  
 #### **LAX ATC** *(from radio)*  
-> Black Sabbath Niner Niner X-Ray, Maintain two thousand seven hundred, 
+> Black Sabbath Niner Niner X-Ray, maintain two thousand seven hundred, 
 ### **Jinx Bubastis**  
 > Maintain two thousand seven hundred, wilco. Black Sabbath Niner Niner X-Ray.    
 ### Panel 2 *(Half page width. 1/3rd page height)*:  
@@ -635,7 +635,7 @@ The **Black Sabbath** lands near the entrance to the transmitter building. **Bea
 ### Panel 3 *(Full page width. 1/3rd page height)*:  
 **Killotron** staggers back, trying to aim his laser cannon blind. **Bearcat** puts a pistol to his own head.  
 #### **Killotron**  
-> No light through shattered lenses—  
+> No light through shattered lenses--  
 > Yet my circuits hum with unyielding fire.  
 > Your fist a storm, your breath a blade,  
 > I'll carve your name in static--  

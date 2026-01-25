@@ -56,6 +56,13 @@ The interior of the Steakhouse. **Peter Cat**, **Jinx Bubastis**, **Camillo Skra
 > On the other hand, it bothers me that *everything we've done* has been broken up into *three unrelated stories* that don't make any sense.  
 #### **Waitress**  
 > I dunno, that's kinda why I don't bother trying to follow the news.  
+> But you guys are saying the *Tulsa incident* and the *L.A. prank transmission* were connected?  
+#### **Camillo Skragg**  
+> Yup.  
+#### **Waitress**  
+> And that fight in *East L.A.* wasn't a *deepfake?*  
+#### **Penny Skragg**  
+> That was *me* all right.   
 
 ## Page 3
 

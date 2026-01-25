@@ -89,17 +89,17 @@ The cargo bay is dark, and a star map floats in the air. Tens of stars are marke
 ### Panel 2 *(Half page width, 1/3rd page height)*: 
 **Penny Skragg** points to a small red star marked with a bounding box.  
 #### **Penny Skragg**  
-> How about that one? 
+> How about that one?  
 #### **Jinx Bubastis**  
-> No problem. Let's go!   
+> No problem. Let's go!  
 ### Panel 3 *(Half page width, 1/3rd page height)*: 
 Inside the cockpit, **Jinx Bubastis** sits at the helm and runs through a take-off check-list on one of the ceiling displays. Behind her sits **Peter Cat** and **Penny Skragg**. **Camillo Skragg** sits next to **Penny Skragg**, opposite the navigator that's been duct-taped into the mounting rack. It's... cramped.  
 #### **Penny Skragg** 
-> So, what's *FTL travel* like?
+> So, what's *FTL travel* like?  
 #### **Peter Cat**  
 > If everything *works*...  
 ### Panel 4 *(Half page width, 1/3rd page height)*: 
-The **Mark IX corvette** takes off from the surface of the Moon -- booms are in the 120° cruising position. Depicted realistically, this won't be nearly as visually interesting as taking off from the Earth, 
+The **Mark IX corvette** takes off from the surface of the Moon -- booms are in the 120° cruising position. Depicted realistically, this won't be nearly as visually interesting as taking off from the Earth. 
 #### **Peter Cat** 
 > ...it's pretty *boring*.  
 
@@ -161,15 +161,15 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > Victor! Whoa!  
 ### Panel 3 *(Half page width, 1/3rd page height)*: 
 **Victor Bravo** collapses into his chair, shaking.  
-#### **Victor Bravo** 
+#### **Victor Bravo**  
 > Sorry.  
 > Sorry.  
 > Just *lost* it there.  
-> *fuck*, what's wrong with me? 
+> *Fuck*, what's wrong with me? 
 ### Panel 4 *(Half page width, 1/3rd page height)*: 
 **Jolt** is a little shaken by **Victor Bravo's** outburst, but turns to him and tries to be supportive.  
 #### **Jolt**  
-> I'm sorry, Victor.  
+> *I'm* sorry, Victor.  
 > I was just trying to help.  
 ### Panel 5 *(Half page width, 1/3rd page height)*: 
 **Jolt** turns to the front view screen, towards the reader. She has an expression of disgust. 
@@ -197,7 +197,7 @@ The **Mark IX corvette** approaches the Earth-like planet closely orbiting a red
 > The rest of the surface was dominated by some kind of lichen-like growths, but the area around the ruins were covered in long grass.  
 > The air smelled funny, like ozone and must.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
-In the background, the ruined walls of the **Atlantean archaeological site** protrude from the overgrown grass.  **Camillo Skragg** and **Penny Skragg** walk towards them, with **Peter Cat** and **Jinx Bubastis** taking up the rear.  
+In the background, the ruined walls of the **Atlantean archaeological site** protrude from the overgrown grass. **Camillo Skragg** and **Penny Skragg** walk towards them, with **Peter Cat** and **Jinx Bubastis** taking up the rear.  
 #### Box *(narration, **Camillo Skragg**)*  
 > It didn't look like much at first.  
 > The stone outer walls were crumbling.  
@@ -240,7 +240,7 @@ The staircase leads to a long corridor underground.  **Camillo Skragg** looks do
 ### Panel 5 *(Half page width, 1/3rd page height)*:
 **Camillo Skragg** faces the reader, as he looks down the darkened corridor. He looks astonished.  
 #### Box *(narration, **Camillo Skragg**)*:  
-> *Facts* that were about to be *demonstrated.*    
+> *Facts* that were about to be *demonstrated.*  
 
 ## Page 8  
 
@@ -249,7 +249,7 @@ The staircase leads to a long corridor underground.  **Camillo Skragg** looks do
 #### Box *(narration, **Camillo Skragg**)*  
 > Back in *college* I had a really bad finals week.  
 > Stayed up for two weeks on *speed*.  
-> At the end, I was *seeing things* in my *peripheral vision*.  
+> By the end, I was *seeing things* in my *peripheral vision*.  
 > Ghostly, *dark* things.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** turns to run away. **Peter Cat** stretches out his arm and begins blasting down the corridor.  
@@ -525,8 +525,8 @@ On the **Bastard Sun**, in **Demonslayer's** sanctum, **Champion** facepalms. **
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 The **Bastard Sun** has materialized; **Champion** has grabbed **Demonslayer's** body and drags her back to the ship, leaving a trail of blood droplets. 
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Demonslayer** lies on a floating gurney that **Champion** and **Killotron** are pushing into a sick bay on board the **Bastard Sun**.  **Demonslayer** has a prominent, bleeding wound in her shoulder where **Peter Cat** rammed a shotglass through her body.  
-#### **Demonslayer** *(weakly)*
+**Demonslayer** lies on a floating gurney that **Champion** and **Killotron** are pushing into a sick bay on board the **Bastard Sun**. **Demonslayer** has a prominent, bleeding wound in her shoulder where **Peter Cat** rammed a shotglass through her body.  
+#### **Demonslayer** *(weakly)*  
 > ...it's only a flesh wound...  
 #### **Champion**  
 > I didn't know you had a *sense of humor*.  
@@ -537,8 +537,8 @@ The **Bastard Sun** has materialized; **Champion** has grabbed **Demonslayer's**
 #### **Champion**  
 > We're letting *him* do surgery?  
 #### **Killotron**  
-> His fangs may gnash, but his blade knows its place—  
-> To carve through chaos and stitch what’s torn asunder.  
+> His fangs may gnash, but his blade knows its place--  
+> To carve through chaos and stitch what's torn asunder.  
 
 ## Page 15  
 
@@ -564,7 +564,7 @@ In the sick bay of the **Bastard Sun**, **Demonslayer** sits up from her bed. A 
 > *Killotron* -- set course for the heart of the cancer killing our kind!  
 #### **Killotron** 
 > Burn through the stars where shadows breed,  
-> A trajectory etched in her command—  
+> A trajectory etched in her command--  
 > The core of the plague, we'll sever its thread.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 On the bridge of the **Nightstalker**, **The Eye** pretends to look at the view screen.  
@@ -647,23 +647,24 @@ The mess hall on the **Mark IX corvette**. **Jinx Bubastis** and **Penny Skragg*
 > We'll be arriving at *Earth* in about five of these cycles.  
 ### Panel 3 *(Full page width, 1/3rd page height)*: 
 **Penny Skragg** turns to **Jinx Bubastis**, and **Camillo Skragg** talks with **Peter Cat**.  
-#### **Penny Skragg**  
+#### **Penny Skragg** *(to **Jinx Bubastis**)*  
 > I hope we don't seem *ungrateful*.  
 > It's been an *awesome* experience.  
-#### **Jinx Bubastis**  
+#### **Jinx Bubastis** *(to **Penny Skragg**)*  
 > It was a *clusterfuck*, but we all *survived.*  
-#### **Penny Skragg**  
+#### **Penny Skragg** *(to **Jinx Bubastis**)*  
 > Well, yeah, but that's what made it *awesome!*  
-#### **Camillo Skragg**  
+#### **Camillo Skragg** *(to **Peter Cat**)*  
 > So you gotta explain this *radio mining* to me.  
-#### **Peter Cat**  
-> It's pretty *straightforward*, and I think Jinx snagged a copy of the *software distribution* used to decode the signals.  
+#### **Peter Cat** *(to **Camillo Skragg**)*  
+> It's pretty *straightforward*.  
+> We have a copy of the *software distribution* used to decode the signals.  
 > We can try setting it up in the *cargo bay.*  
 
 ## Page 18  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*: 
-**Camillo Skragg** looks up at a projection of a 525-line TV image -- of the Apollo 11 moon landing. **Peter Cat** looks up from a folding terminal. **Penny Skragg** crosses her arms and asks a question.   
+**Camillo Skragg** looks up at a projection of a 525-line TV image of the Apollo 11 moon landing. **Peter Cat** looks up from a folding terminal. **Penny Skragg** crosses her arms and asks a question.  
 #### Box *(upper left)*  
 > 4 cycles until Earth...  
 #### **Peter Cat**  
@@ -902,12 +903,12 @@ Very similar in composition to Panel 1. **Camillo Skragg** lays his hands palm-d
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** gets up from the terminal, and starts walking over to join **Jinx Bubastis** in the hallway.  
 #### **Peter Cat**  
-> It looks like I can derive a *bidirectional translation matrix* that will let humans use *neural interfaces* safely.  
+> It will let me derive a *bidirectional translation matrix* that will let humans use *neural interfaces* safely.  
 > Among other things, that means we can adapt *power armor* for human use with *software.*  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** continues talking with **Jinx Bubastis** as they head down the hall together towards the cargo bay.  
 #### **Peter Cat**  
-> That doesn't solve the *anatomical differences* but it eliminates a whole host of changes to the *control systems.*  
+> That doesn't solve the *anatomical differences,* but it eliminates a whole host of changes to the *control systems.*  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** and **Jinx Bubastis** have just opened the door to the cargo bay. They look surprised at what they see.  
 #### **Jinx Bubastis**  
