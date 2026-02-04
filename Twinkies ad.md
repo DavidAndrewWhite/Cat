@@ -1,3 +1,8 @@
+# Cat & Company
+- Shilling for Snacks
+- 4 pp.
+- **Shilling for Snacks**
+
 ## Page 1  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
@@ -31,3 +36,4 @@ The **Nihilistic Gorger** has swallowed a huge mass of Twinkies -- possibly incl
 > You'll get a big delight  
 > in every bite  
 > of Hostess™ Twinkies™ Cakes  
+

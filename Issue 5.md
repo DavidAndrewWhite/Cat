@@ -55,14 +55,14 @@ The interior of the Steakhouse. **Peter Cat**, **Jinx Bubastis**, **Camillo Skra
 #### **Peter Cat**  
 > On the other hand, it bothers me that *everything we've done* has been broken up into *three unrelated stories* that don't make any sense.  
 #### **Waitress**  
-> I dunno, that's kinda why I don't bother trying to follow the news.  
-> But you guys are saying the *Tulsa incident* and the *L.A. prank transmission* were connected?  
+> I don't know, that's kinda why I don't bother trying to follow the news.  
+> So *Tulsa* and *L.A.* were the *same guys?*  
 #### **Camillo Skragg**  
-> Yup.  
+> Kind of.  
 #### **Waitress**  
 > And that fight in *East L.A.* wasn't a *deepfake?*  
 #### **Penny Skragg**  
-> That was *me* all right.   
+> Hey! I was *there.*  
 
 ## Page 3
 
@@ -227,23 +227,23 @@ The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubasti
 > Not at all!  
 > Please hold still.  
 ### Panel 3 *(1/4th page width, 1/3rd page height)*:  
-**Peter Cat** looks directly at the reader.  
+**Peter Cat** looks directly at the reader. He is calm but curious.  
 #### **Witness** *(off-panel)*  
 > Please look straight ahead and state your name.  
 #### **Peter Cat**  
-> Peter Cat
+> Peter Cat.
 ### Panel 4 *(1/4th page width, 1/3rd page height)*:  
-**Jinx Bubastis** looks directly at the reader.  
+**Jinx Bubastis** looks directly at the reader. Her eyes are narrowed, and her face is tense -- she is probing for threats.  
 #### **Jinx Bubastis**  
-> Jinx Bubastis  
+> Jinx Bubastis.  
 ### Panel 5 *(1/4th page width, 1/3rd page height)*:  
-**Camillo Skragg** looks directly at the reader.  
+**Camillo Skragg** looks directly at the reader. He looks tired.  
 #### **Camillo Skragg**  
-> Camillo Skragg  
+> Camillo Skragg.  
 ### Panel 6 *(1/4th page width, 1/3rd page height)*:  
-**Penny Skragg** looks directly at the reader.  
+**Penny Skragg** looks directly at the reader. She is puzzled by this entire exercise.  
 #### **Penny Skragg**  
-> Penelope Skragg  
+> Penelope Skragg.  
 > Hey, is there a *camera* here somewhere?  
 #### **Witness** *(off-panel)*  
 > Lèkad shahidu!  
@@ -261,3 +261,73 @@ Viewed from above, **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **P
 ## Page 8  
 
 ### Panel 1 *(1/3rd page width, 1/3rd page height)*:  
+**Camillo Skragg** walks in to his hotel room.  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+**Camillo Skragg** looks at the bed.  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+**Camillo Skragg** lies down on the bed on top of the duvet, still wearing his clothes, and closes his eyes.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** dreams. He sits up from a flattened area in the middle of a field of tall red grass on the surface of the **archaeological site** from Issue 2.  
+#### **Camillo Skragg** *(groggy)*  
+> What?  
+> *Here* again?  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** is startled as a young, 8-year-old girl runs through the tall grass. Behind him, the huge red sun hangs in the sky -- it's huge.  
+#### **Camillo Skragg**  
+> Hey!  
+> Wait!  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** has followed the little girl towards another flattened area in the tall grass. **Jusef**, a young bearded man wearing a kufi and loose clothes, sits on a blanket, next to an open basket filled with food. The girl, his daughter **Surya**, keeps running through the grass.  
+#### **Camillo Skragg**  
+> Hey!  
+> What are *you* doing *here?*  
+#### **Jusef**  
+> Sàlam! I am *Jusef.*  
+> We're having a *picnic.*  
+### Panel 7 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** sits down next to **Jusef** on the blanket.  
+#### **Jusef**  
+> You've *been* here!  
+> Recently!  
+> I *envy* you.  
+
+## Page 9  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** stretches out his hand to **Jusef**, who accepts the handshake.  
+#### **Camillo Skragg**  
+> My name's *Camillo.*  
+#### **Jusef**  
+> Pleased to meet you!  
+#### **Camillo Skragg**  
+> Tell your daughter not to play near the ruins!  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Jusef** sits on the blanket and smiles.
+#### **Jusef**  
+> I have warned little Surya about the *hungry ghosts.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.  
+#### **Camillo Skragg**  
+> How did you *find* this place?  
+#### **Jusef**  
+> People have been *dreaming* of this place for a long, long time.  
+> I'm *learning* how to read old *journals.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** looks up, seeming to notice something. **Jusef** smiles at him and turns away a little.  
+#### **Camillo Skragg**  
+> Hey!  
+> What's that?  
+#### **Jusef**  
+> Is it *that time?*  
+> We'll talk again soon!  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** sits up in bed, in a posture similar to his posture in Panel 4.  
+#### **Camillo Skragg**  
+> Ahh!  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** has just walked out of the hotel; he is on the edge of a large plaza in the middle of Hali. Cafés and restaurants crowd around the edge of the plaza.He seems to be looking for something.  
+#### Box  
+> Shortly, just outside the hotel...  
+
+## Page 10  
+

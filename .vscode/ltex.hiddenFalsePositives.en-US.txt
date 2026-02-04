@@ -26,3 +26,7 @@
 {"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis\nPanel 5 (1/4th page width, 1/3rd page height):\nCamillo Skragg looks directly at the reader.\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QCamillo Skragg\nCamillo Skragg\nPanel 6 (1/4th page width, 1/3rd page height):\nPenny Skragg looks directly at the reader.\\E$"}
+
+{"rule":"PHRASE_REPETITION","sentence":"^\\QPeter Cat\nPeter Cat.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QCamillo Skragg\nCamillo Skragg.\\E$"}
