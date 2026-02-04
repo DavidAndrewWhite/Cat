@@ -20,3 +20,9 @@
 {"rule":"SENTENCE_WHITESPACE","sentence":"^\\QI don't know what I can and can't tell them.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QBlack Sabbath Niner Niner X-Ray.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QCorporate crewman (1)\nMy contract says I get notice if Fun Division sends in some freak.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QPeter Cat\nPeter Cat\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QPeter Cat\nPeter Cat\nPanel 4 (1/4th page width, 1/3rd page height):\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QPeter Cat\nPeter Cat\nPanel 4 (1/4th page width, 1/3rd page height):\nJinx Bubastis looks directly at the reader.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis\nPanel 5 (1/4th page width, 1/3rd page height):\nCamillo Skragg looks directly at the reader.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QCamillo Skragg\nCamillo Skragg\nPanel 6 (1/4th page width, 1/3rd page height):\nPenny Skragg looks directly at the reader.\\E$"}

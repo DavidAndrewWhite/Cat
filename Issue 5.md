@@ -210,11 +210,54 @@ The **Air Hyades** airliner approaches the city of **Hali**. While the center of
 
 ## Page 7  
 
-### Panel 1 (Half page width, 1/3rd page height):  
-**Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** have picked up their bags at **Hali International Airport** and are headed to the train to **Hali**.  
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** have picked up their bags at **Hali International Airport** and are waiting in front of the Immigration desk. The **Immigration officer** directs the foursome to a room off to the side.  
+#### **Immigration officer**  
+> Ah! I see.  
+> You have *unusual visas*...  
+> ...please enter the room to your *left.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg** and **Penny Skragg** sit at a table in front of a plain white backdrop. A **Witness** with a **Yellow Sign** tattoo on the back of his hand -- much like the **young man** from the steakhouse in Phoenecia -- prepares to give them a Significant Look.  
+#### **Immigration officer**  
+> We will arrange transport to your final destination.  
+> Please do not leave Hali on your own.  
+#### **Camillo Skragg**  
+> Is it *dangerous?*  
+#### **Witness**  
+> Not at all!  
+> Please hold still.  
+### Panel 3 *(1/4th page width, 1/3rd page height)*:  
+**Peter Cat** looks directly at the reader.  
+#### **Witness** *(off-panel)*  
+> Please look straight ahead and state your name.  
 #### **Peter Cat**  
-> So, *this* way?  
+> Peter Cat
+### Panel 4 *(1/4th page width, 1/3rd page height)*:  
+**Jinx Bubastis** looks directly at the reader.  
+#### **Jinx Bubastis**  
+> Jinx Bubastis  
+### Panel 5 *(1/4th page width, 1/3rd page height)*:  
+**Camillo Skragg** looks directly at the reader.  
+#### **Camillo Skragg**  
+> Camillo Skragg  
+### Panel 6 *(1/4th page width, 1/3rd page height)*:  
+**Penny Skragg** looks directly at the reader.  
 #### **Penny Skragg**  
-> Yeah, I'm guessing that symbol means "towards the center of town".  
-### Panel 2 (Half page width, 1/3rd page height):  
-**Jinx Bubastis** looks out the window of the train. 
+> Penelope Skragg  
+> Hey, is there a *camera* here somewhere?  
+#### **Witness** *(off-panel)*  
+> Lèkad shahidu!  
+> You have *been seen.*  
+### Panel 7 *(Full page width, 1/3rd page height)*:  
+Viewed from above, **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** walk towards the reception of the hotel in Hali where they are staying. On the floor is a simplified map of the Hyades archipelago, with the names of the islands labeled. The layout is similar to the black stars in the **Air Hyades** logo. The large island in the middle with a prominent lake features a large black star. Next to that star is the name of the city, lake, and island -- **Hali**. From west to east, the next three islands to the north are labeled "C. Oscura", "C. Silente", and "C. Perduta". The northernmost island is labeled "Yhtill".  
+#### Box *(upper left)*  
+> After a brief taxi ride, they arrive at their hotel...  
+#### **Jinx Bubastis**  
+> The city is *beautiful.*  
+#### **Camillo Skragg**  
+> Reception's up ahead.  
+> Let's *check in*, I'm *dead tired.*  
+
+## Page 8  
+
+### Panel 1 *(1/3rd page width, 1/3rd page height)*:  
