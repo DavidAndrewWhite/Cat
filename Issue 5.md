@@ -331,3 +331,42 @@ The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.
 
 ## Page 10  
 
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** walks towards a chalkboard in front of a café. The phrase "You can talk about it here" is written in chalk on the chalkboard.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A **Waitress** points **Camillo Skragg** to the tables in the middle of the café.  
+#### **Waitress**  
+> You can sit *anywhere* but in the corner-- 
+> --that's the *Stranger's* place.  
+#### **Camillo Skragg**  
+> Thanks!  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** sees **Jusef** sitting at one of the tables, and reacts with mild surprise. **Jusef** looks up, smiles, and gestures to the other seat at his table.  
+#### **Camillo Skragg**  
+> Jusef?  
+#### **Jusef**  
+> Camillo! Please, have a seat!  
+#### **Camillo Skragg**  
+> I feel like I *should* be surprised, but...  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Jusef** smiles broadly and pours a herbal liqueur into two small glasses.  
+#### **Jusef**  
+> "Zhilàl di achlèm l'rizhal tamtaddu en ashir."  
+> It's an old saying.  
+> "The shadows of men's thoughts lengthen in the afternoon."  
+> *Dreams* are a kind of *public space* here.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** has taken a sip from his glass; **Jusef** is in the middle of taking his.  
+#### **Camillo Skragg**  
+> I see.  
+> I don't really understand the customs about *writing.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Jusef** gestures towards **Camillo Skragg** and talks with some animation.  
+#### **Jusef**  
+> *Ephemeral* text -- chalkboards, screens -- these are *safe.*  
+> *Permanent* text can anchor *thoughts* and *dreams* to the *real world.*  
+> It invites *obsession* in a place where the boundaries are weak.  
+
+## Page 11
+
+### Page 1 *()*:
