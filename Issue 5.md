@@ -369,4 +369,32 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the cafÃ
 
 ## Page 11
 
-### Page 1 *()*:
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Jusef** continues talking, and **Camillo Skragg** listens attentively.  
+#### **Jusef**  
+> A while ago I *borrowed* a *book* called "The Third Mind".  
+> *Burroughs* and *Gysin* fragmented and rearranged texts.  
+> Our *wali* pointed us towards one passage in particular, the "Technical Deposition of the Virus Power."  
+> A moment where one of their cut-ups seemed to become *self-aware*  
+> it "exhibited a capacity for life which is found elsewhere in the form of virus."  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** looks a little puzzled. **Jusef** smiles and keeps talking.  
+#### **Camillo Skragg**  
+> I'm not sure that I'm *following* you.  
+#### **Jusef**  
+> Their *mechanical manipulations* of text seemed to show *glimpses* of a *mind* inside the written word.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** considers and speaks. Now **Jusef** listens.  
+#### **Camillo Skragg**  
+> You know, they kind of do that with *large language models.*  
+> Turn huge volumes of text into a *mathematical system* that predicts the next *word* given *what's come before.*  
+> It *feels* like you're *talking to another person.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Jusef** cocks an eyebrow and asks **Camillo Skragg** a question.  
+#### **Jusef**  
+> And do people *lose themselves* in *this illusion?*  
+#### **Camillo Skragg**  
+> Yes. Yes, they do.  
+ #### **Jusef**  
+ > Then I think you *understand* me.  
+
