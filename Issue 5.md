@@ -375,7 +375,7 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the cafÃ
 > A while ago I *borrowed* a *book* called "The Third Mind".  
 > *Burroughs* and *Gysin* fragmented and rearranged texts.  
 > Our *wali* pointed us towards one passage in particular, the "Technical Deposition of the Virus Power."  
-> A moment where one of their cut-ups seemed to become *self-aware*  
+> A moment where one of their "cut-ups" seemed to become *self-aware*  
 > it "exhibited a capacity for life which is found elsewhere in the form of virus."  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** looks a little puzzled. **Jusef** smiles and keeps talking.  
@@ -395,6 +395,44 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the cafÃ
 > And do people *lose themselves* in *this illusion?*  
 #### **Camillo Skragg**  
 > Yes. Yes, they do.  
- #### **Jusef**  
- > Then I think you *understand* me.  
+#### **Jusef**  
+> Then I think you *understand* me.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** leans in through the open door to the cafÃ© and calls to **Camillo Skragg**.  
+#### **Penny Skragg**  
+> Hey, uncle!  
+> Our *ride's* waiting for us!  
+#### **Camillo Skragg** *(to **Penny Skragg**)*  
+> Be right there...  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** stands up to leave. He shakes hands with **Jusef** as they part.  
+#### **Jusef**  
+> It was a *pleasure,* Camillo!  
+#### **Camillo Skragg**  
+> Thanks!  
+> Take care.  
+
+## Page 12  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+A **white panel van** -- like a Volkswagen Transporter -- is parked in front of the hotel. The back doors are open; the back of the van is windowless. A **Yellow Sign**, in yellow, is on the rear of the side panels. A **Carcosan corporal** stands next to the open doors; he is in a recognizable uniform, but is only armed with a pistol in a holster hanging from his belt. **Peter Cat** and **Jinx Bubastis** are standing near the **Carcosan corporal**, waiting for **Penny Skragg** and **Camillo Skragg** to catch up.  
+#### **Carcosan corporal**  
+> Right this way...  
+#### **Penny Skragg** *(whispering, to **Camillo Skragg**)*  
+> No *windows?*  
+#### **Camillo Skragg** *(whispering, to **Penny Skragg**)*  
+> Nothing to see here...  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+While the interior of the back of the van has no windows, it is not unpleasant -- six bucket seats with dark upholstery, which matches the fabric covering on the walls. **Jinx Bubastis** sits in the front left, wearing her seatbelt; the environment reminds her of a spacecraft. **Peter Cat** looks back over the left shoulder of his seat to the seats in the next row, where **Camillo Skragg** and **Penny Skragg** are sitting. The **Carcosan corporal** follows, and starts closing the door behind him.  
+#### **Peter Cat**  
+> So, *where* are we *going?*  
+#### **Carcosan corporal**  
+> A village called *Mushad*, on the other side of *Lake Hali.*  
+> There's a *famous observatory* there.  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+The **white panel van** has been waved through a checkpoint outside the city limits, and proceeds along a dirt road that follows the shoreline of Lake Hali. The modern city is in the background; the foreground is dominated by bushes and short trees. The transition from city to country is abrupt.  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+In the background, the **white panel van** approaches a village, kicking up dust from the dirt road it is driving on. It is approaching a village in the foreground. In many ways, this village seems untouched by time; dusk is falling, but there are only a handful of lights.
+#### **Carcosan corporal**  
+> The *driver* says we will be arriving shortly.  
 
