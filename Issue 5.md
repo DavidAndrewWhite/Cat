@@ -358,7 +358,7 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the cafÃ
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** has taken a sip from his glass; **Jusef** is in the middle of taking his.  
 #### **Camillo Skragg**  
-> I see.  
+> And you learned about that place from a *dream journal?*  
 > I don't really understand the customs about *writing.*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Jusef** gestures towards **Camillo Skragg** and talks with some animation.  
