@@ -14,7 +14,7 @@
 
 - **Special effects:** Peter's energy and matter manipulation powers can demonstrate a wide variety of genre typical visual effects; these effects vary widely. Some particularly common attacks, particularly the concussion bolts he likes to use in atmospheres under standard temperature and pressure conditions, will not necessarily be a clearly visible beam, particularly if the bolts are low-power non-lethal attacks. When he becomes insubstantial, his body can leave smoky trails; he frequently becomes insubstantial when moving at very high speed in order to avoid shockwaves.
 
-- **Personality and Affect:** In low-stress situations, easygoing and friendly. Sometimes plays up a degree of comic awkwardness, both physically and socially. In distress, some of his affected goofiness falls away -- he has a deeply alarming 1000-yard stare. In a stress situation, particularly in a fight, he is quiet, cold, and clinical.
+- **Personality and Affect:** From his background as a mass-produced clone worker, he has a superficially flat affect, although this is more a product of conditioning and societal expectations than some kind of neurological deficit. From this, he has developed a certain talent for deadpan humor. In low-stress situations, easygoing and friendly. Sometimes plays up a degree of comic awkwardness, both physically and socially. In distress, some of his affected goofiness falls away -- he has a deeply alarming 1000-yard stare. In a stress situation, particularly in a fight, he is quiet, cold, and clinical.
 
 ### Jinx Bubastis
 
@@ -22,7 +22,7 @@
 
 - **Special effects:** Her mental powers are relatively subtle, but she is excellent at illusions and warping perceptions and uses this to amplify the effects of her telepathic influence. When she teleports, there tends to be a shower of sparks and a "*VASP*" sound effect at both the source and destination.
 
-- **Personality and Affect:** 
+- **Personality and Affect:** Jinx can be abrasive and cruel, but this is tempered by curiosity and inquisitiveness. Beneath this is a layer of self-awareness; from this arises a surprising, emergent capability for compassion and kindness. However, she can also be extremely judgmental. In fights, this inner conflict manifests as a degree of sadism -- she enjoys hurting and humiliating bad people -- tempered by a degree of restraint arising from her aspirations to avoid nihilism.
 
 ### Camillo Skragg
 
@@ -30,8 +30,12 @@
 
 - **Special effects:** Camillo uses powered armor based on Corporate (Fe Arran) designs. Over time, he moves away from the hollow, bulky protective plates used in Corporate designs -- these are very useful, but can be defeated by human military gear (particularly shaped charges and high-velocity penetrators) and are specialized for threats that don't really exist on Earth. He comes to favor designs that primarily focus on sensors, mobility, and power delivery; if he needs heavy firepower, he will use light mechs that are equivalent or superior to human armored vehicles, although this is rare -- he generally avoids getting into slugfests with dangerous entities. Towards the end of the series, he develops a shield based armor suit that is considerably more flexible.
 
+- **Personality and Affect:** Cautious and introverted, with a wry sense of humor. He was subjected to experimental procedures intended to "erase" his memories of working on understanding alien technology; he suffers from PTSD that most frequently manifests in nightmares. 
+
 ### Penny Skragg
 
 - **Appearance:** A young female human, about 1.75 meters tall. Blonde hair, blue eyes. Bears a family resemblance to Camillo. Trim but muscular. Her fashion sense tends towards jeans and hoodies in everyday life. Much like her uncle, she is attractive but has had a hard life.
 
-- **Special effects:** She adapts sporty clothing like bicycle shorts, leotards, sports tops, and combat boots into her superhero costume. In costume, she wears web belts and harnesses to hold her gear, which includes her plastic sword -- a straight blade made of an advanced unbreakable alien plastic that can hold a very fine edge and is nearly frictionless -- and a slightly modified version of Victor Bravo's sidearm -- a combination laser pistol and grenade launcher (which is more or less morally equivalent to a 40k bolter). 
+- **Special effects:** She adapts sporty clothing like bicycle shorts, leotards, sports tops, and combat boots into her superhero costume. In costume, she wears web belts and harnesses to hold her gear, which includes her plastic sword -- a straight blade made of an advanced unbreakable alien plastic that can hold a very fine edge and is nearly frictionless -- and a slightly modified version of Victor Bravo's sidearm -- a combination laser pistol and grenade launcher (which is more or less morally equivalent to a 40k bolter). She also adopts a helmet that resembles a bicycle helmet with an integrated visor that covers her eyes and nose. This helmet has a number of enhanced vision capabilities, most notably night vision, and uses an e-ink like system of electronically controlled pigment to draw in eyespots and eyebrows which generally reflect her facial expression.
+
+- **Personality and Affect:** 
