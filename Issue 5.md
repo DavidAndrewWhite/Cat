@@ -436,3 +436,21 @@ In the background, the **white panel van** approaches a village, kicking up dust
 #### **Carcosan corporal**  
 > The *driver* says we will be arriving shortly.  
 
+## Page 13  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** and **Penny Skragg** are standing on each side of the open doors on the back of the van. **Peter Cat** and **Jinx Bubastis** are stepping out of the back through the open doors. **Penny Skragg** looks up at something in the foreground.  
+#### **Penny Skragg**  
+> Huh.  
+> What *kind* of *observatory* doesn't have a *shutter?*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** and **Camillo Skragg** look up at a dome on top of a high, narrow tower made of limestone. The **Carcosan corporal** stands across from them.  
+#### **Camillo Skragg**  
+> I'm guessing they're not using a *telescope.*  
+#### **Carcosan corporal**  
+> The *Librarian* has been *informed* of your *arrival.*  
+> Your *quarters* are in the *tower.*  
+#### **Penny Skragg** *(to **Carcosan corporal**)*  
+> Thank you!  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+
