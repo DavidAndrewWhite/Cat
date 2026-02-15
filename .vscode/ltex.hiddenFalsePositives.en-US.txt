@@ -30,3 +30,11 @@
 {"rule":"PHRASE_REPETITION","sentence":"^\\QPeter Cat\nPeter Cat.\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QJinx Bubastis\nJinx Bubastis.\\E$"}
 {"rule":"PHRASE_REPETITION","sentence":"^\\QCamillo Skragg\nCamillo Skragg.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWhen she teleports, there tends to be a shower of sparks and a \"VASP\" sound effect at both the source and destination.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QYoung man\nSalàm lacom!\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWitness (off-panel)\nLèkad shahidu!\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOscura\", \"C.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSilente\", and \"C.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QPerduta\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThe northernmost island is labeled \"Yhtill\".\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QJusef\nIt was a pleasure, Camillo!\\E$"}

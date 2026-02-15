@@ -39,3 +39,9 @@ neurocomms
 viewscreen
 
 chyron
+mechs
+slugfests
+Hali
+Carcosan
+Jusef
+kufi

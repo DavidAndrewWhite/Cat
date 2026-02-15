@@ -325,7 +325,7 @@ The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.
 #### **Camillo Skragg**  
 > Ahh!  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
-**Camillo Skragg** has just walked out of the hotel; he is on the edge of a large plaza in the middle of Hali. Cafés and restaurants crowd around the edge of the plaza.He seems to be looking for something.  
+**Camillo Skragg** has just walked out of the hotel; he is on the edge of a large plaza in the middle of Hali. Cafés and restaurants crowd around the edge of the plaza. He seems to be looking for something.  
 #### Box  
 > Shortly, just outside the hotel...  
 
@@ -453,4 +453,42 @@ In the background, the **white panel van** approaches a village, kicking up dust
 #### **Penny Skragg** *(to **Carcosan corporal**)*  
 > Thank you!  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
+The **Librarian** looks out through an arched wooden door atop a small landing with a short set of stairs down to the street, and beckons the others to enter.
+#### **Librarian**  
+> *Please,* come inside.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+The **Librarian** leads **Camillo Skragg**, **Penny Skragg**, **Jinx Bubastis**, and **Peter Cat** up a spiral stone staircase inside the tower.  
+#### **Librarian**  
+> The *khamalat* will arrive tomorrow morning.  
+#### **Camillo Skragg**  
+> The *who?*  
+#### **Librarian**  
+> One of the *bearers of the veil.*  
+> The *Malique-en-armahrl* will speak through him.  
+#### **Penny Skragg**  
+> That's the "King in Yellow," right?  
+#### **Librarian**  
+> Yes.  
+### Panel 5 *(Full page width, 1/3rd page height)*:  
+The modest quarters in the Library tower, a mostly circular stone room lit by oil lamps on the walls. Four modest beds are in two pairs on each side of the door. **Peter Cat** looks carefully at the oil lamp -- to his eyes, it is exotic and alien. **Jinx Bubastis** sits on one of the beds. **Camillo Skragg** looks at his smartphone. **Penny Skragg** sits on another bed, yawns, and stretches.  
+#### **Camillo Skragg**  
+> It looks like a *Renaissance Fair* outside, but the *network coverage* is *great.*  
+#### **Penny Skragg**  
+> I'm *beat,* I need a nap.  
 
+## Page 14
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** lies on her bed, eyes closed, sleeping lightly. The oil lamps have been dimmed to a soft yellow glow.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** sits up in her dream; she is sitting on the summit of a low mountain.  
+#### Box *(narration, **Penny Skragg**)*  
+> My uncle *warned* me about the dreams...  
+> I'm on top of a *mountain,* looking down onto a landscape...  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+A **Penny Skragg** stands on the summit of a low mountain and looks towards the horizon. The horizon looks... strange. The terrain near the edge looks cloudy and indistinct, tiny objects too small to be resolved. There should be a distinct visual impression of vast depth -- mountains many hundreds of miles away can be made out as tiny objects. Something brilliant white but thin as the edge of a razor blade defines the horizon, several thousand miles away. The sky is very slightly tilted, with the low side nearest the horizon. 
+#### Box *(narration, **Penny Skragg**)*  
+> Everything looks *wrong.*  
+> I can see *impossibly far.*  
+> The *sky* is *wrong,* it doesn't look *parallel* to the *ground.*  
+> Looking into the *depths,* I feel a little *vertigo.*  
