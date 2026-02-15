@@ -617,7 +617,7 @@ A side view of the hallway in the crew hull leading past the door to the bridge.
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 A view from inside the bridge. The door is open now. **Camillo Skragg** and **Penny Skragg** lean over to look through the doorway. On the other side, **Peter Cat** and **Jinx Bubastis** also lean the other direction to look through the doorway on the other side. No one speaks.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Jinx Bubastis** breaks the silence and points the stations out on the bridge. One station has some equipment the Reyll navigation computer -- held in place with duct tape. 
+**Jinx Bubastis** breaks the silence and points the stations out on the bridge. One station has some equipment -- the Reyll navigation computer -- held in place with duct tape. 
 #### **Jinx Bubastis**  
 > Well. The helm's in front, and the side panels can be configured for communications, gunnery, admin, or analysis.  
 #### **Penny Skragg**
