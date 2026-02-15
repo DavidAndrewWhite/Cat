@@ -14,7 +14,7 @@ A small image of uniformed Fe Arran crew running down a hallway, inset into Pane
 ### Panel 1b *(Small square inset into Panel 1, lower right)*: 
 A small image of crewmen sitting on benches inside a cylindrical escape pod.
 ### Panel 2 *(Half page width, 1/3rd page height)*: 
-**Jinx Bubastis** lies on her belly in narrow maintenance duct illuminated with red light. She is typing on an incongruously "retro" keyboard attached to an access port on the wall, and looks into a glowing green display.
+**Jinx Bubastis** lies on her belly in a narrow maintenance duct illuminated with red light. She is typing on an incongruously "retro" keyboard attached to an access port on the wall, and looks into a glowing green display.
 #### Box *(PA announcement, upper left of panel)*
 > SELF DESTRUCT INITIATED. PROCEED TO ESCAPE CAPSULES IMMEDIATELY. REPEAT--
 #### SF/X *(Mechanical keyboard noises)*
