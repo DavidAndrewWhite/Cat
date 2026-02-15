@@ -729,7 +729,7 @@ A glowing projection of **Angela**, a well-composed female Fe Arran agent workin
 **Angela** tries to reassure **Jolt**.  
 #### **Angela**  
 > They say Peter's *mellowed out*-- 
-#### **Jolt***(off-panel, interrupting)*
+#### **Jolt** *(off-panel, interrupting)*
 > --he was supposed to be *drooling* into a *pillow*.  
 > What happened?  
 #### **Angela**   
