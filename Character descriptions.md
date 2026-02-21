@@ -22,7 +22,7 @@
 
 - **Special effects:** Her mental powers are relatively subtle, but she is excellent at illusions and warping perceptions and uses this to amplify the effects of her telepathic influence. When she teleports, there tends to be a shower of sparks and a "*VASP*" sound effect at both the source and destination.
 
-- **Personality and Affect:** Jinx can be abrasive and cruel, but this is tempered by curiosity and inquisitiveness. Beneath this is a layer of self-awareness; from this arises a surprising, emergent capability for compassion and kindness. However, she can also be extremely judgmental. In fights, this inner conflict manifests as a degree of sadism -- she enjoys hurting and humiliating bad people -- tempered by a degree of restraint arising from her aspirations to avoid nihilism.
+- **Personality and Affect:** Jinx can be abrasive and cruel, but this is tempered by curiosity and inquisitiveness. Beneath this is a layer of self-awareness; from this arises a surprising, emergent capability for compassion and kindness. However, she can also be extremely judgmental. In fights, this inner conflict manifests as a degree of sadism -- she enjoys hurting and humiliating bad people -- tempered by a degree of restraint arising from her aspirations to avoid nihilism. If she tries to justify her actions to you, that means she cares about your opinion.
 
 ### Camillo Skragg
 
@@ -30,7 +30,7 @@
 
 - **Special effects:** Camillo uses powered armor based on Corporate (Fe Arran) designs. Over time, he moves away from the hollow, bulky protective plates used in Corporate designs -- these are very useful, but can be defeated by human military gear (particularly shaped charges and high-velocity penetrators) and are specialized for threats that don't really exist on Earth. He comes to favor designs that primarily focus on sensors, mobility, and power delivery; if he needs heavy firepower, he will use light mechs that are equivalent or superior to human armored vehicles, although this is rare -- he generally avoids getting into slugfests with dangerous entities. Towards the end of the series, he develops a shield based armor suit that is considerably more flexible.
 
-- **Personality and Affect:** Cautious and introverted, with a wry sense of humor. He was subjected to experimental procedures intended to "erase" his memories of working on understanding alien technology; he suffers from PTSD that most frequently manifests in nightmares. 
+- **Personality and Affect:** Cautious and introverted, with a wry sense of humor. He was subjected to experimental procedures intended to "erase" his memories of working on understanding alien technology; he suffers from PTSD that most frequently manifests in nightmares. He has been taking relatively mild anti-psychotics for several decades now, which can sometimes lead him to having a somewhat flat affect.
 
 ### Penny Skragg
 

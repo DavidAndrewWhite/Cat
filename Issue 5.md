@@ -491,4 +491,42 @@ A **Penny Skragg** stands on the summit of a low mountain and looks towards the 
 > Everything looks *wrong.*  
 > I can see *impossibly far.*  
 > The *sky* is *wrong,* it doesn't look *parallel* to the *ground.*  
+> Like I'm *trapped* inside a giant *skull.*  
 > Looking into the *depths,* I feel a little *vertigo.*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+A view over **Penny Skragg's** shoulder as she looks off into the distance. Something that resembles a column of smoky tendrils stretches from the ground to the dome, marking the inside of the dome with a soot-like layer of dark material.
+#### Box *(narration, **Penny Skragg**)*  
+> ...and what the *fuck* is *that?*  
+> It's like a *column of smoke* reaching to the *top* of the *dome.*  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
+A close up on **Penny Skragg's** face as her expression shift to one of terror.  
+#### Box *(narration, **Penny Skragg**)*  
+> The more I *look at it,* the more I think it's *looking back at me.*  
+> Nope.  
+### Panel 6 *(1/3rd page width, 1/3rd page height)*:  
+**Penny Skragg** looks down at her legs. She's now wearing an ornate pair of over-the-knee boots.  
+#### Box *(narration, **Penny Skragg**)*  
+> Lucky for me, I've always been a *lucid dreamer.*  
+> Time for my *seven-league boots.*  
+
+## Page 15  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+A distorted perspective as **Penny Skragg** uses her seven-league boots to flee to the horizon, away from the column of smoke. She resembles one of the figures from R. Crumb's "Keep On Truckin'" cartoon. The landscape is warped as her next step takes her hundreds of miles forwards. 
+#### Box *(narration, **Penny Skragg**)*  
+> Every stride's *hundreds of miles.*  
+> Just the thing when it's time to *nope outta here.*  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+The razor-thin white stripe that marked the end of the horizon becomes a high ice wall.  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+Proportions and perspective return, more or less, to normal. **Penny Skragg** is on top of the ice wall, and walks up to the edge, where the sky is perpendicular to the icy ground.
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** hits the sky-wall, which begins to crack.
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** crawls through a hole in the dome, into a luminous black void. The composition should be similar to the Flammarion engraving.
+#### **Penny Skragg**  
+> I push through the dome into the darkness.  
+> I feel like I just *broke out of prison.*  
+
+## Page 16  
+
