@@ -203,8 +203,8 @@ The interior of the **Air Hyades** jet, a relatively small jetliner with a singl
 ### Panel 5 *(Full page width, 1/3rd page height)*:  
 The **Air Hyades** airliner approaches the city of **Hali**. While the center of town has a few tall skyscrapers, most of the rest of the town are low buildings made of marble. Towards the lake shore, there are broad thoroughfares and plazas. A few towers mark the skyline in these residential areas.  
 #### Announcement *(Public Address system)*  
-> We will be landing shortly.  
 > Visitors are reminded that the standard *tourist visa* does *not* permit leaving Hali city limits.  
+> Cabin crew, prepare for landing.  
 #### Title  
 > A Mission to Carcosa  
 
@@ -219,8 +219,8 @@ The **Air Hyades** airliner approaches the city of **Hali**. While the center of
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg** and **Penny Skragg** sit at a table in front of a plain white backdrop. A **Witness** with a **Yellow Sign** tattoo on the back of his hand -- much like the **young man** from the steakhouse in Phoenecia -- prepares to give them a Significant Look.  
 #### **Immigration officer**  
-> We will arrange transport to your final destination.  
 > Please do not leave Hali on your own.  
+> We will arrange transport to your final destination.  
 #### **Camillo Skragg**  
 > Is it *dangerous?*  
 #### **Witness**  
@@ -229,7 +229,7 @@ The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubasti
 ### Panel 3 *(1/4th page width, 1/3rd page height)*:  
 **Peter Cat** looks directly at the reader. He is calm but curious.  
 #### **Witness** *(off-panel)*  
-> Please look straight ahead and state your name.  
+> Look straight ahead and state your name.  
 #### **Peter Cat**  
 > Peter Cat.
 ### Panel 4 *(1/4th page width, 1/3rd page height)*:  
@@ -310,7 +310,7 @@ The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.
 #### **Camillo Skragg**  
 > How did you *find* this place?  
 #### **Jusef**  
-> People have been *dreaming* of this place for a long, long time.  
+> People have visited it in *dreams* for a long, long time.  
 > I'm *learning* how to read old *journals.*  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** looks up, seeming to notice something. **Jusef** smiles at him and turns away a little.  
@@ -334,7 +334,7 @@ The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** walks towards a chalkboard in front of a café. The phrase "You can talk about it here" is written in chalk on the chalkboard.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-A **Waitress** points **Camillo Skragg** to the tables in the middle of the café.  
+A **Waitress** points **Camillo Skragg** to the tables in the middle of the café. In the corner of the room is a small table with an odd-looking, throne-like chair made of dark-stained wood. 
 #### **Waitress**  
 > You can sit *anywhere* but in the corner-- 
 > --that's the *Stranger's* place.  
@@ -358,7 +358,7 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the caf�
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** has taken a sip from his glass; **Jusef** is in the middle of taking his.  
 #### **Camillo Skragg**  
-> And you learned about that place from a *dream journal?*  
+> And you learned about the colony from someone's *journal?*  
 > I don't really understand the customs about *writing.*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Jusef** gestures towards **Camillo Skragg** and talks with some animation.  
@@ -490,9 +490,9 @@ A **Penny Skragg** stands on the summit of a low mountain and looks towards the 
 #### Box *(narration, **Penny Skragg**)*  
 > Everything looks *wrong.*  
 > I can see *impossibly far.*  
-> The *sky* is *wrong,* it doesn't look *parallel* to the *ground.*  
+> The *sky* doesn't look *parallel* to the *ground,* like it's *painted on the inside of a giant dome.*  
 > Like I'm *trapped* inside a giant *skull.*  
-> Looking into the *depths,* I feel a little *vertigo.*  
+> Looking at the *horizon* is like staring into an *abyss.*  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 A view over **Penny Skragg's** shoulder as she looks off into the distance. Something that resembles a column of smoky tendrils stretches from the ground to the dome, marking the inside of the dome with a soot-like layer of dark material.
 #### Box *(narration, **Penny Skragg**)*  
