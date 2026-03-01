@@ -334,7 +334,7 @@ The gigantic red sun looms overhead above **Camillo Skragg** and **Jusef**.
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** walks towards a chalkboard in front of a café. The phrase "You can talk about it here" is written in chalk on the chalkboard.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-A **Waitress** points **Camillo Skragg** to the tables in the middle of the café. In the corner of the room is a small table with an odd-looking, throne-like chair made of dark-stained wood. 
+A **Waitress** points **Camillo Skragg** to the tables in the middle of the café. In the corner of the room is a small table with an odd-looking, straight-backed chair with no armrests made of dark-stained wood. 
 #### **Waitress**  
 > You can sit *anywhere* but in the corner-- 
 > --that's the *Stranger's* place.  
@@ -523,10 +523,40 @@ Proportions and perspective return, more or less, to normal. **Penny Skragg** is
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** hits the sky-wall, which begins to crack.
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Penny Skragg** crawls through a hole in the dome, into a luminous black void. The composition should be similar to the Flammarion engraving.
+**Penny Skragg** crawls through a hole in the dome, into a luminous black void. The composition should be similar to the Flammarion engraving, but with an inky void suffused with light and not crystal spheres and cosmic mechanisms.
 #### **Penny Skragg**  
 > I push through the dome into the darkness.  
 > I feel like I just *broke out of prison.*  
 
 ## Page 16  
+
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**Penny Skragg** sits up abruptly in bed, looking like she is gasping for air. **Camillo Skragg** observes her with a mixture of concern and a little bemusement.  
+#### **Penny Skragg**  
+> AAH!  
+#### **Camillo Skragg**  
+> One of *those* dreams?  
+> Are you OK?  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+**Penny Skragg** recovers her composure, and swings her feet onto the floor to get out of bed. **Camillo Skragg** looks a relieved.  
+#### **Penny Skragg**  
+> Oh, yeah. It was a *weird* one.  
+#### **Camillo Skragg**  
+> How so?  
+#### **Penny Skragg**  
+> I had to *escape from a flat earth...*  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+A dining room in the observatory tower. **Peter Cat**, **Jinx Bubastis**, **Penny Skragg**, and **Camillo Skragg** have entered from the left of the panel through a wide wooden door. A rectangular table has four places set, two on each side, with a full dinner service. At the head of the table, a young man (**The Volunteer**) lowers a veil over his face. He still looks like a healthy young man. On the back of his left hand, **The Volunteer** bears the **Yellow Sign**. **The Volunteer** sits at a chair identical to the Stranger's chair from Page 10, Panel 2.
+#### Box *(narration. top left)*  
+> Shortly...  
+#### **The Volunteer** *(quietly, from beneath the veil)*  
+> *He* will be with you shortly...  
+> ...please have a seat.  
+#### Panel 4 *(Full page width, 1/3rd page height)*:  
+A close-up of the table. In the middle of the page, **The King in Yellow** stands in front of the Stranger's chair, gesturing with spread arms beckoning the others to the table, fully transformed into his ancient form. On the left side, **Jinx Bubastis** sits nearest to the head of the table, with a tense expression, alert for an imminent threat. **Peter Cat** takes the next seat on the left, and is looking carefully at **Jinx Bubastis**. **Penny Skragg** takes the chair nearest the head of the table on the right side, still feeling a little disoriented from her dream. **Camillo Skragg** sits at the next place out on the right side of the table and examines the silverware, silently reminding himself to use them from outside to inside -- it's been a while since he's seen a full table setting.  
+#### **The King in Yellow**  
+> Thank you for *accepting* my *invitation...*  
+> ...We have *much* to *discuss.*  
+
+## Page 17  
 
