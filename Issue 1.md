@@ -143,7 +143,7 @@ Inside the darkened bunker control room, the **Corporate chief** looks at a disp
 ##### **Corporate crewman (2)**
 > Well, I hear vaporization doesn't hurt at all. It's a good way to go.
 ### Panel 4 *(Half page width, 1/3rd page height)*:
-The door to the darkened room opens, and **Peter Cat** and **Jinx Bubastis** stand in the doorway. **Peter Cat** is animatedly explaining something to **Jinx Bubastis**.
+The door to the darkened room opens, and **Peter Cat** and **Jinx Bubastis** stand in the doorway. **Peter Cat** has made a complete recovery, and is explaining something to **Jinx Bubastis**.
 #### **Peter Cat**
 > --so after force-growth, a clone brain is filled with random neural connections. The drug they gave me clears those out for conditioning.  
 #### **Jinx Bubastis**
@@ -205,7 +205,7 @@ Now **Jinx Bubastis** is in the foreground. She speaks to the ship's computer. *
 ## Page 7
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:
-A close-up on **Jinx Bubastis**, scratching her chin as she starts speaking animatedly.  
+A close-up on **Jinx Bubastis**, scratching her chin as she starts speaking. She is eager to explain her findings.  
 #### **Jinx Bubastis**
 > The Corporation isn't kidding about keeping it secret.  
 > Get this--  
@@ -234,7 +234,7 @@ A close up of **Peter Cat**, who is starting to smile a little.
 ## Page 8
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:
-**Peter Cat** bends over and squints to view a tiny blue dot highlighted with a yellow bounding cube. A flat quad linked to the bounding cube shows the display of a waveform. **Jinx Bubastis** stands behind him and grins.
+**Peter Cat** bends over and squints to view a tiny blue dot highlighted with a yellow wireframe cube. A flat quad (a textured, 2D rectangular surface) linked to the cube shows the display of a waveform. **Jinx Bubastis** stands behind him and grins.
 #### **Peter Cat**
 > What's *that* supposed to be?  
 #### **Jinx Bubastis**
@@ -401,7 +401,7 @@ Inside the ship, **Jinx Bubastis** closes the airlock behind her. **Camillo Skra
 > All right, just sit down.  
 > Hold still so the inertial compensators can do their thing.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:
-**Camillo Skragg** looks at **Penny Skragg**. **Penny Skragg** is looking off into the distance with a thousand yard stare. They sit on the floor and lean against the wall, huddled together.  
+**Camillo Skragg** looks at **Penny Skragg**. **Penny Skragg** is looking off into the distance with a thousand yard stare. They sit on the floor and lean against the wall.  
 #### **Camillo Skragg**  
 > Did you forget my meds this morning?  
 #### **Penny Skragg**  
@@ -424,7 +424,7 @@ Seen from the point of view of **Camillo Skragg** and **Penny Skragg**, **Peter 
 > Hi there!  
 > We'll be with you in a bit.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:
-**Camillo Skragg** and **Penny Skragg** huddle together on the floor as **Peter Cat** rushes off to the cockpit in the crew hull.  
+**Camillo Skragg** and **Penny Skragg** try to hide behind each other on the floor as **Peter Cat** rushes off to the cockpit in the crew hull.  
 #### **Penny Skragg**
 > Nah, I'm *definitely* hallucinating.  
 #### **Camillo Skragg**  
@@ -533,7 +533,7 @@ Front and center is a banal safety sign next to the door frame, an upward pointi
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** stares at **Jinx Bubastis** with obvious disbelief. **Camillo Skragg**, still sitting on the floor, looks up a little.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
-Largely the same composition as Panel 3 -- **Penny Skragg** animatedly expresses her disbelief, and **Camillo Skragg** mumbles.  
+Largely the same composition as Panel 3 -- **Penny Skragg** emphatically expresses her disbelief, and **Camillo Skragg** mumbles.  
 #### **Penny Skragg**  
 > We're not *ANCIENT ALIENS*!  
 > We're two *assholes* from the *Catskills*!  
