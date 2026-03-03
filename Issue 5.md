@@ -556,7 +556,44 @@ A dining room in the observatory tower. **Peter Cat**, **Jinx Bubastis**, **Penn
 A close-up of the table. In the middle of the page, **The King in Yellow** stands in front of the Stranger's chair, gesturing with spread arms beckoning the others to the table, fully transformed into his ancient form. On the left side, **Jinx Bubastis** sits nearest to the head of the table, with a tense expression, alert for an imminent threat. **Peter Cat** takes the next seat on the left, and is looking carefully at **Jinx Bubastis**. **Penny Skragg** takes the chair nearest the head of the table on the right side, still feeling a little disoriented from her dream. **Camillo Skragg** sits at the next place out on the right side of the table and examines the silverware, silently reminding himself to use them from outside to inside -- it's been a while since he's seen a full table setting.  
 #### **The King in Yellow**  
 > Thank you for *accepting* my *invitation...*  
-> ...We have *much* to *discuss.*  
+> ...we have *much* to *discuss.*  
 
 ## Page 17  
 
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** holds one hand over his heart.  
+#### **The King in Yellow**  
+> I imagine you have questions...  
+> ...who I *am*, what I *wanted* to *tell you...*  
+> ...let us *begin.*  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+**Jinx Bubastis** looks down at her plate, listening carefully, with her hands resting lightly on the table. **Peter Cat** has shifted in his chair to look directly at **The King in Yellow** with an expression of mild surprise.  
+#### **The King in Yellow** *(off-panel)*  
+> I was *human* once.  
+> A proud son of *Atlantis.*  
+### Panel 3 *(Half page width, 1/3rd page height)*: 
+**Penny Skragg** looks at **The King in Yellow** as he speaks, her expression suggesting fascination. **Camillo Skragg** appears to be ruminating with his elbows on the table.  
+#### **The King in Yellow** *(off-panel)*  
+> But this was *long ago.*  
+> Being "human" meant *something else* then.  
+> We *walked* among the *stars.*    
+> *Reality* was our *plaything.*  
+### Panel 4 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** continues talking, his posture suggesting a mournful aspect.  
+#### **The King in Yellow**  
+> And this place?  
+> *Plato* called it "Atlantis" in his *fables.*
+> *We* had another name in a language I *dare not speak.*    
+> Now it is a *shattered fragment* of a *great island.*  
+> Settlers from *Al-Andalus* came here and called it "Kisra", which the *Genoese* and *time* turned into "Carcosa".  
+### Panel 5 *(Full page width, 1/3rd page height)*: 
+**The King in Yellow** stands before his chair, his head bowed. **Jinx Bubastis** looks at **The King in Yellow** with some suspicion, as if she is looking for some kind of inconsistency in his words. **Peter Cat** maintains a studied, neutral expression. **Penny Skragg** is obviously fascinated. **Camillo Skragg** has remembered that he shouldn't put his elbows on the table, and looks like he has a question he wants to ask.    
+#### **The King in Yellow**  
+> What *shattered* our grand island?  
+> I *saw* it, and fled into *space*.  
+> Lived as a "flash mind" on the star Aldebaran for *millennia* before my *terror* abated.  
+> Before I could *bear* to *return.*  
+
+## Page 18  
+
+### Panel 1 *(Half page width, 1/3rd page height)*: 
