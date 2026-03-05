@@ -597,3 +597,43 @@ A close-up of the table. In the middle of the page, **The King in Yellow** stand
 ## Page 18  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*: 
+**Camillo Skragg** asks his question. **The King in Yellow** replies, and walks past the behind of **Penny Skragg's** chair as he approaches **Camillo Skragg**.  
+#### **Camillo Skragg**  
+> So, *your people* explored *space?*  
+> *You* were the ones behind the *colonies?*  
+#### **The King in Yellow**  
+> Yes.  
+> Our *seers* sought out *other worlds.*  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** slowly approaches **Camillo Skragg**, and traces out a spider-web like pattern as he recalls the process of Atlantean space colonization.  
+#### **The King in Yellow**  
+> We built a web of *shunts* and found *primitives* to pass through them...  
+> ...to seed the *places* we found.  
+#### **Camillo Skragg**  
+> But...  
+> ...how were you *expecting* that to *work?*  
+### Panel 3 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** looks at **Camillo Skragg** with a certain haughtiness. **Camillo Skragg** is baffled by what he is hearing.  
+#### **The King in Yellow**  
+> You, Mr. Skragg, are a product of an *age of machines.*  
+> You expect *success* to be *measurable* and *reproducible.*  
+> *That* was not our way.    
+#### **Camillo Skragg**  
+> So what *were* you thinking?  
+### Panel 4 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** crosses his arms in front of him and looks off to the side. While is posture is basically defensive, there is a certain self-mockery at play; he recognizes the ridiculousness of what he is saying.  
+#### **The King in Yellow**  
+> Our *will* be *done.*  
+> I can only *imagine* how that must sound to you, Mr. Skragg.  
+> But I swear, it was *just that simple.*  
+### Panel 5 *(Full page width, 1/3rd page height)*: 
+A full view of the table. **The King in Yellow** stands behind **Camillo Skragg's** chair, and gestures to the servant wheeling a cart with food into the room. **Camillo Skragg** is still processing what he just heard, and looks a little puzzled. **Penny Skragg** has noticed **The King in Yellow's** gentle self-deprecation and is mildly amused. **Jinx Bubastis** looks a little angry, but is holding her tongue. **Peter Cat** looks at **Jinx Bubastis** and **Penny Skragg** and mentally tries to reconcile their expressions.  
+#### **The King in Yellow** 
+> I have *touched* the minds of *modern men*.  
+> Without *preparation,* they *break.*  
+> I show them *power,* and they see *madness.*    
+> Servants! Bring in the food!  
+> Eat, then I will show you *more.*  
+
+## Page 19  
+
