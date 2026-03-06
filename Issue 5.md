@@ -637,3 +637,26 @@ A full view of the table. **The King in Yellow** stands behind **Camillo Skragg'
 
 ## Page 19  
 
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** leads **Penny Skragg**, **Camillo Skragg**, **Jinx Bubastis**, and **Peter Cat** up a stone spiral staircase to the observatory.
+#### Box *(narration, upper left)*  
+> After a brief meal...  
+#### **The King in Yellow**  
+> Intelligent *moderns* have come to think an *industrial society* oriented towards serving *human needs* is the height of *hubris...*  
+> ...they have no *idea.*  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+The Observatory is more like a planetarium, a dome of finely-cut marble with an elaborate lantern in the middle. Suspended above the lantern is a half-dome of thin material that appears, for now, to be featureless. **The King in Yellow** ignites the lantern with a fingertip and prepares to lower a mantle over the flame beneath the half-dome. This device is a kind of magic lantern, that will project images on the inside of the dome. The focus in this panel is **The King in Yellow** getting the magic lantern ready, the next panel will be a proper establishing shot of the interior.  
+#### **The King in Yellow**  
+> Pity I was *off-world* when *Plato* wrote his *fables,* I could have told him some *juicy gossip.*  
+### Panel 3 *(Full page width, 1/3rd page height)*: 
+The inside of the Observatory is bathed in brilliant white light as the mantle heats up enough to glow; this is an establishing panel, where the form of the room is clearly visible. **The King in Yellow** prepares to lower the dome over the lantern. **Camillo Skragg** shades his eyes with one hand, **Penny Skragg** squints, **Jinx Bubastis** scowls, and **Peter Cat** seems not to notice.  
+#### **The King in Yellow**  
+> There we are.  
+> Now, for what I wanted to *show* you...  
+### Panel 4 *(Full page width, 1/3rd page height)*: 
+Now that the dome has been lowered over the lantern, an image of the world from Penny's dream (Pages 14 and 15) is projected onto the inside of the dome. **Penny Skragg** gasps visibly. 
+#### **Penny Skragg** *(under her breath)*  
+> I've *been* here...  
+#### **The King in Yellow**  
+> ...*this* is the prison we built when our *creations* got out of hand.  
+> And, in *one* case, we locked away a *goddess* from the *outer darkness.*  
