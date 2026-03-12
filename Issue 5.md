@@ -647,7 +647,8 @@ A full view of the table. **The King in Yellow** stands behind **Camillo Skragg'
 ### Panel 2 *(Half page width, 1/3rd page height)*: 
 The Observatory is more like a planetarium, a dome of finely-cut marble with an elaborate lantern in the middle. Suspended above the lantern is a half-dome of thin material that appears, for now, to be featureless. **The King in Yellow** ignites the lantern with a fingertip and prepares to lower a mantle over the flame beneath the half-dome. This device is a kind of magic lantern, that will project images on the inside of the dome. The focus in this panel is **The King in Yellow** getting the magic lantern ready, the next panel will be a proper establishing shot of the interior.  
 #### **The King in Yellow**  
-> Pity I was *off-world* when *Plato* wrote his *fables,* I could have told him some *juicy gossip.*  
+> Pity I was *off-world* when *Plato* wrote his *fables.*  
+> He understood our *nature* but not our *substance.*  
 ### Panel 3 *(Full page width, 1/3rd page height)*: 
 The inside of the Observatory is bathed in brilliant white light as the mantle heats up enough to glow; this is an establishing panel, where the form of the room is clearly visible. **The King in Yellow** prepares to lower the dome over the lantern. **Camillo Skragg** shades his eyes with one hand, **Penny Skragg** squints, **Jinx Bubastis** scowls, and **Peter Cat** seems not to notice.  
 #### **The King in Yellow**  
@@ -660,3 +661,85 @@ Now that the dome has been lowered over the lantern, an image of the world from 
 #### **The King in Yellow**  
 > ...*this* is the prison we built when our *creations* got out of hand.  
 > And, in *one* case, we locked away a *goddess* from the *outer darkness.*  
+
+## Page 20  
+
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** points to what appears to be a column of tendrils of smoke, leaving a sooty mark on the dome above.  
+#### **The King in Yellow**  
+> *This* is *Tiamat.*  
+> She was *young* when this world was still *cooling.*  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** turns a little away from the column of smoke, and keeps **Jinx Bubastis** in his peripheral vision. **Jinx Bubastis** stiffens a little as she becomes aware that she's being side-eyed.    
+#### **The King in Yellow**  
+> *She* and *her kind* created *immortal souls* as a form of *currency.*  
+> When a mortal *dies,* the *soul* passes through the *Lake of Fire,* and the contradictions of *self* burn away.   
+> For the *Space Bankers,* the soul becomes *fungible,* and can then be *minted.*  
+### Panel 3 *(Half page width, 1/3rd page height)*: 
+**Camillo Skragg** struggles to understand what he is hearing, and in that struggle, he remembers something, and asks a question. **The King in Yellow** turns a little towards him.  
+#### **Camillo Skragg**  
+> So, when *Charles Fort* said "I think we're property" he wasn't *wrong.*  
+> We're *currency?*  
+#### **The King in Yellow**  
+> Not exactly.  
+> *Humans* were an *accident.*  
+### Panel 4 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** turns his attention back to the column of smoke in the distance.  
+#### **The King in Yellow**  
+> *Tiamat* is the *true* owner of *this world.*  
+> Her *investments* failed, and the *Space Bankers* sent their *Executors.*  
+> Her creations -- *dinosaurs* -- were *liquidated* to settle her *debts.*  
+### Panel 5 *(Full page width, 1/3rd page height)*: 
+**The King in Yellow** turns aways, back towards the others. He is looking off-panel, trying to read the others' reaction to what he is saying. **Peter Cat** is about to ask a question. **Jinx Bubastis** looks like she wants to be anywhere else. **Camillo Skragg** is visibly struggling to integrate what he is hearing. **Penny Skragg** is slack-jawed, in a mild state of mental shock.  
+#### **The King in Yellow**  
+> *We* are the *rats* and *cockroaches* that *thrived* in the *ruins.*  
+> For the *Space Bankers,* a *pest control problem.*  
+
+## Page 21  
+
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**Peter Cat** asks a question, and **The King in Yellow** does his best to answer.  
+#### **Peter Cat**  
+> What about *us?*  
+> *Our people?*  
+#### **The King in Yellow**  
+> Good question!  
+> I'd *speculate* that *your kind* are *too young* to have attracted *their* attention.  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** continues talking, gesturing broadly.  
+#### **The King in Yellow**  
+> You haven't *scattered* yourself throughout the *galaxy.*  
+> Or tried to *communicate* with these *elder beings.*  
+> We *got* their *attention.*  
+### Panel 3 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** shrinks a little, holding his hands in front of him, looking down a little.  
+#### **The King in Yellow**  
+> *Tiamat* came *here,* and tried to *liquidate* the human race.  
+> We *fought* her, we *imprisoned* her.  
+> And then the *Exterminators* came.  
+### Panel 4 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** makes a fist in front of his face.  
+#### **The King in Yellow**  
+> I *fled* when their *gravity weapon* transformed *most* of our island nation into a *lump of collapsed matter.*  
+> It *sank* to the Earth's *core,* some *misguided souls* call it "The Black Sun".  
+### Panel 5 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** turns to **Penny Skragg**.  
+#### **The King in Yellow**  
+> I don't *suppose* your patron, this *Magister,* has told you *any* of this?  
+#### **Penny Skragg**  
+> No.  
+> Is he your *rival?*  
+### Panel 6 *(Half page width, 1/3rd page height)*: 
+A close-up on **The King in Yellow's** veiled face. What can be seen beneath the veil suggests a somber expression.  
+#### **The King in Yellow**  
+> I *have* no *rivals.*  
+
+## Page 22  
+
+### Panel 1 *(Half page width, 1/3rd page height)*: 
+**The King in Yellow** turns to face **Camillo Skragg**, **Penny Skragg**, and **Peter Cat**.  
+#### **The King in Yellow**  
+> All I ask is that you do not obey him *blindly.*  
+> Do not *expect* him to *tell the truth.*  
+> *The Magister* is both *more* and *less* than he seems.  
+### Panel 2 *(Half page width, 1/3rd page height)*: 
