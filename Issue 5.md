@@ -736,10 +736,94 @@ A close-up on **The King in Yellow's** veiled face. What can be seen beneath the
 
 ## Page 22  
 
-### Panel 1 *(Half page width, 1/3rd page height)*: 
+### Panel 1 *(1/3rd page width, 1/3rd page height)*: 
 **The King in Yellow** turns to face **Camillo Skragg**, **Penny Skragg**, and **Peter Cat**.  
 #### **The King in Yellow**  
 > All I ask is that you do not obey him *blindly.*  
 > Do not *expect* him to *tell the truth.*  
 > *The Magister* is both *more* and *less* than he seems.  
-### Panel 2 *(Half page width, 1/3rd page height)*: 
+### Panel 2 *(1/3rd page width, 1/3rd page height)*: 
+**The King in Yellow** now turns towards **Jinx Bubastis**; he reaches beneath his robe for a small box that resembles the kind of boxes used for rings.  
+#### **The King in Yellow**  
+> And now, as for *you...*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*: 
+A close-up of **The King in Yellow's** hand, which holds the small box. The box is open; inside, a gold coin bearing the **Yellow Sign** stands upright. The coin has a strange, dark aura.
+#### **The King in Yellow**  
+> ...please *listen carefully.*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*: 
+**Jinx Bubastis** stares at the coin and ring box with a cold, hard expression and a raised eyebrow. **The King in Yellow** holds the open box in front of him, and is only partially visible in panel. 
+#### **The King in Yellow**  
+> I *bind* you, *Jnnqae Mrrlo Bebestozh*, and *command* you...  
+> ...cast no *alien souls* into the Lake of Fire.  
+> You prey on *humans* now.  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*: 
+**Jinx Bubastis** takes the ring box from **The King in Yellow's** outstretched hand.  
+### Panel 6 *(1/3rd page width, 1/3rd page height)*: 
+**Jinx Bubastis** snaps the ring box closed, and scowls at **The King in Yellow**.  
+#### **Jinx Bubastis**  
+> I am not *yours* to *bind,* wizard.  
+### Panel 7 *(Full page width, 1/3rd page height)*:  
+**Jinx Bubastis** points an accusing finger at **The King in Yellow**. She is furious. An abstract background might work well here, to emphasize the tension in the room.  
+#### **Jinx Bubastis**  
+> I am *not* one of your *pithed thralls* that you *use* as *meat puppets.*  
+> I *know* bearing *your sign* destroys the soul.  
+> I *know* why you *fear death--*  
+
+## Page 23  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+A close-up of **Jinx Bubastis** as she finishes her accusation, staring down **The King in Yellow**, who is standing off-panel to the left.  
+#### **Jinx Bubastis**  
+> --when you pass through the *Lake of Fire*  
+> and *all contradictions* are *burned away*  
+> *NOTHING* will remain.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** watches the confrontation with the studied, neutral expression he adopts before doing something extremely violent. It shouldn't be an obvious threat, but it is an example of something that is a recurring theme that readers coming back to this issue might pick up on. Keep it subtle. **Penny Skragg** whispers something to **Camillo Skragg**, who is standing behind her, and he whispers back; what he says seems to disturb her.  
+#### **Penny Skragg** *(whispering to **Camillo Skragg**)*  
+> "Pithed?"  
+#### **Camillo Skragg** *(whispering to **Penny Skragg**)*  
+> It's when you *destroy* the *central nervous system* of an *animal.*  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+**The King in Yellow** stands, defiant but silent. **Jinx Bubastis** turns towards **Peter Cat**. **Peter Cat** stares down **The King in Yellow**. **Penny Skragg** and **Camillo Skragg** watch tensely.  
+#### **Peter Cat**  
+> We're leaving.  
+#### **Penny Skragg**  
+> We're leaving?  
+#### **Jinx Bubastis**  
+> We're leaving!  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+**Jinx Bubastis**, **Peter Cat**, **Penny Skragg**, and **Camillo Skragg** head towards the van outside the library tower. It is bright outside, and a beautiful day. **Camillo Skragg** looks out with a wistful expression. Carcosa is beautiful, and he regrets that they will likely never return.  
+
+## Page 24
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+Night, the exterior of **Camillo Skragg's** house back in Phoenecia, NY.  
+#### Box *(narrative, upper left)*  
+> Back home...  
+#### **Penny Skragg** *(from inside the house)*  
+> So, you're telling me the *possession* is *permanent?*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+Interior of the kitchen. **Jinx Bubastis** sits at the kitchen table, with the ring box open in front of her. Her eyes are fixed on the coin. **Penny Skragg** stands off to the side, looking at **Jinx Bubastis** with some concern.  
+#### **Jinx Bubastis**  
+> Permanent, and *irreversible.*  
+#### **Penny Skragg**  
+> Whoa.  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+**Peter Cat** stands behind **Jinx Bubastis** and places his hand on her shoulder. **Jinx Bubastis** covers his hand with hers. **Penny Skragg** stands next to the kitchen table, like in Panel 2. **Camillo Skragg** leans on the kitchen counter.  
+#### **Jinx Bubastis**  
+> And the coin contains what's left of *Demonslayer's soul.*  
+#### **Camillo Skragg**  
+> Can she... come back?  
+#### **Jinx Bubastis**  
+> No.  
+> It's like an *urn* filled with *ashes* of a *cremated corpse.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+At the kitchen table, **Jinx Bubastis** holds the coin in one hand, between finger and thumb, looking at the face of the coin.  
+#### **Jinx Bubastis**  
+> And as for this *King in Yellow*  
+> for *Carcosa* and the *history* behind it...
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+A close-up on **Jinx Bubastis'** hand, holding the coin. The **Yellow Sign** is clearly visible on the face of the coin, which has a strange, dark aura.  
+#### **Jinx Bubastis**  
+> ...it's a very *human* kind of *madness.*  
+
