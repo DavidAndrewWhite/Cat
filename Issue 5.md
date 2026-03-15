@@ -11,7 +11,7 @@ The **Black Sabbath** on landing approach over Main St in Phoenecia, NY. The are
 > All right, just a bit further out of the middle of town.  
 > There's a spot *behind* the house, see if you can *set down there.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-The **Black Sabbath** has landed in the backyard of **Camillo Skragg's** house. **Camillo Skragg** and **Penny Skragg** lead **Jinx Bubastsis** and **Peter Cat** to the back door of the house.
+The **Black Sabbath** has landed in the backyard of **Camillo Skragg's** house. **Camillo Skragg** and **Penny Skragg** lead **Jinx Bubastis** and **Peter Cat** to the back door of the house.
 #### **Penny Skragg**  
 > It looks like there wasn't very much damage from when the troops pulled out.  
 #### **Peter Cat**  
