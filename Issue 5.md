@@ -282,7 +282,7 @@ Viewed from above, **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **P
 > Hey!  
 > What are *you* doing *here?*  
 #### **Jusef**  
-> Sàlam! I am *Jusef.*  
+> Salàm! I am *Jusef.*  
 > We're having a *picnic.*  
 ### Panel 7 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** sits down next to **Jusef** on the blanket.  
@@ -351,7 +351,7 @@ A **Waitress** points **Camillo Skragg** to the tables in the middle of the caf�
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Jusef** smiles broadly and pours a herbal liqueur into two small glasses.  
 #### **Jusef**  
-> "Zhilàl di achlèm l'rizhal tamtaddu en ashir."  
+> "Jilàl di achlèm l'rizhal tamtaddu en ashir."  
 > It's an old saying.  
 > "The shadows of men's thoughts lengthen in the afternoon."  
 > *Dreams* are a kind of *public space* here.  
@@ -826,4 +826,3 @@ At the kitchen table, **Jinx Bubastis** holds the coin in one hand, between fing
 A close-up on **Jinx Bubastis'** hand, holding the coin. The **Yellow Sign** is clearly visible on the face of the coin, which has a strange, dark aura.  
 #### **Jinx Bubastis**  
 > ...it's a very *human* kind of *madness.*  
-
