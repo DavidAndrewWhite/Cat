@@ -801,17 +801,26 @@ Night, the exterior of **Camillo Skragg's** house back in Phoenecia, NY.
 #### Box *(narrative, upper left)*  
 > Back home...  
 #### **Penny Skragg** *(from inside the house)*  
-> So, you're telling me the *possession* is *permanent?*  
+> So, what *happened?*    
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 Interior of the kitchen. **Jinx Bubastis** sits at the kitchen table, with the ring box open in front of her. Her eyes are fixed on the coin. **Penny Skragg** stands off to the side, looking at **Jinx Bubastis** with some concern.  
 #### **Jinx Bubastis**  
-> Permanent, and *irreversible.*  
+> *Goetia.*
+> *Low magic* used to summon and coerce *demons.*  
+> He spoke my *true name* and gave an unmistakable *command.*  
 #### **Penny Skragg**  
-> Whoa.  
+> So it was *self-defense?*  
+#### **Jinx Bubastis**  
+> Yes.  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 **Peter Cat** stands behind **Jinx Bubastis** and places his hand on her shoulder. **Jinx Bubastis** covers his hand with hers. **Penny Skragg** stands next to the kitchen table, like in Panel 2. **Camillo Skragg** leans on the kitchen counter.  
 #### **Jinx Bubastis**  
-> And the coin contains what's left of *Demonslayer's soul.*  
+> *Wizards* see *everything* as an *instrument* to *serve their will.*  
+> This *trinket* he gave me was meant to *force* me to *comply.*  
+#### **Peter Cat**  
+> What *is* this coin, really?  
+#### **Jinx Bubastis**  
+> It contains what's left of *Demonslayer's soul.*  
 #### **Camillo Skragg**  
 > Can she... come back?  
 #### **Jinx Bubastis**  
@@ -820,8 +829,8 @@ Interior of the kitchen. **Jinx Bubastis** sits at the kitchen table, with the r
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 At the kitchen table, **Jinx Bubastis** holds the coin in one hand, between finger and thumb, looking at the face of the coin.  
 #### **Jinx Bubastis**  
-> And as for this *King in Yellow*  
-> for *Carcosa* and the *history* behind it...
+> The *King in Yellow* is a *tragedy.*  
+> So much *knowledge,* offered at a *terrible price...*  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 A close-up on **Jinx Bubastis'** hand, holding the coin. The **Yellow Sign** is clearly visible on the face of the coin, which has a strange, dark aura.  
 #### **Jinx Bubastis**  
