@@ -47,3 +47,20 @@ A close-up on **Camillo Skragg**. He looks determined.
 > Where I learned how to build an *interocitor?*  
 > I *think* I found my *successor.*  
 
+## Page 2  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+Outside, at night. A dark figure -- **Peregrine** -- sits on the ground in a clearing in a forest in the night. The sky is full of stars, the Milky Way is visible. **Peregrine** looks up at the sky. The landscape is dominated by high mountains.
+#### Box *(narration, upper left)*  
+> Near Grand Teton, deep in Wyoming  
+#### **Peregrine**  
+> I can *feel* you there.  
+> Step into the clearing.  
+> Talk to me.  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+**The Magister** approaches **Peregrine**. **Peregrine** keeps looking at the stars.  
+#### **The Magister**  
+> It's me, *Peregrine.*  
+#### **Peregrine**  
+> What do you *need,* Teacher?  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
