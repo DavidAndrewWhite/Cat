@@ -36,8 +36,8 @@ A view over **Camillo Skragg's** shoulder as he looks over **Peter Cat's** shoul
 > The *U.S. Patent Office.*  
 > *Someone* filed a patent for *this.*  
 #### **Peter Cat**  
-> It *looks* like a *fusor,* but the *details* are all *wrong.*  
-> Doesn't a *patented device* need to *work?*  
+> It *looks* like one of our *fusors* if you squint.  
+> But doesn't a *patented device* need to *work?*  
 #### **Camillo Skragg**  
 > Not necessarily.  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
@@ -50,7 +50,7 @@ A close-up on **Camillo Skragg**. He looks determined.
 ## Page 2  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-Outside, at night. A dark figure -- **Peregrine** -- sits on the ground in a clearing in a forest in the night. The sky is full of stars, the Milky Way is visible. **Peregrine** looks up at the sky. The landscape is dominated by high mountains.
+Outside, at night. A landscape of black, gray, and blue. Figures are dark, and lack details. A dark figure -- **Peregrine** -- sits on the ground in a clearing in a forest in the night. The sky is full of stars, the Milky Way is visible. **Peregrine** looks up at the sky. The landscape is dominated by high mountains.
 #### Box *(narration, upper left)*  
 > Near Grand Teton, deep in Wyoming  
 #### **Peregrine**  
