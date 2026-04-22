@@ -64,3 +64,45 @@ Outside, at night. A landscape of black, gray, and blue. Figures are dark, and l
 #### **Peregrine**  
 > What do you *need,* Teacher?  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+A **salamander** -- a vaguely lizard-like fire spirit -- ignites a campfire between **Peregrine** and **The Magister**, curling up like a cat between the stones surrounding the small fire pit. They are now illuminated by the yellow-orange light of a small fire.  
+#### **The Magister**  
+> *Light* would be a good start.  
+#### **Peregrine** *(Words of Power, to the **salamander**)*  
+> Over here, child.  
+#### **Peregrine**  
+> Is that better?  
+#### **The Magister**  
+> *Much.*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+**The Magister** looks at **Peregrine** with an expression that betrays concern. **Peregine** doesn't return **The Magister's** gaze and stares into the fire.  
+#### **The Magister**  
+> You look... *well...*  
+#### **Peregrine**  
+> I'm *dying.*  
+> It won't be *long* now.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**The Magister** sits down across the fire from **Peregrine**. **Peregrine** finally looks **The Magister** in the eye.  
+#### **The Magister**  
+> Your *medicine?*  
+#### **Peregrine**  
+> The *substance* that lets me command spirits of *fire* and *air...*  
+> ...that has *prolonged my life* for *centuries...*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Peregrine** holds his hand up with his palm facing the fire. He looks at the back of his hand.  
+#### **Peregrine**  
+> It's the *mercury.*  
+> My most *powerful* meditations can hold the *tremors* at bay.  
+#### **The Magister** *(off-panel)*  
+> I'm *sorry.*  
+#### **Peregrine**  
+> I appreciate the *sentiment.*  
+
+## Page 3  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+Later that night, an exterior shot of a warehouse in the Mojave, placed in the no-man's land northwest of Las Vegas, somewhere between the city and Rachel, NV near Area 51. It is a place of profound emptiness, patrolled by the military but barely used. A single mercury vapor lamp illuminates a small parking lot next to the corrugated metal structure. The pool of garish yellow light is the only sign of life.  
+#### Box *(**The Magister**)*  
+> Are you *up* for another mission?  
+#### Box *(**Peregrine**)*  
+> Oh, I *insist.*  
+> What *else* am I going to do with the *rest of my life?*  
