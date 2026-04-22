@@ -110,4 +110,55 @@ Later that night, an exterior shot of a warehouse in the Mojave, placed in the n
 The interior of the warehouse, illuminated by an insufficient number of harsh fluorescent lights. The point of view is from above, looking down on **Peregrine** standing in front of what looks like a magical circle painted on the concrete floor. **Peregrine** watches as **The Maker** pushes a shopping cart containing an ornate **magic box** towards the circle, followed closely by **Beowulf**, **Sleep**, and **Image**. The vibe should be more "Reservoir Dogs" than "Doctor Strange".  
 #### Box *(**The Magister**)*  
 > *Inquiries* are being made into some of my *off-world* contacts.  
-> I'll need you to *collapse the shunt* I used to transport *contraband.*  
+> I'll need you to *collapse the shunt* I used to transport *materials* provided by *The Corporation.*  
+#### Box *(**Peregrine**)*  
+> So, some *clean-up.*  
+> Will the *full crew* be there?  
+#### Box *(**The Magister**)*  
+> Yes, just in case.  
+> The shunt terminates on a planet called *Magrige.*  
+> I can't go *myself* and risk a *temporal paradox.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Peregrine** turns as the hemisphere above the magic circle becomes a portal leading to a cave in a rock wall. **The Maker** leans on the shopping cart and points to the cave with his thumb, smirking slightly.  
+#### Box *(narration, upper left)*  
+> Later, inside a utility building southeast of *Groom Lake...*  
+#### **Peregrine**  
+> Ah, *there* we are.  
+#### **The Maker**  
+> So *now what?*  
+> Do we *knock on the wall* and wait for *something* to stick an *appendage* through the hole?  
+#### **Peregrine**  
+> That's some kind of *sex joke,* right?  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Sleep** stands with her arms crossed in front of her, rolling her eyes. **Beowulf** looks at her with raised eyebrows as he asks a question.  
+#### **Sleep**  
+> *The Maker's* talking about *glory holes.*  
+#### **Beowulf**  
+> Hey, *Sleep,* what's a "glory hole"?  
+#### **Sleep**  
+> Forget I said anything, *Beowulf.*  
+> *Please.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+Close view of **Peregrine** as he calls the others to attention.  
+#### **Peregrine**  
+> Ah-*HEM.*  
+> Please *attend* carefully...  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+A view of the **magic box** over an abstract background.  
+#### Box *(Peregrine)*  
+> We have been *provided* with a container of *degenerate matter.*  
+> If *released* inside one of the endpoints of a *shunt,* it will *catalyze* its *decay.*
+
+## Page 4  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peregrine** looks down at the **magic box** with a certain degree of tenderness, as if looking at someone else's pet.  
+#### **Peregrine**  
+> The *container* is *enchanted.*  
+> It is *mildly sapient* but not *sentient.*  
+> It can follow *simple instructions* but has *no sensory inputs* besides an *attunement* to our *voices.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A view over **Peregrine's** shoulder at **The Maker**, **Sleep**, **Beowulf**, and **Image**. They are, in fact, listening carefully.  
+#### **Peregrine**  
+> Once the *container* opens, the *surrounding area* will be *contaminated* with *degenerate matter.*  
+> Both from the *contents* and -- ideally -- also from the *collapsing shunt.*  
