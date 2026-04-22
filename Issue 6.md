@@ -74,7 +74,7 @@ A **salamander** -- a vaguely lizard-like fire spirit -- ignites a campfire betw
 #### **The Magister**  
 > *Much.*  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
-**The Magister** looks at **Peregrine** with an expression that betrays concern. **Peregine** doesn't return **The Magister's** gaze and stares into the fire.  
+**The Magister** looks at **Peregrine** with an expression that betrays concern. **Peregrine** doesn't return **The Magister's** gaze and stares into the fire.  
 #### **The Magister**  
 > You look... *well...*  
 #### **Peregrine**  
@@ -106,3 +106,8 @@ Later that night, an exterior shot of a warehouse in the Mojave, placed in the n
 #### Box *(**Peregrine**)*  
 > Oh, I *insist.*  
 > What *else* am I going to do with the *rest of my life?*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The interior of the warehouse, illuminated by an insufficient number of harsh fluorescent lights. The point of view is from above, looking down on **Peregrine** standing in front of what looks like a magical circle painted on the concrete floor. **Peregrine** watches as **The Maker** pushes a shopping cart containing an ornate **magic box** towards the circle, followed closely by **Beowulf**, **Sleep**, and **Image**. The vibe should be more "Reservoir Dogs" than "Doctor Strange".  
+#### Box *(**The Magister**)*  
+> *Inquiries* are being made into some of my *off-world* contacts.  
+> I'll need you to *collapse the shunt* I used to transport *contraband.*  
