@@ -101,6 +101,8 @@ A **salamander** -- a vaguely lizard-like fire spirit -- ignites a campfire betw
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 Later that night, an exterior shot of a warehouse in the Mojave, placed in the no-man's land northwest of Las Vegas, somewhere between the city and Rachel, NV near Area 51. It is a place of profound emptiness, patrolled by the military but barely used. A single mercury vapor lamp illuminates a small parking lot next to the corrugated metal structure. The pool of garish yellow light is the only sign of life.  
+#### Title  
+> READY MEN  
 #### Box *(**The Magister**)*  
 > Are you *up* for another mission?  
 #### Box *(**Peregrine**)*  
@@ -162,3 +164,4 @@ A view over **Peregrine's** shoulder at **The Maker**, **Sleep**, **Beowulf**, a
 #### **Peregrine**  
 > Once the *container* opens, the *surrounding area* will be *contaminated* with *degenerate matter.*  
 > Both from the *contents* and -- ideally -- also from the *collapsing shunt.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
