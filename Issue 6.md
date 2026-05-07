@@ -165,3 +165,30 @@ A view over **Peregrine's** shoulder at **The Maker**, **Sleep**, **Beowulf**, a
 > Once the *container* opens, the *surrounding area* will be *contaminated* with *degenerate matter.*  
 > Both from the *contents* and -- ideally -- also from the *collapsing shunt.*  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Peregrine** turns towards **The Maker**, giving him control of the briefing with some reluctance. **The Maker** is being his usual smarmy self, and leans lightly against the shopping cart holding the **magic box**.  
+#### **Peregrine**  
+> As I understand, *The Maker* here has a *suggestion...*  
+#### **The Maker**  
+> Yeah!  
+> See, I was *picking up girls* at the *Omega Mart*, and I swiped this *shopping cart.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**The Maker** pushes the handle of the shopping cart up, lifting the back wheels off the ground. The shopping cart is pointed towards the portal. **The Maker** points at the rapidly spinning back wheels with a broad grin.  
+#### **The Maker**  
+> So I can use my *powers* to spin up the back wheels of the cart.  
+> That way, *none of us* need to go through the portal!  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**The Maker** lets go of the shopping cart handle. It rockets forwards into the portal. **Peregrine** fixes **The Maker** with a death glare.  
+#### **The Maker**  
+> See?  
+> Easy!  
+#### **Peregrine**  
+> You...  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Beowulf** turns to **Sleep**; he looks confused. **Sleep** winces.  
+#### **Beowulf**  
+> Wait, I thought we were still doing the briefing...  
+> ...did I *miss* something?  
+#### **Sleep**  
+> Nope.  
+#### **Peregrine** *(off-panel, very angry, to **The Maker**)*  
+> ...*idiot!*  
