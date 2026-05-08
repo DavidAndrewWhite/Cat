@@ -192,3 +192,37 @@ A view over **Peregrine's** shoulder at **The Maker**, **Sleep**, **Beowulf**, a
 > Nope.  
 #### **Peregrine** *(off-panel, very angry, to **The Maker**)*  
 > ...*idiot!*  
+
+## Page 5  
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+Noon at an outdoor café. **Camillo Skragg's** lower back is visible in the left foreground as he approaches a table where an older man, **Joshua Land** sits. A pile of papers is arranged on the table, glossy brochures for prospective investors. **Joshua Land** looks up towards **Camillo Skragg** expectantly while holding a sheaf of papers in his hand.  
+#### Box *(Narration, upper left)*  
+> Elsewhere, **Camillo Skragg** has arranged a meeting...  
+#### **Camillo Skragg**  
+> Doctor Land?  
+#### **Joshua Land**  
+> Ah! Mister Skragg!  
+> You're *early!*  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*: 
+A closer view of **Joshua Land**. He smiles and gestures to the place opposite him at the table. **Camillo Skragg** is partially visible as he pulls the chair out to take a seat.  
+#### **Joshua Land**  
+> The *technologies* I am about to *reveal* to you are *world-changing!*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*: 
+ The view shifts to the right around the table. **Camillo Skragg** faces **Joshua Land** across the table with a guarded expression. **Joshua Land** continues his pitch.  
+#### **Joshua Land**  
+> This is a *once-in-a-lifetime opportunity* for a *savvy investor--*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*: 
+A second shift to the right. **Joshua Land** is partially visible in the foreground, looking up as his presentation is interrupted, his posture should suggest surprise and a little irritation. **Camillo Skragg** stares **Joshua Land** down; his expression is neutral but firm.  
+#### **Camillo Skragg**  
+> I'm not an *investor,* Doctor Land.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+A closer view of **Joshua Land**. He is looking at **Camillo Skragg** carefully, evaluating him as a potential threat. He seems a little irritated.  
+#### **Joshua Land**  
+> Well, you're not *beardy* and *barrel-shaped,* so I'm guessing you're no *Cartel assassin.*  
+> Who *are* you?  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+A closer view of **Camillo Skragg**. He is maintaining a poker face, but is evaluating **Joshua Land** carefully.  
+#### **Camillo Skragg**  
+> I'm a man with some *questions.*  
+
