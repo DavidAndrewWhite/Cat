@@ -32,7 +32,7 @@ Nighttime exterior shot of the Skraggs' house. An upper floor room is illuminate
 *Dylan's last stream starts, and the crew locate the source -- the abandoned mansion where his last "normal" video was filmed*
 
 ## Page 6
-*Peter discovers the cave beneath the abandoned mansion and recovers Dylan's body*
+*Peter discovers the cave beneath the abandoned mansion and recovers Dylan's body from an underground lake saturated with carbon dioxide*
 
 ## Page 7
 *Jinx catches Dylan and throws him into the Lake of Fire*
