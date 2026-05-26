@@ -139,7 +139,7 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > So, another take!  
 ### Panel 4b *(small square insert in Panel 1, right)*:  
 **Thresher** leans with both hands on the front-facing low rear console. Small image. 
-#### *Thresher**  
+#### **Thresher**  
 > Incoming communication from Strategic Coordination!  
 #### **Victor Bravo** *(off panel, from below and to the left)*  
 > On screen, Thresher!  
@@ -227,8 +227,7 @@ A close-up on a tense-looking **Camillo Skragg**.
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 The staircase leads to a long corridor underground.  **Camillo Skragg** looks down the tunnel into the darkness. **Penny Skragg** examines one of a set of holes in the stone wall.  
 #### Box *(narration, **Camillo Skragg**)*:  
-> We knew the underground tunnel was there.  
-> Peter and Jinx told us it was used for the *shunts* that brought humans to this world.  
+> Peter and Jinx told us the tunnel was used for the *shunts* that brought humans to this world.  
 > Penny pointed out that structures like that tend to be *graves*.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** holds a crumbling human skull; the cubbyholes are being used as an ossuary.  
@@ -345,10 +344,10 @@ From front to back, **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **
 > --there are three plausible destinations where they could resupply.  
 > Killotron, plot a course into *interphase*, place us so we can quickly materialize in any of the re-entry points.  
 #### **Killotron**  
-> I'll calculate the hyperion's curve,
-> A phantom in the Mistress' directive.
-> Track through nebula's breath, unrelenting—
-> Your shadow, a steel net in my grip.
+> I'll calculate the hyperion's curve,  
+> A phantom in the Mistress' directive.  
+> Track through nebula's breath, unrelenting--  
+> Your shadow, a steel net in my grip.  
 ### Panel 2 *(Half page width, 1/3rd page height)*  
 **Champion** turns to **Bearcat**, and **Bearcat** answers smugly.  
 #### **Champion**  
@@ -360,9 +359,9 @@ From front to back, **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **
 ### Panel 3 *(Half page width, 1/3rd page height)*  
 **Demonslayer** turns to face **Killotron** with a tight smile.  
 #### **Killotron**  
-> Calculations weave through void's embrace,
-> A path etched where shadows dare to dance.
-> Mistress' will—my pulse, my endless task.
+> Calculations weave through void's embrace,  
+> A path etched where shadows dare to dance.  
+> Mistress' will -- my pulse, my endless task.  
 #### **Demonslayer**  
 > Well done, Killotron.  
 > Lay in the course--  

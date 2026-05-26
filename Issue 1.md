@@ -448,7 +448,7 @@ Close up on **Peter Cat**. He scratches his chin thoughtfully as he reminisces.
 > ...back when I was with *Honor Guard* we had a movie night.  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 A much younger and very nerdy **Peter Cat** sits on the edge of his seat in a darkened movie theater. He is wearing his **Arsenal** costume, holding a paper box of *tissue puffs*, a popcorn like snack, and munching on a few as he stares wide-eyed at the screen.  
-#### Box *(narration, **Peter Cat**)
+#### Box *(narration, **Peter Cat**)*
 > They were showing that old disaster movie with the *mysterious signal* from a gas giant and *the rogue AI* that kills the crew.
 ### Panel 4 *(Half page width, 1/3rd page height)*:
 Young **Peter Cat** is seen from behind, as an astronaut in a bulky EVA vacuum suit falls into a surreal tunnel -- their adaptation of the scene from "2001: A Space Odyssey" where Dave Bowman's psychedelic journey is beginning.  
@@ -504,14 +504,14 @@ The **Mark IX corvette** sets down on the surface of the Moon.
 > ...you're getting better at being *nice*.  
 #### **Peter Cat**
 > Thanks.  
-### Panel 3 **(Full page width, 1/3rd page height)*:  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
 **Peter Cat** and **Jinx Bubastis** walk through the sliding door to the cargo bay. **Penny Skragg** seems to have recovered a little, and notices the door opening. **Camillo Skragg** is still sitting on the floor, holding his head. **Penny Skragg** is frowning, and has a look of aggressive skepticism on her face.  
 #### **Peter Cat**  
 > Hello, again.  
 > I'm sure you have a *lot* of questions--  
 #### **Penny Skragg**
 > You're *damn* right I do!
-### Panel 4 **(Full page width, 1/3rd page height)*:
+### Panel 4 *(Full page width, 1/3rd page height)*:
 Front and center is a banal safety sign next to the door frame, an upward pointing arrow marked "THIS WAY UP".  **Penny Skragg** points at it like she is making an accusation. **Peter Cat** looks down at it; there is an awkward moment.  
 #### **Penny Skragg**
 > Why the *HELL* is that *SIGN* in *ENGLISH*!?  
@@ -745,7 +745,7 @@ A glowing projection of **Angela**, a well-composed female Fe Arran agent workin
 #### **Angela** 
 > *Victor Bravo* was performing an *extrajudicial*--
 #### **Jolt** *(off-panel, interrupting)*
-> --Was out with his *death squad*, Angela, we can talk like grown women.  
+> --was out with his *death squad*, Angela, we can talk like grown women.  
 #### **Angela**  
 > Target was a Reyll engineer.  
 > *Jinx* intercepted the op.  
