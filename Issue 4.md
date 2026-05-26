@@ -138,7 +138,7 @@ The **Crisis Center**; we finally see the people who were talking into boxes in 
 #### **Jake Lyon**  
 > Let's *pretend* I'm OK with the *Vlad Tepeş logic* of putting *Honor Guard's heads on stakes...*  
 > ...how are we going to explain it to *the American people?*  
-#### **The Magister***  
+#### **The Magister**  
 > Poochie.  
 #### **Jake Lyon**  
 > What!?  
@@ -529,7 +529,7 @@ The **Radio operator** talks to **Jinx Bubastis**, and offers her an inexpensive
 #### **Radio operator**  
 > The *airspace* over LA is *restricted* -- you'll need to talk to ATC.  
 #### **Jinx Bubastis**  
-> Gotcha. Do you have any summary of the procedures?  
+> Gotcha. Do you have a summary of the procedures?  
 #### **Radio operator**  
 > Yeah, over here.  
 ### Panel 4 *(Half page width, 1/3rd page height)*  
