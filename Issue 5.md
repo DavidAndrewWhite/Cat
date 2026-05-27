@@ -272,7 +272,7 @@ Viewed from above, **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **P
 > What?  
 > *Here* again?  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-**Camillo Skragg** is startled as a young, 8-year-old girl runs through the tall grass. Behind him, the huge red sun hangs in the sky -- it's huge.  
+**Camillo Skragg** is startled as a young, 8-year-old girl runs through the tall grass. Behind him, the huge red sun hangs in the sky.  
 #### **Camillo Skragg**  
 > Hey!  
 > Wait!  
