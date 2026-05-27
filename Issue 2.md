@@ -792,7 +792,7 @@ A stripe of light from the PoV of **Penny Skragg**, as she slowly opens her eyes
 #### **Penny Skragg** *(weakly)*  
 > ...I can do kung fu...  
 
-## Panel 21  
+## Page 21  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*: 
 **Penny Skragg** sits on the bed of the **Neural interface**. **Jinx Bubastis** holds a flashlight in one hand and performs an eye-tracking exam on her.  
