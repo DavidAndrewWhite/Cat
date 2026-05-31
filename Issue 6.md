@@ -226,3 +226,11 @@ A closer view of **Camillo Skragg**. He is maintaining a poker face, but is eval
 #### **Camillo Skragg**  
 > I'm a man with some *questions.*  
 
+## Page 6  
+
+### Panel 1 *(Half page width, 1/3rd page height)*  
+**Image** walks out through the entrance of a cave. She's on Magrige, but all that's visible of the alien world is a rock wall with a cave entrance. She squints her eyes and shades them with one hand from the light of an alien sun. The light is harsh, the color temperature is noticeably higher than on Earth. There is also a yellow-orange tint to the environment from the sky.  
+#### **Image** *(mumbles)*  
+> oof...  
+### Panel 2 *(Half page width, 1/3rd page height)*  
+

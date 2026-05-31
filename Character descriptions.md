@@ -10,6 +10,9 @@
 
 ### Peter Cat
 
+![**Peter Cat**, by *divine art*](/assets/PETER%20CAT.jpg)
+**Peter Cat**, by [*divine art*](https://discordapp.com/users/1446069296902963212)
+
 - **Appearance:** Fe Arran. Tall, almost 2 meters, but very lean and lanky. White fur, pale yellow-green eyes, no mane. Prefers loose dark or black clothing. Frequently wears a greatcoat and high leather boots. Relatively delicate facial structure, more like a house cat than a big cat (in contrast to **Jinx Bubastis**).
 
 - **Special effects:** Peter's energy and matter manipulation powers can demonstrate a wide variety of genre typical visual effects; these effects vary widely. Some particularly common attacks, particularly the concussion bolts he likes to use in atmospheres under standard temperature and pressure conditions, will not necessarily be a clearly visible beam, particularly if the bolts are low-power non-lethal attacks. When he becomes insubstantial, his body can leave smoky trails; he frequently becomes insubstantial when moving at very high speed in order to avoid shockwaves.
@@ -17,6 +20,9 @@
 - **Personality and Affect:** From his background as a mass-produced clone worker, he has a superficially flat affect, although this is more a product of conditioning and societal expectations than some kind of neurological deficit. From this, he has developed a certain talent for deadpan humor. In low-stress situations, easygoing and friendly. Sometimes plays up a degree of comic awkwardness, both physically and socially. In distress, some of his affected goofiness falls away -- he has a deeply alarming 1000-yard stare. In a stress situation, particularly in a fight, he is quiet, cold, and clinical.
 
 ### Jinx Bubastis
+
+![**Jinx Bubastis**, by *divine art*](/assets/JINX%20BUBASTIS.jpg)
+**Jinx Bubastis**, by [*divine art*](https://discordapp.com/users/1446069296902963212)
 
 - **Appearance:** Fe Arran. Considerably shorter than Peter, about 1.65 meters. Small to medium build -- her enhanced strength should look incongruous. Tawny fur, curly black mane cut short in the back and longer in front. Her facial bone structure is very panther-like -- the upper part of her nose arches outwards slightly. Very pale blue eyes. Often wears a leather jacket with gloves over a tight bodysuit and heavy-duty boots.
 
@@ -26,6 +32,9 @@
 
 ### Camillo Skragg
 
+![**Camillo Skragg**, by *divine art*](/assets/CAMILLO%20SKRAGG.jpg)
+**Camillo Skragg**, by [*divine art*](https://discordapp.com/users/1446069296902963212)
+
 - **Appearance:** An older male human, about 1.8 meters tall. Balding, with some gray hair on the side and back. Has a face that looks like he's seen some shit. He is slightly nearsighted, and wears small wire-framed glasses with rectangular lenses. He's in fairly good shape for his age and has a reasonable amount of muscle mass. His dress sense is oriented more towards comfort than fashion.
 
 - **Special effects:** Camillo uses powered armor based on Corporate (Fe Arran) designs. Over time, he moves away from the hollow, bulky protective plates used in Corporate designs -- these are very useful, but can be defeated by human military gear (particularly shaped charges and high-velocity penetrators) and are specialized for threats that don't really exist on Earth. He comes to favor designs that primarily focus on sensors, mobility, and power delivery; if he needs heavy firepower, he will use light mechs that are equivalent or superior to human armored vehicles, although this is rare -- he generally avoids getting into slugfests with dangerous entities. Towards the end of the series, he develops a shield based armor suit that is considerably more flexible.
@@ -33,6 +42,9 @@
 - **Personality and Affect:** Cautious and introverted, with a wry sense of humor. He was subjected to experimental procedures intended to "erase" his memories of working on understanding alien technology; he suffers from PTSD that most frequently manifests in nightmares. He has been taking relatively mild anti-psychotics for several decades now, which can sometimes lead him to having a somewhat flat affect. Camillo has survived a crude attempt to break his mind apart, and has spent the rest of his life putting the pieces back together. Since some of Penny's personality has rubbed off on him, he will sometimes play up his flat affect to find out more about the person he's talking to, but in most cases he strives for a sincere connection to reality.
 
 ### Penny Skragg
+
+![**Penny Skragg**, by *divine art*](/assets/PENNY%20SKRAGG.jpg)
+**Penny Skragg**, by [*divine art*](https://discordapp.com/users/1446069296902963212)
 
 - **Appearance:** A young female human, about 1.75 meters tall. Blonde hair, blue eyes. Bears a family resemblance to Camillo. Trim but muscular. Her fashion sense tends towards jeans and hoodies in everyday life. Much like her uncle, she is attractive but has had a hard life.
 
