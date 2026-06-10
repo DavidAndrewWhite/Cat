@@ -16,6 +16,7 @@ Nighttime exterior shot of the Skraggs' house. An upper floor room is illuminate
 > Haven't heard from *him* in *years...*  
 > ...wonder what he's *up* to?  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+A view of part of **Penny Skragg's** screen; it is a video player in the vein of YouTube, with a chat window partially visible on the right side. The video is in portrait orientation surrounded by black bars, evidently taken on a smartphone. A
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 
