@@ -1,0 +1,25 @@
+# Local build configuration overrides (not committed to Git)
+.build_config
+build_config.py
+build_config.json
+
+# Generated PDFs
+pdf/Issue-*.pdf
+pdf/Issue *.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
