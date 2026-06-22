@@ -2,6 +2,8 @@
 - Issue 3  
 - 24 pp. 
 - **You Don't Know**  
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page 1  
 

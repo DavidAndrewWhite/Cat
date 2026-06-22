@@ -2,6 +2,8 @@
 - Issue 2
 - 24 pp.
 - **Beyond Belief**  
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page 1
 

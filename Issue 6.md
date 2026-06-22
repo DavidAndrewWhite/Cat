@@ -2,6 +2,8 @@
 - Issue 6  
 - 24 pp  
 - **A Martyred World**  
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page 1  
 

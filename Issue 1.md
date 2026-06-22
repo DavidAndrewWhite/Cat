@@ -2,6 +2,8 @@
 - Issue 1
 - 24 pp.
 - **That's How I Escaped My Certain Fate**
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page 1
 
