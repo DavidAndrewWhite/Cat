@@ -56,6 +56,9 @@ PANDOC_TOP_LEVEL_DIVISION = "part"  # Note: this is a pandoc CLI flag, NOT a -V 
 # Output directory for PDFs
 OUTPUT_DIR = "pdf"
 
+# Paper size (a4, letter, legal, executive, a5, a3, b4, b5, etc.)
+PAPER_SIZE = "a4"
+
 # --- Configuration Override Loading ---
 def _load_config_file(filepath):
     """Load configuration overrides from a file.
@@ -80,6 +83,7 @@ def _load_config_file(filepath):
             "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
             "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
             "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
+            "PAPER_SIZE",
         }
         for key in config_keys:
             if hasattr(mod, key):
@@ -93,6 +97,7 @@ def _load_config_file(filepath):
             "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
             "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
             "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
+            "PAPER_SIZE",
         }
         for key in config_keys:
             if key in data:
@@ -117,6 +122,7 @@ def _load_config_file(filepath):
                         "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
                         "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
                         "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
+                        "PAPER_SIZE",
                     }
                     if key in config_keys:
                         config[key] = value
@@ -165,6 +171,7 @@ def get_pandoc_args():
         "-V", f"mainfontoptions:BoldFont={FONT_BOLD}, ItalicFont={FONT_ITALIC}, BoldItalicFont={FONT_BOLD_ITALIC}",
         "-V", f"documentclass:{PANDOC_DOCUMENTCLASS}",
         "--top-level-division", PANDOC_TOP_LEVEL_DIVISION,
+        "-V", f"papersize:{PAPER_SIZE}",
     ]
 
     if FONT_DIR:
@@ -315,8 +322,13 @@ def main():
 
     parser.add_argument("--output-dir", type=str, default=OUTPUT_DIR, help=f"Output directory for PDFs (default: {OUTPUT_DIR})")
     parser.add_argument("--source-dir", type=str, default=".", help="Directory to search for issue files (default: current directory)")
+    parser.add_argument("--paper-size", type=str, default=None, help=f"Paper size for PDFs (default: a4). Examples: a4, letter, legal, a5, a3, b4, b5")
 
     args = parser.parse_args()
+
+    # Apply CLI paper-size override if provided
+    if args.paper_size is not None:
+        PAPER_SIZE = args.paper_size
 
     # Discover issue files
     issue_files = find_issue_files(args.source_dir)
