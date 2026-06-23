@@ -27,6 +27,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 # --- Configuration Defaults ---
@@ -41,23 +42,46 @@ CONFIG_FILES = [
 ]
 
 # Font configuration
-FONT_DIR = None          # e.g., "/usr/share/fonts" or "C:/Windows/Fonts"
-FONT_NAME = "LiberationSerif-Regular.ttf"
-FONT_BOLD = "LiberationSerif-Bold.ttf"
-FONT_ITALIC = "LiberationSerif-Italic.ttf"
-FONT_BOLD_ITALIC = "LiberationSerif-BoldItalic.ttf"
+FONT_DIR = None          # Path to Liberation font files (None = use font name lookup)
+FONT_NAME = "Liberation Serif"
+FONT_BOLD = "Liberation Serif"
+FONT_ITALIC = "Liberation Serif"
+FONT_BOLD_ITALIC = "Liberation Serif"
 
 # Pandoc settings
 PANDOC_INPUT_FORMAT = "commonmark_x"
 PANDOC_PDF_ENGINE = "xelatex"
 PANDOC_DOCUMENTCLASS = "report"
-PANDOC_TOP_LEVEL_DIVISION = "part"  # Note: this is a pandoc CLI flag, NOT a -V latex variable
+PANDOC_TOP_LEVEL_DIVISION = "section"  # Note: this is a pandoc CLI flag, NOT a -V latex variable
 
 # Output directory for PDFs
 OUTPUT_DIR = "pdf"
 
 # Paper size (a4, letter, legal, executive, a5, a3, b4, b5, etc.)
 PAPER_SIZE = "a4"
+
+# Template directory for LaTeX templates
+TEMPLATE_DIR = "templates"
+
+# Title page template
+TITLE_PAGE_TEMPLATE = os.path.join(TEMPLATE_DIR, "issue.tex")
+
+# Issue metadata pattern - matches the first 6 lines of issue files
+# Line 1: Series title (h1)
+# Line 2: Issue number (- Issue N)
+# Line 3: Page count (- NN pp[.])
+# Line 4: Story title (- **Title** or - Title)
+# Line 5: Author (- Author Name)
+# Line 6: Copyright (- © year, ...)
+ISSUE_METADATA_PATTERN = re.compile(
+    r'^#\s+(.+)$\n'
+    r'^-\s+Issue\s+(\d+)(?:\s*)$\n'
+    r'^-\s+(\d+)\s+pp\.?\s*$\n'
+    r'^-\s+\*\*(.+?)\*\*\s*$\n'
+    r'^-\s+(.+?)$\n'
+    r'^-\s+(\u00a9.+?)$',
+    re.MULTILINE,
+)
 
 # --- Configuration Override Loading ---
 def _load_config_file(filepath):
@@ -144,8 +168,7 @@ def _apply_config_overrides():
 
     # No config file found; use defaults (no output needed)
 
-# Pattern for discovering issue files (handles both "Issue-1.md" and "Issue 1.md")
-ISSUE_PATTERN = re.compile(r"^Issue[-\s]?\d+\.md$", re.IGNORECASE)
+ISSUE_PATTERN = re.compile(r"^Issue\s+\d+\.md$", re.IGNORECASE)
 
 
 def find_issue_files(directory="."):
@@ -160,6 +183,41 @@ def find_issue_files(directory="."):
                 issues.append((num, f))
     issues.sort(key=lambda x: x[0])
     return issues
+
+
+def parse_issue_metadata(source_file):
+    """Parse the first 6 lines of an issue file to extract metadata.
+    
+    Returns a dict with keys: series_title, issue_number, page_count,
+    story_title, author, copyright_line
+    """
+    with open(source_file, "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    match = ISSUE_METADATA_PATTERN.search(content)
+    if not match:
+        return None
+    
+    return {
+        "series_title": match.group(1).strip(),
+        "issue_number": f"Issue {match.group(2)}",
+        "page_count": f"{match.group(3)} pp",
+        "story_title": match.group(4).strip(),
+        "author": match.group(5).strip(),
+        "copyright_line": match.group(6).strip(),
+    }
+
+
+def strip_issue_header(source_file):
+    """Read the source file and return content with the first 6 lines removed.
+    
+    This removes the metadata header that will appear on the title page.
+    """
+    with open(source_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    
+    # Skip the first 6 lines (metadata header)
+    return "".join(lines[6:])
 
 
 def get_pandoc_args():
@@ -187,29 +245,91 @@ def get_pandoc_args():
 
 
 def build_issue(source_file, output_path):
-    """Run pandoc to convert a single Markdown file to PDF."""
-    cmd = ["pandoc"] + get_pandoc_args() + [
-        "-o", output_path,
-        source_file,
-    ]
-
-    print(f"  Building: {source_file} -> {output_path}")
-    try:
-        result = subprocess.run(
-            cmd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-        )
-        if result.returncode != 0:
-            print(f"  ERROR: pandoc failed for {source_file}")
-            if result.stderr:
-                print(f"  stderr: {result.stderr[:500]}")
+    """Run pandoc to convert a single Markdown file to PDF with title page.
+    
+    This function:
+    1. Parses metadata from the first 6 lines of the issue file
+    2. Strips the metadata header from the content
+    3. Creates a temporary file with clean content
+    4. Runs pandoc with the custom LaTeX template and metadata variables
+    """
+    # Parse metadata
+    metadata = parse_issue_metadata(source_file)
+    print(metadata)
+    if metadata is None:
+        print(f"  WARNING: Could not parse metadata from {source_file}")
+        print(f"  Falling back to standard build without title page.")
+        # Fall back to standard build
+        cmd = ["pandoc"] + get_pandoc_args() + [
+            "-o", output_path,
+            source_file,
+        ]
+        print(f"  Building: {source_file} -> {output_path}")
+        try:
+            result = subprocess.run(
+                cmd,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(f"  ERROR: pandoc failed for {source_file}")
+                if result.stderr:
+                    print(f"  stderr: {result.stderr[:500]}")
+                return False
+            return True
+        except FileNotFoundError:
+            print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
             return False
-        return True
-    except FileNotFoundError:
-        print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
-        return False
+    
+    # Strip metadata header from content
+    clean_content = strip_issue_header(source_file)
+    
+    # Create temporary file with clean content
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".md", delete=False, encoding="utf-8") as tmp:
+        tmp.write(clean_content)
+        tmp_path = tmp.name
+    
+    try:
+        # Build pandoc command with template and metadata variables
+        template_path = os.path.join(TEMPLATE_DIR, "issue.tex")
+        if not os.path.exists(template_path):
+            print(f"  ERROR: Template file not found: {template_path}")
+            return False
+        
+        cmd = ["pandoc"] + get_pandoc_args() + [
+            "-o", output_path,
+            "--template", template_path,
+            "-V", f"title={metadata['series_title']}",
+            "-V", f"issueNumber={metadata['issue_number']}",
+            "-V", f"pageCount={metadata['page_count']}",
+            "-V", f"storyTitle={metadata['story_title']}",
+            "-V", f"authorName={metadata['author']}",
+            "-V", f"copyrightLine={metadata['copyright_line']}",
+            tmp_path,
+        ]
+        
+        print(f"  Building: {source_file} -> {output_path}")
+        try:
+            result = subprocess.run(
+                cmd,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+            )
+            if result.returncode != 0:
+                print(f"  ERROR: pandoc failed for {source_file}")
+                if result.stderr:
+                    print(f"  stderr: {result.stderr[:1000]}")
+                return False
+            return True
+        except FileNotFoundError:
+            print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
+            return False
+    finally:
+        # Clean up temporary file
+        if os.path.exists(tmp_path):
+            os.unlink(tmp_path)
 
 
 def build_all(issue_files, output_dir):
