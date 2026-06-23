@@ -147,7 +147,7 @@
 
 #### Atlantis / Kisra / Carcosa History
 
-- **Atlantis**: The original name used by Greek fables (Plato). The Atlanteans had another name they "dare not speak." They were an advanced civilization that walked among the stars, built shunts throughout the galaxy, and seeded worlds with primitive humans.
+- **Atlantis**: The name used by Greek fables (Plato). The Atlanteans had another name they "dare not speak." They were an advanced civilization that walked among the stars, built shunts throughout the galaxy, and seeded worlds with primitive humans.
 - **Collapse**: A catastrophic event shattered the island nation. The King in Yellow fled as a "flash mind" to Aldebaran for millennia. The gravity weapon destroyed most of it; what remained sank to Earth's core (possibly "The Black Sun").
 - **Kisra**: Name given by settlers from Al-Andalus to the ruined remnant.
 - **Carcosa**: The Genoese and time transformed "Kisra" into "Carcosa."
