@@ -16,63 +16,37 @@ Usage:
 Requirements:
     - pandoc (https://pandoc.org/)
     - xelatex (TeX distribution: TeX Live, MiKTeX, or MacTeX)
-    - Liberation Serif fonts (or set FONT_DIR and FONT_NAME options)
+    - Liberation Serif fonts
 """
 
 import argparse
-import glob
-import importlib.util
 import os
 import re
-import shutil
 import subprocess
 import sys
-import tempfile
 from pathlib import Path
 
-# --- Configuration Defaults ---
-# These defaults can be overridden by a local config file.
-# See CONFIG_FILES list below for supported filenames.
-# Add your override file to .gitignore (e.g., ".build_config").
+# --- Configuration ---
+PANDOC_INPUT_FORMAT = "commonmark_x"
+PANDOC_PDF_ENGINE = "xelatex"
+PANDOC_DOCUMENTCLASS = "report"
+PANDOC_TOP_LEVEL_DIVISION = "section"
 
-CONFIG_FILES = [
-    ".build_config",       # Hidden file, naturally ignored by git
-    "build_config.py",     # Explicit Python config module
-    "build_config.json",   # JSON format (for simpler setups)
-]
-
-# Font configuration
-FONT_DIR = None          # Path to Liberation font files (None = use font name lookup)
+# Font configuration (Liberation fonts)
 FONT_NAME = "Liberation Serif"
 FONT_BOLD = "Liberation Serif"
 FONT_ITALIC = "Liberation Serif"
 FONT_BOLD_ITALIC = "Liberation Serif"
 
-# Pandoc settings
-PANDOC_INPUT_FORMAT = "commonmark_x"
-PANDOC_PDF_ENGINE = "xelatex"
-PANDOC_DOCUMENTCLASS = "report"
-PANDOC_TOP_LEVEL_DIVISION = "section"  # Note: this is a pandoc CLI flag, NOT a -V latex variable
-
-# Output directory for PDFs
+# Output and template paths
 OUTPUT_DIR = "pdf"
+TEMPLATE_DIR = "templates"
+TITLE_PAGE_TEMPLATE = os.path.join(TEMPLATE_DIR, "issue.tex")
 
 # Paper size (a4, letter, legal, executive, a5, a3, b4, b5, etc.)
 PAPER_SIZE = "a4"
 
-# Template directory for LaTeX templates
-TEMPLATE_DIR = "templates"
-
-# Title page template
-TITLE_PAGE_TEMPLATE = os.path.join(TEMPLATE_DIR, "issue.tex")
-
 # Issue metadata pattern - matches the first 6 lines of issue files
-# Line 1: Series title (h1)
-# Line 2: Issue number (- Issue N)
-# Line 3: Page count (- NN pp[.])
-# Line 4: Story title (- **Title** or - Title)
-# Line 5: Author (- Author Name)
-# Line 6: Copyright (- © year, ...)
 ISSUE_METADATA_PATTERN = re.compile(
     r'^#\s+(.+)$\n'
     r'^-\s+Issue\s+(\d+)(?:\s*)$\n'
@@ -83,91 +57,6 @@ ISSUE_METADATA_PATTERN = re.compile(
     re.MULTILINE,
 )
 
-# --- Configuration Override Loading ---
-def _load_config_file(filepath):
-    """Load configuration overrides from a file.
-
-    Supports three formats:
-    1. Python module (.py): import as module, read attributes
-    2. JSON (.json): parse JSON object, map keys to config vars
-    3. Key=Value (.build_config or other): simple key=value pairs
-    """
-    if not os.path.isfile(filepath):
-        return None
-
-    config = {}
-    ext = os.path.splitext(filepath)[1].lower()
-
-    if ext == ".py":
-        # Python module: import and read attributes
-        spec = importlib.util.spec_from_file_location("_build_config", filepath)
-        mod = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(mod)
-        config_keys = {
-            "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
-            "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
-            "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
-            "PAPER_SIZE",
-        }
-        for key in config_keys:
-            if hasattr(mod, key):
-                config[key] = getattr(mod, key)
-
-    elif ext == ".json":
-        # JSON format
-        with open(filepath, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        config_keys = {
-            "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
-            "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
-            "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
-            "PAPER_SIZE",
-        }
-        for key in config_keys:
-            if key in data:
-                config[key] = data[key]
-
-    else:
-        # Key=Value format (simple text file)
-        with open(filepath, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line or line.startswith("#") or line.startswith(";"):
-                    continue
-                if "=" in line:
-                    key, _, value = line.partition("=")
-                    key = key.strip()
-                    value = value.strip()
-                    # Remove surrounding quotes if present
-                    if (value.startswith('"') and value.endswith('"')) or \
-                       (value.startswith("'") and value.endswith("'")):
-                        value = value[1:-1]
-                    config_keys = {
-                        "FONT_DIR", "FONT_NAME", "FONT_BOLD", "FONT_ITALIC",
-                        "FONT_BOLD_ITALIC", "PANDOC_INPUT_FORMAT", "PANDOC_PDF_ENGINE",
-                        "PANDOC_DOCUMENTCLASS", "PANDOC_TOP_LEVEL_DIVISION", "OUTPUT_DIR",
-                        "PAPER_SIZE",
-                    }
-                    if key in config_keys:
-                        config[key] = value
-
-    return config
-
-
-def _apply_config_overrides():
-    """Load and apply configuration overrides from the first found config file."""
-    import json  # needed for JSON config parsing
-
-    for cfg_file in CONFIG_FILES:
-        loaded = _load_config_file(cfg_file)
-        if loaded is not None:
-            print(f"Loading config from: {cfg_file}")
-            for key, value in loaded.items():
-                globals()[key] = value
-            return
-
-    # No config file found; use defaults (no output needed)
-
 ISSUE_PATTERN = re.compile(r"^Issue\s+\d+\.md$", re.IGNORECASE)
 
 
@@ -176,7 +65,6 @@ def find_issue_files(directory="."):
     issues = []
     for f in sorted(os.listdir(directory)):
         if ISSUE_PATTERN.match(f):
-            # Extract issue number
             match = re.search(r"\d+", f)
             if match:
                 num = int(match.group())
@@ -208,21 +96,9 @@ def parse_issue_metadata(source_file):
     }
 
 
-def strip_issue_header(source_file):
-    """Read the source file and return content with the first 6 lines removed.
-    
-    This removes the metadata header that will appear on the title page.
-    """
-    with open(source_file, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-    
-    # Skip the first 6 lines (metadata header)
-    return "".join(lines[6:])
-
-
 def get_pandoc_args():
     """Build the full list of pandoc command-line arguments."""
-    args = [
+    return [
         "-f", PANDOC_INPUT_FORMAT,
         "--pdf-engine", PANDOC_PDF_ENGINE,
         "-V", f"mainfont:{FONT_NAME}",
@@ -232,104 +108,62 @@ def get_pandoc_args():
         "-V", f"papersize:{PAPER_SIZE}",
     ]
 
-    if FONT_DIR:
-        # Prepend font directory to mainfont paths
-        args[2] = f"mainfont:{os.path.join(FONT_DIR, FONT_NAME)}"
-        args[3] = (
-            f"mainfontoptions:BoldFont={os.path.join(FONT_DIR, FONT_BOLD)}, "
-            f"ItalicFont={os.path.join(FONT_DIR, FONT_ITALIC)}, "
-            f"BoldItalicFont={os.path.join(FONT_DIR, FONT_BOLD_ITALIC)}"
-        )
-
-    return args
-
 
 def build_issue(source_file, output_path):
     """Run pandoc to convert a single Markdown file to PDF with title page.
     
-    This function:
-    1. Parses metadata from the first 6 lines of the issue file
-    2. Strips the metadata header from the content
-    3. Creates a temporary file with clean content
-    4. Runs pandoc with the custom LaTeX template and metadata variables
+    Parses metadata from the first 6 lines, strips the header, and uses
+    pandoc with a custom LaTeX template to generate the PDF.
     """
     # Parse metadata
     metadata = parse_issue_metadata(source_file)
-    print(metadata)
     if metadata is None:
-        print(f"  WARNING: Could not parse metadata from {source_file}")
-        print(f"  Falling back to standard build without title page.")
-        # Fall back to standard build
-        cmd = ["pandoc"] + get_pandoc_args() + [
-            "-o", output_path,
-            source_file,
-        ]
-        print(f"  Building: {source_file} -> {output_path}")
-        try:
-            result = subprocess.run(
-                cmd,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                text=True,
-            )
-            if result.returncode != 0:
-                print(f"  ERROR: pandoc failed for {source_file}")
-                if result.stderr:
-                    print(f"  stderr: {result.stderr[:500]}")
-                return False
-            return True
-        except FileNotFoundError:
-            print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
-            return False
+        print(f"  ERROR: Could not parse metadata from {source_file}")
+        return False
     
     # Strip metadata header from content
-    clean_content = strip_issue_header(source_file)
+    with open(source_file, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    clean_content = "".join(lines[6:])
     
-    # Create temporary file with clean content
-    with tempfile.NamedTemporaryFile(mode="w", suffix=".md", delete=False, encoding="utf-8") as tmp:
-        tmp.write(clean_content)
-        tmp_path = tmp.name
+    # Check template exists
+    template_path = os.path.join(TEMPLATE_DIR, "issue.tex")
+    if not os.path.exists(template_path):
+        print(f"  ERROR: Template file not found: {template_path}")
+        return False
     
+    # Build pandoc command - read content from stdin
+    cmd = ["pandoc"] + get_pandoc_args() + [
+        "-o", output_path,
+        "--template", template_path,
+        "-V", f"title={metadata['series_title']}",
+        "-V", f"issueNumber={metadata['issue_number']}",
+        "-V", f"pageCount={metadata['page_count']}",
+        "-V", f"storyTitle={metadata['story_title']}",
+        "-V", f"authorName={metadata['author']}",
+        "-V", f"copyrightLine={metadata['copyright_line']}",
+        "--from", PANDOC_INPUT_FORMAT,
+        "-",  # Read from stdin
+    ]
+    
+    print(f"  Building: {source_file} -> {output_path}")
     try:
-        # Build pandoc command with template and metadata variables
-        template_path = os.path.join(TEMPLATE_DIR, "issue.tex")
-        if not os.path.exists(template_path):
-            print(f"  ERROR: Template file not found: {template_path}")
+        result = subprocess.run(
+            cmd,
+            input=clean_content,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+        if result.returncode != 0:
+            print(f"  ERROR: pandoc failed for {source_file}")
+            if result.stderr:
+                print(f"  stderr: {result.stderr[:1000]}")
             return False
-        
-        cmd = ["pandoc"] + get_pandoc_args() + [
-            "-o", output_path,
-            "--template", template_path,
-            "-V", f"title={metadata['series_title']}",
-            "-V", f"issueNumber={metadata['issue_number']}",
-            "-V", f"pageCount={metadata['page_count']}",
-            "-V", f"storyTitle={metadata['story_title']}",
-            "-V", f"authorName={metadata['author']}",
-            "-V", f"copyrightLine={metadata['copyright_line']}",
-            tmp_path,
-        ]
-        
-        print(f"  Building: {source_file} -> {output_path}")
-        try:
-            result = subprocess.run(
-                cmd,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                text=True,
-            )
-            if result.returncode != 0:
-                print(f"  ERROR: pandoc failed for {source_file}")
-                if result.stderr:
-                    print(f"  stderr: {result.stderr[:1000]}")
-                return False
-            return True
-        except FileNotFoundError:
-            print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
-            return False
-    finally:
-        # Clean up temporary file
-        if os.path.exists(tmp_path):
-            os.unlink(tmp_path)
+        return True
+    except FileNotFoundError:
+        print(f"  ERROR: 'pandoc' not found in PATH. Please install pandoc.")
+        return False
 
 
 def build_all(issue_files, output_dir):
@@ -414,15 +248,11 @@ def list_issues(issue_files):
 
     print("Discovered issue files:")
     for num, filename in issue_files:
-        source = os.path.join(".", filename)
-        size = os.path.getsize(source)
+        size = os.path.getsize(os.path.join(".", filename))
         print(f"  Issue {num}: {filename} ({size:,} bytes)")
 
 
 def main():
-    # Load config overrides before anything else
-    _apply_config_overrides()
-
     parser = argparse.ArgumentParser(
         description="Build Cat & Company issue PDFs from Markdown sources.",
         epilog="Examples:\n"
@@ -446,8 +276,9 @@ def main():
 
     args = parser.parse_args()
 
-    # Apply CLI paper-size override if provided
+    # Apply CLI paper-size override
     if args.paper_size is not None:
+        global PAPER_SIZE
         PAPER_SIZE = args.paper_size
 
     # Discover issue files
@@ -470,7 +301,6 @@ def main():
     if args.issue:
         success = build_specific(issue_files, args.issue, args.output_dir)
     elif args.all or not (args.issue or args.clean or args.list):
-        # Default: build all if no specific action given
         success = build_all(issue_files, args.output_dir)
     else:
         parser.print_help()
