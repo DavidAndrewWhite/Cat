@@ -8,14 +8,20 @@
 
 #### **The King in Yellow** *("Malique-en-armahrl")*
 
-- **Species**: Formerly **Human** (Atlantean). Now an immortal being of considerable power, comparable to a wizard or eldritch entity.
-- **Role**: Information broker and guardian of the shattered remnants of Atlantis. Invites Cat & Company to Carcosa as guests and instruments.
+- **Species**: Formerly **Human** (Atlantean). Now an immortal wizard or eldritch entity.
+- **Role**: Information broker and guardian of the shattered remnants of Atlantis. Invites Cat & Company to Carcosa as guests.
 - **Appearance**: Interacts with the world through humans who bear the **Yellow Sign**, the **khamalat**. Some **khamalat** are **Veil-Bearers**, whose bodies transform into an ancient, frail form with a large protruding forehead (occipital bulge), straight nose, hunched posture, and ancient hands when he is fully manifested.
 - **Abilities**: Permanent possession of anyone bearing the **Yellow Sign**, significant magical knowledge, immortality, ability to transfer consciousness into alien forms over interstellar space.
-- **Background**: Witnessed the destruction of Atlantis by Exterminators sent by the Space Bankers. Fled to deep space
+- **Background**: Witnessed the destruction of Atlantis by **Exterminators** sent by the **Space Bankers**. Fled to deep space
 - **Personality**: Mournful, self-deprecating about his people's hubris; somber but capable of gentle humor. Claims to have no rivals. Offers knowledge at a terrible price. Recognizes the ridiculousness of how his people operated ("Our will be done").
 - **Motivation**: Wants Cat & Company to not obey the **Magister** blindly, and not expect him to tell the truth. Views them as tools to eliminate rivals (specifically the King in Yellow vs. the Magister dynamic).
 - **Conflict**: Terrified of death, and willing to do anything to continue existing.
+
+#### **The Yellow Sign**  
+
+- Quoting Chambers:
+> I opened the box. On the pink cotton inside lay a clasp of black onyx, on which was inlaid a curious symbol or letter in gold. It was neither Arabic nor Chinese, nor as I found afterwards did it belong to any human script.   
+- In this interpretation, it is, in fact, Arabic -- but an ancient calligraphy of an obscure variety of Andalusian Arabic, heavily modified and stylized to make it totally non-textual. It may have started as Arabic calligraphy, but was deliberately stylized into something resembling no human script. It was built around the word 
 
 #### Bearers of **the Yellow Sign** *("Khamalat")*
 
@@ -25,36 +31,24 @@
 - **Notable individuals**:
   - **The Volunteer**: A young man sitting at the head of the dinner table in the observatory tower; lowers a veil over his face to announce the King in Yellow's approach. Healthy, recognizable as a volunteer bearer.
   - **Unnamed Young Man**: Appears with a young woman at the Steakhouse in Phoenecia; first speaks Arabic ("Salàm lacom!") and serves as the initial transformation host.
-
-#### Witnesses
-
-- **Role**: Carcosan officials who perform the "Significant Look" -- a ceremonial immigration procedure that doubles as identification/registration.
-- **Appearance**: Bear the **Yellow Sign** tattooed on the back of their hand (similar to veil-bearers). May wear distinctive clothing or robes.
-- **Procedure**: The subject sits before a plain white backdrop. The Witness instructs them to state their name while looking straight ahead. The phrase "Lèkad shahidu!" ("You have been seen!") is spoken upon completion.
-- **Significance**: Being "seen" appears to carry deep cultural and possibly metaphysical weight in Carcosan society.
-
-#### The Young Woman
-
-- **Role**: Companion of the unnamed young man; serves as a cultural intermediary and explainer of Carcosan customs.
-- **Abilities**: Places the veil on the host; carries sealed envelopes with wax impressions of the Yellow Sign; explains religious beliefs about writing and library towers.
-- **Personality**: Composed, informative, seemingly in a trance during the King in Yellow's appearance.
+  - **Witnesses**: Carcosan officials who work in immigration control at the airport, gives **the King in Yellow** a chance to vet or respond to important visitors.
 
 #### Jusef & Surya
 
 - **Jusef**:
   - **Description**: A young bearded man wearing a kufi and loose clothes. Sits on a blanket with an open basket of food.
   - **Role**: Carcosan cultural guide in Camillo Skragg's dream/vision at the Atlantean archaeological site. Teaches Camillo about dream spaces, ephemeral vs. permanent text, and the "Technical Deposition of the Virus Power" (Burroughs/Gysin).
-  - **Beliefs**: Follows teachings of a "wali"; understands that dreams are a kind of public space in Carcosa. Warns against permanent text in places where boundaries between worlds are weak.
+  - **Beliefs**: Follows teachings of a "wali"; understands that dreams are a kind of public space in Carcosa. Warns against permanent text in places where boundaries between worlds are weak. There is a further discussion of Carcosan religion below.
   - **Phrase**: "Salàm! I am Jusef." Uses the saying: "Jilàl di achlèm l'rizhal tamtaddu en ashir" -- "The shadows of men's thoughts lengthen in the afternoon."
 
 - **Surya**:
   - **Description**: Jusef's 8-year-old daughter. Runs through tall red grass in Camillo's dream.
-  - **Role**: Brief appearance; represents the innocence and danger of the dream-realm (Camillo warns her about "hungry ghosts" near the ruins).
+  - **Role**: Brief appearance; represents the innocence and danger of the dream-realm.
 
 #### The Librarian
 
 - **Role**: Resident of the observatory tower at Mushad; receives visitors on behalf of the King in Yellow.
-- **Abilities**: Arranges for a khamalat (bearer of the veil) to meet arriving guests; provides quarters in the tower.
+- **Abilities**: Arranges for a khamalat (bearer of **the Yellow Sign**) to meet arriving guests; provides quarters in the tower.
 - **Personality**: Formal, courteous. Speaks of the Malique-en-armahrl with respect.
 
 #### Carcosan Corporal
@@ -74,10 +68,10 @@
 
 #### Hali
 
-- **Description**: Capital city of Carcosa, situated on the shore of Lake Hali. Center of town has a few tall skyscrapers; most other buildings are low structures made of marble. Broad thoroughfares and plazas near the lake shore; residential areas have a few towers.
+- **Description**: Capital city of Carcosa, situated on the shore of Lake Hali. Center of town has a few tall skyscrapers; most other buildings are low structures made of marble. Broad thoroughfares and plazas near the lake shore; residential areas have a few towers. Architecturally, has a significant Genoese influence.
 - **Atmosphere**: Beautiful but controlled. Strict tourist visa limits prevent leaving city limits without arranged transport.
 - **Key locations**:
-  - **Hali International Airport**: Immigration desk with a side room featuring a plain white backdrop for the Significant Look ceremony.
+  - **Hali International Airport**: Immigration desk with a side room featuring a plain white backdrop for the **Witnesses**.
   - **Hotel**: Near the airport; has a reception with a floor map of the Hyades archipelago.
   - **Café**: Has a chalkboard reading "You can talk about it here"; tables in the middle of the room; a forbidden Stranger's chair in the corner.
 
@@ -85,11 +79,12 @@
 
 - **Layout**: Similar to the Air Hyades logo (black stars on silver). Central large island with a prominent lake containing the city of Hali marked by a large black star.
 - **Islands** (west to east, northern chain):
-  - **C. Oscura** (Carcosa Oscura / Dark Cay)
-  - **C. Silente** (Silent Cay)
-  - **C. Perduta** (Lost Cay)
-  - **Yhtill** (northernmost island)
+  - **C. Oscura** (Dim Carcosa)
+  - **C. Silente** (Silent Carcosa)
+  - **C. Perduta** (Lost Carcosa)
+  - **Yhtill** (northernmost island, uninhabited, site of the tomb containing **the King in Yellow's** mummified body)
 - **Geography**: Transition from city to country is abrupt; dirt roads follow the shoreline of Lake Hali.
+- **Etymology**: The island names are based on the ones used by Genoese cartographers, who are also responsible for the name "Carcosa".
 
 #### Mushad & The Observatory Tower
 
