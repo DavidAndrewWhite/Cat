@@ -78,10 +78,10 @@ $endif$
 
 % Page geometry for content (not title page)
 \geometry{
-  top=0.5in,
-  bottom=0.5in,
-  left=0.5in,
-  right=0.5in,
+  top=1.0in,
+  bottom=1.0in,
+  left=1.0in,
+  right=1.0in,
 }
 
 % Black-and-white color palette for title page
@@ -173,6 +173,11 @@ $endif$
 
 % Generate the custom title page
 \maketitlepage
+
+%Add blank page after title page
+\newpage
+\ 
+\newpage
 
 % Main content follows
 $body$
