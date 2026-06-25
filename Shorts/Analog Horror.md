@@ -16,7 +16,9 @@ Nighttime exterior shot of the Skraggs' house. An upper floor room is illuminate
 > Haven't heard from *him* in *years...*  
 > ...wonder what he's *up* to?  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
-A view of part of **Penny Skragg's** screen; it is a video player in the vein of YouTube, with a chat window partially visible on the right side. The video is in portrait orientation surrounded by black bars, evidently taken on a smartphone. A
+A view of Penny's screen. She is watching a video that has been recorded in portrait format. Next to the video player is a partially visible chat window. The video shows an attractive young man in casual clothes, **Dylan Whateley**, who is filming himself in a well-lit interior.  
+#### **Dylan Whateley**  
+> Hey guys! I think it's been a while.we're
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 
