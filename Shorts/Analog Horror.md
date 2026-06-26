@@ -1,6 +1,8 @@
 # Cat & Company
 - 8 pp  
 - **Analog Horror**  
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page 1  
 *Penny is surprised to see that an old acquaintance has uploaded a new video stream to the Internet*

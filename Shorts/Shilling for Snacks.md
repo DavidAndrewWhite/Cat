@@ -1,7 +1,8 @@
 # Cat & Company
-- Shilling for Snacks
 - 4 pp.
-- **Shilling for Snacks**
+- **Shilling for Snacks**  
+- David White  
+- © 2026, David White. All rights reserved.  
 
 ## Page A  
 
