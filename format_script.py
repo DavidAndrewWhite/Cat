@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-build_issues.py - Build Cat & Company issue PDFs from Markdown sources.
+format_script.py - Build Cat & Company issue PDFs from Markdown sources.
 
 Cross-platform alternative to Makefile. Handles spaces in filenames,
 auto-discovers Issue files, and works on Linux, macOS, and Windows.
 
 Usage:
-    python build_issues.py              # Build all issues
-    python build_issues.py --all        # Build all issues (explicit)
-    python build_issues.py --issue 1    # Build only Issue 1
-    python build_issues.py --issue 3-5  # Build Issues 3, 4, 5
-    python build_issues.py --clean      # Remove all generated PDFs
-    python build_issues.py --list       # List available issue files
+    python format_script.py              # Build all issues
+    python format_script.py --all        # Build all issues (explicit)
+    python format_script.py --issue 1    # Build only Issue 1
+    python format_script.py --issue 3-5  # Build Issues 3, 4, 5
+    python format_script.py --clean      # Remove all generated PDFs
+    python format_script.py --list       # List available issue files
 
 Requirements:
     - pandoc (https://pandoc.org/)
@@ -32,12 +32,6 @@ PANDOC_PDF_ENGINE = "xelatex"
 PANDOC_DOCUMENTCLASS = "report"
 PANDOC_TOP_LEVEL_DIVISION = "section"
 
-# Font configuration (Liberation fonts)
-FONT_NAME = "Liberation Serif"
-FONT_BOLD = "Liberation Serif"
-FONT_ITALIC = "Liberation Serif"
-FONT_BOLD_ITALIC = "Liberation Serif"
-
 # Output and template paths
 OUTPUT_DIR = "pdf"
 TEMPLATE_DIR = "templates"
@@ -46,7 +40,7 @@ TITLE_PAGE_TEMPLATE = os.path.join(TEMPLATE_DIR, "issue.tex")
 # Paper size (a4, letter, legal, executive, a5, a3, b4, b5, etc.)
 PAPER_SIZE = "a4"
 
-# Issue metadata pattern - matches the first 6 lines of issue files
+# Issue metadata pattern - matches the first 5-6 lines of the script
 ISSUE_METADATA_PATTERN = re.compile(
     r'^#\s+(.+)$\n'
     r'^-\s+Issue\s+(\d+)(?:\s*)$\n'
@@ -256,11 +250,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="Build Cat & Company issue PDFs from Markdown sources.",
         epilog="Examples:\n"
-               "  python build_issues.py              # Build all issues\n"
-               "  python build_issues.py --issue 1    # Build Issue 1 only\n"
-               "  python build_issues.py --issue 3-5  # Build Issues 3 through 5\n"
-               "  python build_issues.py --clean      # Remove all generated PDFs\n"
-               "  python build_issues.py --list       # List available issue files",
+               "  python format_script.py              # Build all issues\n"
+               "  python format_script.py --issue 1    # Build Issue 1 only\n"
+               "  python format_script.py --issue 3-5  # Build Issues 3 through 5\n"
+               "  python format_script.py --clean      # Remove all generated PDFs\n"
+               "  python format_script.py --list       # List available issue files",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
 
