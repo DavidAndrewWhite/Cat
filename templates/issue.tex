@@ -34,6 +34,7 @@ $endif$
 \usepackage{parskip}
 \usepackage{hyperref}
 \usepackage{microtype}
+\usepackage{fancyhdr}
 
 % Explicitly set Liberation Serif as the main font (ensures Unicode support)
 \defaultfontfeatures{Mapping=tex-text}
@@ -41,8 +42,21 @@ $endif$
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
 
-% Restore page numbers in footers (plain style = number at bottom center)
-\pagestyle{plain}
+% Custom header/footer style for content pages
+\fancypagestyle{content}{
+  \fancyhf{}
+  % Header: seriesTitle (left), storyTitle (center, bold italic), copyrightLine (right)
+  \lhead{\tiny\seriesTitle}
+  \chead{\small\textbf{\textit{\storyTitle}}}
+  \rhead{\tiny\copyrightLine}
+  % Footer: page number at bottom center
+  \cfoot{\small\thepage}
+  \renewcommand{\headrulewidth}{0.4pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Apply content style by default; title page and blank pages override with empty
+\pagestyle{content}
 
 % Disable automatic section numbering (suppresses "1 Page 1", "1.1 Panel 1", etc.)
 \setcounter{secnumdepth}{0}
@@ -75,6 +89,11 @@ $endif$
 
 % Also suppress chapter numbers in headings (use book class commands)
 \renewcommand{\thechapter}{}
+
+% Title page and initial blank pages should have no headers
+\makeatletter
+\@addtoreset{page}{chapter}
+\makeatother
 
 % Page geometry for content (not title page)
 \geometry{
@@ -174,10 +193,14 @@ $endif$
 % Generate the custom title page
 \maketitlepage
 
-%Add blank page after title page
+% Add blank page after title page (no header)
+\thispagestyle{empty}
 \newpage
 
+% Intentionally blank page (no header)
+\thispagestyle{empty}
 \textit{This page intentionally left blank.} 
+\thispagestyle{empty}
 \newpage
 
 % Main content follows
