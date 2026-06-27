@@ -102,7 +102,6 @@ def build_issue(source_file, output_path):
         "-V", f"storyTitle={metadata['story_title']}",
         "-V", f"authorName={metadata['author']}",
         "-V", f"copyrightLine={metadata['copyright_line']}",
-        "--from", PANDOC_INPUT_FORMAT,
         "-",  # Read from stdin
     ]
 
