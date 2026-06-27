@@ -546,7 +546,7 @@ Close up on **Camillo Skragg**, who seems to be coming to terms with the situati
 #### **Camillo Skragg**  
 > So, you're *really* speaking English?  
 > This isn't some *space magic bullshit*?  
-### Page 6 *(Half page width, 1/3rd page height)*  
+### Panel 6 *(Half page width, 1/3rd page height)*  
 **Jinx Bubastis** acknowledges **Camillo Skragg's** question.  
 > Exactly.  
 > Also, *space magic* is *real* and *can* hurt you.  

@@ -127,7 +127,7 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > To an il--  
 > ul--  
 > uh!  
-#### Panel 3 *(Half page width, 1/3rd page height)*: 
+### Panel 3 *(Half page width, 1/3rd page height)*: 
 **Victor Bravo** yells, shaking with rage.  
 #### **Victor Bravo**  
 > FUCK!  
