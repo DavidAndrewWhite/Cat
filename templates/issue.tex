@@ -42,6 +42,15 @@ $endif$
 \setsansfont{Liberation Sans}
 \setmonofont{Liberation Mono}
 
+% Page geometry for content (not title page)
+% Must come before fancyhdr so \textwidth is set correctly
+\geometry{
+  top=1.0in,
+  bottom=1.0in,
+  left=1.0in,
+  right=1.0in,
+}
+
 % Custom header/footer style for content pages
 \fancypagestyle{content}{
   \fancyhf{}
@@ -49,10 +58,13 @@ $endif$
   \lhead{\tiny\seriesTitle}
   \chead{\small\textbf{\textit{\storyTitle}}}
   \rhead{\tiny\copyrightLine}
-  % Footer: page number at bottom center
+  % Footer: page number at center
   \cfoot{\small\thepage}
   \renewcommand{\headrulewidth}{0.4pt}
   \renewcommand{\footrulewidth}{0pt}
+  % Set header width to match text block exactly (respects left/right margins)
+  \setlength{\headwidth}{\textwidth}
+  \fancyhfoffset{0pt}
 }
 
 % Apply content style by default; title page and blank pages override with empty
@@ -94,14 +106,6 @@ $endif$
 \makeatletter
 \@addtoreset{page}{chapter}
 \makeatother
-
-% Page geometry for content (not title page)
-\geometry{
-  top=1.0in,
-  bottom=1.0in,
-  left=1.0in,
-  right=1.0in,
-}
 
 % Black-and-white color palette for title page
 \definecolor{coverbg}{HTML}{ffffff}
