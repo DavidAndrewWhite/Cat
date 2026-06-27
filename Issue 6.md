@@ -235,4 +235,6 @@ A closer view of **Camillo Skragg**. He is maintaining a poker face, but is eval
 #### **Image** *(mumbles)*  
 > oof...  
 ### Panel 2 *(Half page width, 1/3rd page height)*  
+The view shifts to just over **Image's** right shoulder. The landscape is barren and rocky. The area in front of the cave wall was once fenced off with something like a chain-link fence, which has mostly been shredded. All that's still standing are the posts between the stretches of fence. About one hundred meters in front of the rock wall, the shopping cart has hit a rock and fallen on its side. The **magic box** lies just beside the cart, intact. In the background, a ruined cityscape is visible in the distance, shattered skyscrapers glint in the alien sun.
+### Panel 3 *(Half page width, 1/3rd page height)*  
 

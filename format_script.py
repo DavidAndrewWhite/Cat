@@ -38,6 +38,8 @@ ISSUE_METADATA_PATTERN = re.compile(
     re.MULTILINE,
 )
 
+def escape_special_characters(text):
+    return re.sub(r'([$%&~_\^\\{}])', r'\\\1',text)
 
 def parse_issue_metadata(source_file):
     """Parse the first 6 lines of an issue file to extract metadata.
@@ -53,12 +55,12 @@ def parse_issue_metadata(source_file):
         return None
     
     return {
-        "series_title": match.group(1).strip(),
+        "series_title": escape_special_characters(match.group(1).strip()),
         "issue_number": f"Issue {match.group(2)}",
         "page_count": f"{match.group(3)} pp",
-        "story_title": match.group(4).strip(),
-        "author": match.group(5).strip(),
-        "copyright_line": match.group(6).strip(),
+        "story_title": escape_special_characters(match.group(4).strip()),
+        "author": escape_special_characters(match.group(5).strip()),
+        "copyright_line": escape_special_characters(match.group(6).strip()),
     }
 
 
