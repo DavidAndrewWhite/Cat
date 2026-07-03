@@ -99,11 +99,82 @@ A view like Panels 3-5 of Page 1. **Dylan Whateley** continues talking into the 
 > I feel... *lost.*  
 
 ## Page 3
-*The crew talk about the mysterious stream, and Jinx speculates that Dylan has bypassed the Lake of Fire and is lost in the World of Ash*  
 
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+A close-to-mid view from the front of **Penny Skragg** and **Jinx Bubastis** looking intently at the screen of the computer. **Penny Skragg** cocks an eyebrow. **Jinx Bubastis** stands to the left (right side of panel) and scratches her chin.  
+#### **Penny Skragg**  
+> Dylan just *stopped* streaming.  
+> I think that *freaked him out* a little.  
+#### **Jinx Bubastis**  
+> Does he have any *other videos* online?  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A view from the side. **Peter Cat** and **Camillo Skragg** are standing unobtrusively behind **Jinx Bubastis** and **Penny Skragg** are the focus and are still concentrating on the screen.  
+#### **Penny Skragg**  
+> He had some *urban exploration* videos up, but they're *years old.*  
+> Where do *you* think he *is?*  
+### Panel 3 *(Half page width, 1/3rd page height, no border)*: 
+A diagram, loosely based on the central column of the Tree of Life (reference ⟹ https://i.ebayimg.com/images/g/l7UAAOSw6Spe6gwK/s-l1200.jpg). "Kether" is a brilliant light shining through a curtain, Tephareth is a raging inferno labelled "Lake of Fire", Yesod is a sphere of ash labelled "World of Ash", Malkuth is a portal into the everyday world. The focus is fairly clearly on Yesod.
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** gestures subtly towards the diagram in Panel 3 as she tries to explain what she meant.
+#### **Jinx Bubastis**  
+> Beneath the *Lake of Fire* -- the place where *contradictions burn away* -- there is a *World of Ash.*  
+> Shared *memories,* background *details,* and yes, *liminal spaces* fall into it from the *inferno.*  
+> This place forms the *borderlands* between the *living world* and the *realm of the dead.*  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** is standing up. **Penny Skragg** swivels over to look at her. **Peter Cat** and **Camillo Skragg** stand on the other side.  
+#### **Jinx Bubastis**  
+> The *strange,* unstructured *mess* of *familiar spaces* and *banal memories* is a common way for a *lost soul* to experience the *World of Ash.*  
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** looks at **Jinx Bubastis**. **Jinx Bubastis** closes her eyes and rubs the side of her head.  
+#### **Penny Skragg**  
+> Wait...  
+> Doesn't *that* mean he's *dead?*  
+#### **Jinx Bubastis**  
+> *Dead* and *unaware of it.*  
+> Yes.  
 
 ## Page 4
-*Camillo talks to the sheriff of Dylan's hometown, and finds out that Dylan's missing persons' complaint is a cold case*
+  
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+Mid shot of **Camillo Skragg** and **Jinx Bubastis**. **Camillo Skragg** has a thoughtful expression. **Jinx Bubastis** looks at him and smiles a little.  
+#### **Camillo Skragg**  
+> That's an *extraordinary claim,* Jinx.  
+#### **Jinx Bubastis**  
+> True.  
+> But I think it only requires a little *ordinary evidence.*  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** sits down at the computer. **Penny Skragg** takes the place behind and to the left of the chair where **Jinx Bubastis** was. **Jinx Bubastis** and **Peter Cat** watch just off to the left, and may not be visible on panel.  
+#### **Camillo Skragg**  
+> Didn't Dylan live in *Kingston?*  
+> Let me see if I can get in *contact* with *someone* in the *Kingston PD.*  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close behind, and **Peter Cat** and **Penny Skragg** on the right. **Penny Skragg** whispers to **Peter Cat.**  
+#### **Detective** *(over monitor speakers)*  
+> Ah! Mr. *Skragg* --  
+> -- to *what* do we *owe* the *honor?*  
+#### **Camillo Skragg**  
+> The *honor?*  
+#### **Detective** *(over monitor speakers)*  
+> We got a *bulletin* about you guys, you're *Feds.*  
+#### **Camillo Skragg**  
+> Oh!  
+> It's nothing *serious,* just a *wellness check.*  
+#### **Penny Skragg** *(whispering)*  
+> *We're* Federal law enforcement?  
+#### **Peter Cat**  
+> Ssh.  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Camillo Skragg** smiles and does his best to be friendly.  
+#### **Camillo Skragg**  
+> One "Dylan Whateley" -- could you have someone check up on him?  
+#### **Detective** *(over monitor speakers)*  
+> Dylan Whateley?  
+> Let me check.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+A view of the screen of the computer. The **Detective** looks a little concerned.  
+#### **Detective** *(over monitor speakers)*  
+> Oh, man. You'll want to contact the *Ulster County Sheriff.*  
+> They've had an ongoing *missing persons'* investigation for *years* now.  
 
 ## Page 5
 *Dylan's last stream starts, and the crew locate the source -- the abandoned mansion where his last "normal" video was filmed*
