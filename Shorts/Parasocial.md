@@ -178,12 +178,70 @@ A view of the screen of the computer. The **Detective** looks a little concerned
 
 ## Page 5
 *Dylan's last stream starts, and the crew locate the source -- the abandoned mansion where his last "normal" video was filmed*
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+
 
 ## Page 6
 *Peter discovers the cave beneath the abandoned mansion and recovers Dylan's body from an underground lake saturated with carbon dioxide*
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+### Panel 3 *(Full page width, 1/3rd page height)*:  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
 
-## Page 7
-*Jinx catches Dylan and throws him into the Lake of Fire*
+
+## Page 7  
+
+*All panels on this page use the "screen view" conventions from earlier.*
+### Panel 1 *(1/3rd page width, 1/3rd page height)*:  
+A close-up of **Dylan Whateley's** eye -- a reference to a similar scene towards the end of "The Blair Witch Project."  
+#### **Dylan Whateley**  
+> ok--
+> ok--  
+> I found a *hiding place*--  
+> that *thing*--  
+> that *thing* won't *get* me...
+#### Chat window *(partially visible)*  
+> Kobi99: The thing's gonna get him.  
+### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
+
+### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
+
+### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
+The icy-blue, feline eye of **The Entity** fills the stream window. She is propping up **Dylan Whateley's** phone, so the camera can capture his final moments for the stream.
+#### **The Entity** *(growls)*  
+> theRRRRe....
+### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
+**The Entity** walks away from the propped-up phone towards **Dylan Whateley**, who tries unsuccessfully to stand up or crawl away on the basalt surface at the edge of **The Lake of Fire.**  
+#### **Dylan WHateley**  
+> Oh God!  
+> Oh God!  
+> Please help!  
+#### **The Entity** *(growls)*  
+> ...toOOo laAATe...  
+### Panel 6 *(1/3rd page width, 1/3rd page height)*:  
+**The Entity** grabs **Dylan Whateley** by his collar in one hand, by his belt in the other. She is winding up to throw him high into the air.  
+#### **Dylan Whateley** *(screaming)*  
+> No!  
+> No!  
+> PLEASE!  
+### Panel 7 *(1/3rd page width, 1/3rd page height)*:  
+**Dylan Whately** flies in a parabolic arc high above the **Lake of Fire**, head down, butt up. 
+#### **Dylan Whateley** *(screaming)*  
+> AAAAAAA!!!  
+#### SF/X  
+> yeet  
+### Panel 8 *(1/3rd page width, 1/3rd page height)*:  
+**Dylan Whateley** hits the surface of the **Lake of Fire**, and disappears in a flash of flame.  
+#### Chat window *(partially visible)*  
+> Kobi999: K. that's pretty metal.  
+### Panel 9 *(1/3rd page width, 1/3rd page height)*:  
+The stream suddenly ends, going dark.  
+#### Chat window *(partially visible)*  
+> BumFighter32: F  
+> RM-FR: F  
+> BusterNud12: F  
+> CherylLignam: F  
 
 ## Page 8
 *The funeral - Dylan's parents are grateful to get a chance to say goodbye*

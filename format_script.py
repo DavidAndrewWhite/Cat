@@ -26,23 +26,28 @@ PANDOC_TOP_LEVEL_DIVISION = "section"
 OUTPUT_DIR = "pdf"
 TEMPLATE_DIR = "templates"
 
-
-# Issue metadata pattern - matches the first 6 lines of an issue file
-ISSUE_METADATA_PATTERN = re.compile(
+# Issue header pattern
+# Markdown level 1 header followed immediately by an unordered list
+HEADER_PATTERN = re.compile(
     r'^#\s+(.+)$\n'
-    r'^-\s+Issue\s+(\d+)(?:\s*)$\n'
-    r'^-\s+(\d+)\s+pp\.?\s*$\n'
-    r'^-\s+\*\*(.+?)\*\*\s*$\n'
-    r'^-\s+(.+?)$\n'
-    r'^-\s+(\u00a9.+?)$',
-    re.MULTILINE,
+    r'(?:^-\s(.+)$\n)?'
+    r'(?:^-\s(.+)$\n)?'
+    r'(?:^-\s(.+)$\n)?'
+    r'(?:^-\s(.+)$\n)?'
+    r'(?:^-\s(.+)$\n)?',
+    re.MULTILINE
 )
+
+ISSUE_NUMBER_PATTERN = re.compile(r'(Issue \d+)\s*')
+PAGECOUNT_PATTERN = re.compile(r'(\d+ pp)\s*')
+STORY_TITLE_PATTERN = re.compile(r'\*\*(.+)\*\*\s*')
+COPYRIGHT_LINE_PATTERN = re.compile(r'(\u00a9.+)\s*')
 
 def escape_special_characters(text):
     return re.sub(r'([$%&~_\^\\{}])', r'\\\1',text)
 
-def parse_issue_metadata(source_file):
-    """Parse the first 6 lines of an issue file to extract metadata.
+def parse_header(source_file):
+    """Parse the header of a script file to extract metadata.
 
     Returns a dict with keys: series_title, issue_number, page_count,
     story_title, author, copyright_line.
@@ -50,19 +55,32 @@ def parse_issue_metadata(source_file):
     with open(source_file, "r", encoding="utf-8") as f:
         content = f.read()
     
-    match = ISSUE_METADATA_PATTERN.search(content)
-    if not match:
+    header = HEADER_PATTERN.search(content)
+    if not header:
         return None
     
-    return {
-        "series_title": escape_special_characters(match.group(1).strip()),
-        "issue_number": f"Issue {match.group(2)}",
-        "page_count": f"{match.group(3)} pp",
-        "story_title": escape_special_characters(match.group(4).strip()),
-        "author": escape_special_characters(match.group(5).strip()),
-        "copyright_line": escape_special_characters(match.group(6).strip()),
-    }
+    group = 1
+    metadata = {}
+    metadata["series_title"] = escape_special_characters(header.group(group).strip())
+    group += 1
+    issue = ISSUE_NUMBER_PATTERN.match(header.group(group))
+    if not issue:
+        metadata["issue_number"] = ''
+    else:
+        metadata["issue_number"] = issue.group(1)
+        group += 1
+    pagecount = PAGECOUNT_PATTERN.match(header.group(group))
+    metadata["page_count"] = pagecount.group(1)
+    group += 1
+    storytitle = STORY_TITLE_PATTERN.match(header.group(group))
+    metadata["story_title"] = escape_special_characters(storytitle.group(1))
+    group += 1
+    metadata["author"] = escape_special_characters(header.group(group).strip())
+    group += 1
+    copyright = COPYRIGHT_LINE_PATTERN.match(header.group(group))
+    metadata["copyright_line"] = escape_special_characters(copyright.group(1).strip())
 
+    return metadata
 
 def build_issue(source_file, output_path):
     """Run pandoc to convert a single Markdown file to PDF with title page.
@@ -71,7 +89,7 @@ def build_issue(source_file, output_path):
     pandoc with a custom LaTeX template to generate the PDF.
     """
     # Parse metadata
-    metadata = parse_issue_metadata(source_file)
+    metadata = parse_header(source_file)
     if metadata is None:
         print(f"ERROR: Could not parse metadata from {source_file}")
         return False
@@ -79,7 +97,7 @@ def build_issue(source_file, output_path):
     # Strip metadata header from content
     with open(source_file, "r", encoding="utf-8") as f:
         lines = f.readlines()
-    clean_content = "".join(lines[6:])
+    clean_content = HEADER_PATTERN.sub('',"".join(lines),1)
 
     # Check template exists
     template_path = os.path.join(TEMPLATE_DIR, "issue.tex")

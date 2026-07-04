@@ -114,14 +114,6 @@ $endif$
 \definecolor{covergold}{HTML}{333333}
 \definecolor{coverdark}{HTML}{000000}
 
-% Default metadata values (safety fallbacks - only applied if not set by pandoc)
-\providecommand{\seriesTitle}{Cat \textbackslash{}\textbackslash{} Company}
-\providecommand{\issueNumber}{Issue 1}
-\providecommand{\pageCount}{24 pp}
-\providecommand{\storyTitle}{Untitled}
-\providecommand{\authorName}{Unknown Author}
-\providecommand{\copyrightLine}{\textcopyright~Current year, Author. All rights reserved.}
-
 % Title page generation command - clean black-and-white design
 \newcommand{\maketitlepage}{
   \thispagestyle{empty}
@@ -142,7 +134,7 @@ $endif$
       }
     };
     
-    
+$if(issueNumber)$    
     % Issue number
     \node[anchor=north] at ([xshift=0in, yshift=1.7in]current page.center) {
       \parbox{6in}{
@@ -150,7 +142,9 @@ $endif$
         \large\textbf{\issueNumber}
       }
     };
+$endif$
     
+$if(pageCount)$
     % Page count
     \node[anchor=north] at ([xshift=0in, yshift=1.2in]current page.center) {
       \parbox{6in}{
@@ -158,6 +152,7 @@ $endif$
         \textit{\pageCount}
       }
     };
+$endif$
     
     
     % Story title (center of page - most prominent, large italic)
