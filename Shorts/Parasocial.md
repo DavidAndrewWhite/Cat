@@ -180,14 +180,46 @@ A view of the screen of the computer. The **Detective** looks a little concerned
 *Dylan's last stream starts, and the crew locate the source -- the abandoned mansion where his last "normal" video was filmed*
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 
-
 ## Page 6
 *Peter discovers the cave beneath the abandoned mansion and recovers Dylan's body from an underground lake saturated with carbon dioxide*
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** passes through the limestone ceiling of the cavern beneath the mansion. His body seems to be reconstituting itself from a smoky form -- compare Issue 1, Page 13, Panel 3. In one hand, he holds a ball of light, the only source of illumination in the cave. In the background, a metal staircase leads down to the floor of the cave.  
+#### Box *(narration, **Peter Cat**)*  
+> As I suspected, the *previous owner* had excavated a cavern beneath his *mansion.*  
+#### Box *(narration, **Sheriff**)*  
+> Like a *panic room,* or a *bomb shelter?*  
+#### Box *(narration, **Peter Cat**)*  
+> *Something* like that.  
+> Construction seems to have *stalled.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** aims his hand, a little like a flashlight, into the darkness of the cavern. Stalactites hang from the ceiling. There is a large pool of murky water fulling much of the cavern.  
+#### Box *(narration, **Peter Cat**)*  
+> The cavern was carved into *carbonate rock*--  
+> --I believe you call it *limestone.*  
+> Groundwater seeped up *through* the *porous* rock.  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
+In the foreground, the skeletal remains of **Dylan Whateley** lie on the floor of the cavern, illuminated by a beam from a ball of light hovering just behind **Peter Cat's** right shoulder. Shreds of his clothing remain. **Peter Cat** is only visible in silhouette in the background.
+#### Box *(narration, **Sheriff**)*  
+> And that's *where* you *found* the *corpse?*  
+#### Box *(narration, **Peter Cat**)*  
+> Precisely.  
+> I haven't been able to *identify* the deceased, of course.  
+#### Box *(narration, **Sheriff**)*  
+> That's *our* job, but I'm *pretty sure* that's *Dylan.*  
+> What *happened* to him?  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** carries the corpse of **Dylan Whateley** in his arms, and looks back at the murky water inside the cave.  
+#### Box *(narration, **Peter Cat**)*  
+> I mentioned *carbonate rocks* and *flooding.*  
+> The *pool of water* was *saturated* with *carbon dioxide.*  
+> Even a *few grains of dust* falling into the water could have *triggered* an *instant release* of *gas.*  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Peter Cat** flies through the ceiling of the cavern, leaving a smoky trail, as the ball of light fades.  
+#### Box *(narration, **Sheriff**)*  
+> *Asphyxiation.*  
+#### Box *(narration, **Peter Cat**)*  
+> The *low partial pressure* of *oxygen* would have *swiftly* led to *unconsciousness.*  
+> He *never* had a *chance.*
 
 
 ## Page 7  
