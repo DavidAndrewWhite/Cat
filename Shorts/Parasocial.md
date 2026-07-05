@@ -236,9 +236,15 @@ A close-up of **Dylan Whateley's** eye -- a reference to a similar scene towards
 #### Chat window *(partially visible)*  
 > Kobi99: The thing's gonna get him.  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
-
+The stream shows an out-of-focus patch of light.
+#### **Dylan Whateley** *(not visible)* 
+> NO!  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
-
+The stream goes dark, as if **Dylan Whateley's** phone has fallen with its camera pointing at the ground.
+#### **Dylan Whateley** *(not visible)* 
+> ...no...  
+#### Chat window *(partially visible)*  
+> RM-FR: Someone got got  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 The icy-blue, feline eye of **The Entity** fills the stream window. She is propping up **Dylan Whateley's** phone, so the camera can capture his final moments for the stream.
 #### **The Entity** *(growls)*  
