@@ -177,11 +177,49 @@ A view of the screen of the computer. The **Detective** looks a little concerned
 > They've had an ongoing *missing persons'* investigation for *years* now.  
 
 ## Page 5
-*Dylan's last stream starts, and the crew locate the source -- the abandoned mansion where his last "normal" video was filmed*
+
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
+Exterior, early evening. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** are in the yard in front of an abandoned mansion (not visible on-panel yet). **Peter Cat** stands in the middle, squinting a little as he scans the surroundings. **Jinx Bubastis** stands next to him, arms crossed. **Camillo Skragg** is sitting on a picnic blanket on the grass and operating a laptop and a software-defined radio rig. **Penny Skragg** crouches behind him, looking into her smartphone.  
+#### **Peter Cat**  
+> So, *this* is the *place?*  
+#### **Penny Skragg**  
+> Yeah.  
+> His last *urban exploration videos* were set here.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+A view of the group from the rear. They are all facing a decaying mansion.  
+#### **Penny Skragg**  
+> This *abandoned mansion* belonged to an *eccentric billionaire.*  
+> Dylan's *stream* should be starting *shortly.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** bends over behind **Penny Skragg** and **Camillo Skragg** as he gets his radio rig ready.  
+#### **Camillo Skragg**  
+> So, how does a *ghost* have *internet?*  
+#### **Jinx Bubastis**  
+> The *World of Ash* can *interact* with *reality.*    
+#### **Camillo Skragg**  
+> I guess a *radio signal* isn't that much different from a *cold spot* or *tossing around small objects* in terms of *energy.*  
+### Panel 4 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** looks down at her phone. **Camillo Skragg** is surprised by what his laptop's SDR program is showing him.  
+#### **Penny Skragg**  
+> His *stream* is *starting...*  
+#### **Camillo Skragg**  
+> ...and there's the *signal.*  
+> Astonishing.  
+### Panel 5 *(Half page width, 1/3rd page height)*:  
+**Jinx Bubastis** stands next to **Peter Cat**. 
+#### **Peter Cat**  
+> There's a *cavern* beneath the *mansion's basement.*  
+> I can *feel* the *signal* from down there.  
+#### **Jinx Bubastis**  
+> Then I will enter *the World of Ash* and try to find *Dylan.*    
+### Panel 6 *(Half page width, 1/3rd page height)*:  
+Close-up on **Jinx Bubastis**, who looks mildly amused.  
+#### **Jinx Bubastis**  
+> The *stream* will be his *subjective perception* of events.  
+> I imagine I'll have to put the *"psycho"* in *"psychopomp".*
 
 ## Page 6
-*Peter discovers the cave beneath the abandoned mansion and recovers Dylan's body from an underground lake saturated with carbon dioxide*
+
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** passes through the limestone ceiling of the cavern beneath the mansion. His body seems to be reconstituting itself from a smoky form -- compare Issue 1, Page 13, Panel 3. In one hand, he holds a ball of light, the only source of illumination in the cave. In the background, a metal staircase leads down to the floor of the cave.  
 #### Box *(narration, **Peter Cat**)*  
