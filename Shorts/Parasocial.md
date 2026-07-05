@@ -83,6 +83,8 @@ A view like Panels 3-5 of Page 1. **Dylan Whateley** looks at a display of boxes
 > Does the *chat* work?  
 #### **Penny Skragg**  
 > I'll *try* writing to him.  
+#### Title  
+> Parasocial  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 A view like Panels 3-5 of Page 1. **Dylan Whateley** looks at his phone with obvious surprise.  
 #### **Dylan Whateley**  
