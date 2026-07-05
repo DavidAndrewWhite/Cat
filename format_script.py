@@ -82,7 +82,7 @@ def parse_header(source_file):
 
     return metadata
 
-def build_issue(source_file, output_path):
+def build_issue(source_file, paper_size, output_path):
     """Run pandoc to convert a single Markdown file to PDF with title page.
     
     Parses metadata from the first 6 lines, strips the header, and uses
@@ -114,6 +114,7 @@ def build_issue(source_file, output_path):
         "--top-level-division", PANDOC_TOP_LEVEL_DIVISION,
         "-o", output_path,
         "--template", template_path,
+        "-V", f"geometry:{paper_size}",
         "-V", f"title={metadata['series_title']}",
         "-V", f"issueNumber={metadata['issue_number']}",
         "-V", f"pageCount={metadata['page_count']}",
@@ -124,6 +125,7 @@ def build_issue(source_file, output_path):
     ]
 
     print(f"Building: {source_file} -> {output_path}")
+    print(f"Executing: {" ".join(cmd)}")
     try:
         result = subprocess.run(
             cmd,
@@ -161,8 +163,16 @@ def main():
         help=f"Output directory for PDFs (default: {OUTPUT_DIR})",
     )
 
+    parser.add_argument(
+        "--papersize", "-p",
+        type=str,
+        default="a4paper",
+        help="LaTeX paper size designation for the produced document (default: a4paper)"
+    )
+
     args = parser.parse_args()
     source_file = args.source
+    paper_size = args.papersize
 
     if not os.path.isfile(source_file):
         print(f"ERROR: Source file not found: {source_file}")
@@ -173,7 +183,7 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
     output_path = os.path.join(args.output_dir, f"{base}.pdf")
 
-    success = build_issue(source_file, output_path)
+    success = build_issue(source_file, paper_size, output_path)
     sys.exit(0 if success else 1)
 
 
