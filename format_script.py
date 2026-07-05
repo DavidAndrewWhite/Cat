@@ -125,7 +125,6 @@ def build_issue(source_file, paper_size, output_path):
     ]
 
     print(f"Building: {source_file} -> {output_path}")
-    print(f"Executing: {" ".join(cmd)}")
     try:
         result = subprocess.run(
             cmd,

@@ -155,12 +155,12 @@ From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close 
 #### **Camillo Skragg**  
 > The *honor?*  
 #### **Detective** *(over monitor speakers)*  
-> We got a *bulletin* about you guys, you're *Feds.*  
+> We got a *bulletin* about you guys, you're *Federal law enforcement.*  
 #### **Camillo Skragg**  
 > Oh!  
 > It's nothing *serious,* just a *wellness check.*  
 #### **Penny Skragg** *(whispering)*  
-> *We're* Federal law enforcement?  
+> *We're* Feds?  
 #### **Peter Cat**  
 > Ssh.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
@@ -306,9 +306,11 @@ The icy-blue, feline eye of **The Entity** fills the stream window. She is propp
 #### **Dylan Whateley** *(screaming)*  
 > AAAAAAA!!!  
 #### SF/X  
-> yeet  
+> *yeet*  
 ### Panel 8 *(1/3rd page width, 1/3rd page height)*:  
 **Dylan Whateley** hits the surface of the **Lake of Fire**, and disappears in a flash of flame.  
+#### SF/X  
+> *pomf*  
 #### Chat window *(partially visible)*  
 > Kobi999: K. that's pretty metal.  
 ### Panel 9 *(1/3rd page width, 1/3rd page height)*:  
@@ -320,4 +322,22 @@ The stream suddenly ends, going dark.
 > CherylLignam: F  
 
 ## Page 8
-*The funeral - Dylan's parents are grateful to get a chance to say goodbye*
+
+### Panel 1 *(Full page width, 1/3rd page height)*:  
+A cemetery. **Dylan's mom** and **Dylan's dad** stand beside his grave site. The coffin has been lowered into the grave. **Dylan's dad** has placed his arm around **Dylan's mom** in a comforting gesture. In the background, from left to right, stand the **Sheriff**, **Peter Cat**, **Camillo Skragg**, **Penny Skragg**, and **Jinx Bubastis**. All are wearing formal black clothing, except for the **Sheriff** in his police uniform, and **Jinx Bubastis** in a red outfit.  
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+The **Sheriff** turns to talk quietly to **Peter Cat.**  **Peter Cat** nods in acknowledgement of what the **Sheriff** tells him.  
+#### **Sheriff**  
+> You guys *did good.*  
+> Dylan's *folks* needed *closure.*  
+### Panel 3 *(Half page width, 1/3rd page height)*:  
+**Penny Skragg** whispers to **Jinx Bubastis**.  
+#### **Penny Skragg**  
+> Are his *videos* still *online?*  
+#### **Jinx Bubastis**  
+> The *streaming service* was quite *cooperative* about *taking them down.*  
+> ...though I *did* save a *copy* of that *last one.*  
+### Panel 4 *(Full page width, 1/3rd page height)*:  
+A view upwards from **Dylan Whateley's* grave. His parents look down into the grave. They are obviously bereaved, but also visibly relieved.  
+#### Box *(lower right)*  
+> FIN  
