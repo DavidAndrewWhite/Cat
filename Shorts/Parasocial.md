@@ -230,7 +230,7 @@ Close-up on **Jinx Bubastis**, who looks mildly amused.
 > *Something* like that.  
 > Construction seems to have *stalled.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Peter Cat** aims his hand, a little like a flashlight, into the darkness of the cavern. Stalactites hang from the ceiling. There is a large pool of murky water fulling much of the cavern.  
+**Peter Cat** aims his hand, a little like a flashlight, into the darkness of the cavern. Stalactites hang from the ceiling. There is a large pool of murky water filling much of the cavern.  
 #### Box *(narration, **Peter Cat**)*  
 > The cavern was carved into *carbonate rock*--  
 > --I believe you call it *limestone.*  
@@ -289,7 +289,7 @@ The icy-blue, feline eye of **The Entity** fills the stream window. She is propp
 > theRRRRe....
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 **The Entity** walks away from the propped-up phone towards **Dylan Whateley**, who tries unsuccessfully to stand up or crawl away on the basalt surface at the edge of **The Lake of Fire.**  
-#### **Dylan WHateley**  
+#### **Dylan Whateley**  
 > Oh God!  
 > Oh God!  
 > Please help!  
