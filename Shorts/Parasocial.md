@@ -69,7 +69,7 @@ A view like Panels 3-5 of Page 1. **Dylan Whateley** walks into the supermarket.
 > Kobi999: AI AI AI AI AI AI  
 > CherylLignam: What a waste of tokens...  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
-A view like Panels 3-5 of Page 1. **Dylan Whateley** looks at a display of boxes of chocolate chip cookies in a brown cardboard box. (Similar to but simpler than this ⟹ https://thefreihofers.com/wp-content/uploads/2026/01/freihofers-bread-22.jpg)  
+A view like Panels 3-5 of Page 1. **Dylan Whateley** looks at a display of boxes of chocolate chip cookies in a brown cardboard box. (Similar to but simpler than this → https://thefreihofers.com/wp-content/uploads/2026/01/freihofers-bread-22.jpg)  
 #### **Dylan Whateley**  
 > Hey, they still *sell* these?  
 > I haven't seen them since I was a *kid!*  
@@ -115,7 +115,7 @@ A view from the side. **Peter Cat** and **Camillo Skragg** are standing unobtrus
 > He had some *urban exploration* videos up, but they're *years old.*  
 > Where do *you* think he *is?*  
 ### Panel 3 *(Half page width, 1/3rd page height, no border)*: 
-A diagram, loosely based on the central column of the Tree of Life (reference ⟹ https://i.ebayimg.com/images/g/l7UAAOSw6Spe6gwK/s-l1200.jpg). "Kether" is a brilliant light shining through a curtain, Tephareth is a raging inferno labelled "Lake of Fire", Yesod is a sphere of ash labelled "World of Ash", Malkuth is a portal into the everyday world. The focus is fairly clearly on Yesod.
+A diagram, loosely based on the central column of the Tree of Life (reference → https://i.ebayimg.com/images/g/l7UAAOSw6Spe6gwK/s-l1200.jpg). "Kether" is a brilliant light shining through a curtain, Tephareth is a raging inferno labelled "Lake of Fire", Yesod is a sphere of ash labelled "World of Ash", Malkuth is a portal into the everyday world. The focus is fairly clearly on Yesod.
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** gestures subtly towards the diagram in Panel 3 as she tries to explain what she meant.
 #### **Jinx Bubastis**  
