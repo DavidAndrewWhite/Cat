@@ -16,3 +16,8 @@ Art by [*divine art*](https://discordapp.com/users/1446069296902963212)
 ## Issue \#5: *"A Mission to Carcosa"* 
 
 - **The King in Yellow** knows many things, but how much of *you* is left after you learn them? Come visit *Carcosa*, a place where dreams are public space and text is ephemeral, and see a very human kind of madness.  [*PDF*](pdf/Issue%205.pdf) [*Source*](Issue%205.md)  
+
+## Short stories:
+
+- **Parasocial:** Analog horror from a digital ghost call **Cat and Company** to lay a lost soul to rest. [*PDF*](pdf/Parasocial.pdf) [*Source*](Shorts/Parasocial.md)
+
