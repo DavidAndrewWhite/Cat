@@ -16,25 +16,24 @@ Nighttime exterior shot of the Skraggs' house. An upper floor room is illuminate
 > click  
 #### **Penny Skragg**  
 > Haven't heard from *him* in *years...*  
-> ...wonder what he's *up* to?  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*:  
 A view of Penny's screen. She is watching a video that has been recorded in portrait format. Next to the video player is a partially visible chat window. The video shows an attractive young man in casual clothes, **Dylan Whateley**, who is filming himself in a well-lit interior.  
 #### **Dylan Whateley**  
-> Hey guys! I think it's been a while. 
+> Hey guys! It's *me*, Dylan! 
 #### Chat window *(partially visible)*   
-> OpportunityKnockers469: WORK FROM HOME $40/hr DETAILS HERE: https://spamp.it/malware_installer.php  
+> OpportunityKnockers469: WORK FROM HOME $40/hr DETAILS HERE: https://...  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*:  
 A view like Panel 3. **Dylan Whateley** holds his phone camera at arm's length, filming himself and the interior of the house he's in. The room he is in appears to be a fairly standard kitchen. He is standing in front of a wooden interior door that looks like it would open to a closet, or perhaps a staircase to a basement.
 #### **Dylan Whateley**  
-> So, check *this* out...  
-> ...it looks like a *normal* kitchen, but...  
+> So, check *this* out.  
+> Looks *normal*, right?  
 #### Chat window *(partially visible)*  
-> BlackSun4235: DICKFORCE σ puts the "VRIL" in "VIRILITY"! Only $299.99/mo! BUY NOW https://sigma.cx/  
+> BlackSun4235: DICKFORCE σ puts the "VRIL" in "VIRILITY"! Only $299.99/mo! BUY NOW https://...  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*:  
 A view like Panel 3. **Dylan Whateley** opens the door. On the video stream, the door opens to what appears to be a wall of digital encoding errors, with a side order of the old Doom engine's "Hall of Mirrors" effect.  
 #### **Dylan Whateley**  
 > I don't know what this *looks* like--  
-> --but it's like a *solid wall* of *nothing.*  
+> --but it's a *solid wall* of *nothing.*  
 #### Chat window *(partially visible)*  
 > CherylLignam: Eww lame Backrooms slop...  
 ### Panel 6 *(Half page width, 1/3rd page height)*  
@@ -57,7 +56,7 @@ A view like Panel 3. **Dylan Whateley** opens the door. On the video stream, the
 ### Panel 1 *(1/3rd page width, 1/3rd page height)*:  
 A view of Penny's screen, like Panels 3-5 of Page 1. **Dylan Whateley** is outside at night, standing in front of the entrance to a supermarket.  
 #### **Dylan Whateley**  
-> So, if this is like the *other ones* the door will be *unlocked.*  
+> So far, these *doors* are always *unlocked.*  
 #### Chat window *(partially visible)*  
 > Kobi999: AI AI AI AI AI AI  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
@@ -119,18 +118,16 @@ A diagram, loosely based on the central column of the Tree of Life (reference �
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** gestures subtly towards the diagram in Panel 3 as she tries to explain what she meant.
 #### **Jinx Bubastis**  
-> Beneath the *Lake of Fire* -- the place where *contradictions burn away* -- there is a *World of Ash.*  
-> Shared *memories,* background *details,* and yes, *liminal spaces* fall into it from the *inferno.*  
-> This place forms the *borderlands* between the *living world* and the *realm of the dead.*  
+> Beneath the *Lake of Fire* is a *World of Ash.*  
+> After *contradictions burn away,* shared memories, background details, and *liminal spaces* are *left behind.*
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Jinx Bubastis** is standing up. **Penny Skragg** swivels over to look at her. **Peter Cat** and **Camillo Skragg** stand on the other side.  
 #### **Jinx Bubastis**  
-> The *strange,* unstructured *mess* of *familiar spaces* and *banal memories* is a common way for a *lost soul* to experience the *World of Ash.*  
+> It forms the *borderlands* between the *living world* and the *realm of the dead.*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Penny Skragg** looks at **Jinx Bubastis**. **Jinx Bubastis** closes her eyes and rubs the side of her head.  
 #### **Penny Skragg**  
-> Wait...  
-> Doesn't *that* mean he's *dead?*  
+> So, he's *dead?*  
 #### **Jinx Bubastis**  
 > *Dead* and *unaware of it.*  
 > Yes.  
@@ -143,12 +140,12 @@ Mid shot of **Camillo Skragg** and **Jinx Bubastis**. **Camillo Skragg** has a t
 > That's an *extraordinary claim,* Jinx.  
 #### **Jinx Bubastis**  
 > True.  
-> But I think it only requires a little *ordinary evidence.*  
+> But *provable* with *ordinary evidence.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** sits down at the computer. **Penny Skragg** takes the place behind and to the left of the chair where **Jinx Bubastis** was. **Jinx Bubastis** and **Peter Cat** watch just off to the left, and may not be visible on panel.  
 #### **Camillo Skragg**  
 > Didn't Dylan live in *Kingston?*  
-> Let me see if I can get in *contact* with *someone* in the *Kingston PD.*  
+> Let me *call* the *police department.*  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
 From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close behind, and **Peter Cat** and **Penny Skragg** on the right. **Penny Skragg** whispers to **Peter Cat.**  
 #### **Detective** *(over monitor speakers)*  
@@ -171,12 +168,13 @@ From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close 
 > One "Dylan Whateley" -- could you have someone check up on him?  
 #### **Detective** *(over monitor speakers)*  
 > Dylan Whateley?  
-> Let me check.  
+> Let me look.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 A view of the screen of the computer. The **Detective** looks a little concerned.  
 #### **Detective** *(over monitor speakers)*  
-> Oh, man. You'll want to contact the *Ulster County Sheriff.*  
-> They've had an ongoing *missing persons'* investigation for *years* now.  
+> Oh, man. 
+> You'll want to contact the *Ulster County Sheriff.*  
+> There's a *missing persons'* investigation running for *years* now.  
 
 ## Page 5
 

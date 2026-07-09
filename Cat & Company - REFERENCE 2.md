@@ -21,7 +21,7 @@
 
 - Quoting Chambers:
 > I opened the box. On the pink cotton inside lay a clasp of black onyx, on which was inlaid a curious symbol or letter in gold. It was neither Arabic nor Chinese, nor as I found afterwards did it belong to any human script.   
-- In this interpretation, it is, in fact, Arabic -- but an ancient calligraphy of an obscure variety of Andalusian Arabic, heavily modified and stylized to make it totally non-textual. It may have started as Arabic calligraphy, but was deliberately stylized into something resembling no human script. It was built around the word 
+- In this interpretation, it is, in fact, Arabic -- but an ancient calligraphy of an obscure variety of Andalusian Arabic, heavily modified and stylized to make it totally non-textual. It may have started as Arabic calligraphy, but was deliberately stylized into something resembling no human script. It was built around the Arabic phrase "الشاهد الأخير" (alshaahid al'akhir) -- "The Last Witness", an esoteric eponym for **The King in Yellow** that refers to his presence just before the destruction of Atlantis.
 
 #### Bearers of **the Yellow Sign** *("Khamalat")*
 
@@ -79,12 +79,12 @@
 
 - **Layout**: Similar to the Air Hyades logo (black stars on silver). Central large island with a prominent lake containing the city of Hali marked by a large black star.
 - **Islands** (west to east, northern chain):
-  - **C. Oscura** (Dim Carcosa)
-  - **C. Silente** (Silent Carcosa)
-  - **C. Perduta** (Lost Carcosa)
+  - **Carcosa Oscura** (Dim Carcosa)
+  - **Carcosa Silente** (Silent Carcosa)
+  - **Carcosa Perduta** (Lost Carcosa)
   - **Yhtill** (northernmost island, uninhabited, site of the tomb containing **the King in Yellow's** mummified body)
 - **Geography**: Transition from city to country is abrupt; dirt roads follow the shoreline of Lake Hali.
-- **Etymology**: The island names are based on the ones used by Genoese cartographers, who are also responsible for the name "Carcosa".
+- **Etymology**: The island names are based on the ones used by Genoese cartographers, who are also responsible for the name "Carcosa". **Ythill** is a distant derivative of أثل ("athel") -- a name for a [salt cedar](https://en.wikipedia.org/wiki/Tamarix) associated with grave sites. 
 
 #### Mushad & The Observatory Tower
 
