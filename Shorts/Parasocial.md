@@ -302,7 +302,7 @@ The icy-blue, feline eye of **The Entity** fills the stream window. She is propp
 > No!  
 > PLEASE!  
 ### Panel 7 *(1/3rd page width, 1/3rd page height)*:  
-**Dylan Whately** flies in a parabolic arc high above the **Lake of Fire**, head down, butt up. 
+**Dylan Whateley** flies in a parabolic arc high above the **Lake of Fire**, head down, butt up. 
 #### **Dylan Whateley** *(screaming)*  
 > AAAAAAA!!!  
 #### SF/X  
@@ -338,6 +338,6 @@ The **Sheriff** turns to talk quietly to **Peter Cat.**  **Peter Cat** nods in a
 > The *streaming service* was quite *cooperative* about *taking them down.*  
 > ...though I *did* save a *copy* of that *last one.*  
 ### Panel 4 *(Full page width, 1/3rd page height)*:  
-A view upwards from **Dylan Whateley's* grave. His parents look down into the grave. They are obviously bereaved, but also visibly relieved.  
+A view upwards from **Dylan Whateley's** grave. His parents look down into the grave. They are obviously bereaved, but also visibly relieved.  
 #### Box *(lower right)*  
 > FIN  
