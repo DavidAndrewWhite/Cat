@@ -248,15 +248,14 @@ In the foreground, the skeletal remains of **Dylan Whateley** lie on the floor o
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** carries the corpse of **Dylan Whateley** in his arms, and looks back at the murky water inside the cave.  
 #### Box *(narration, **Peter Cat**)*  
-> I mentioned *carbonate rocks* and *flooding.*  
 > The *pool of water* was *saturated* with *carbon dioxide.*  
-> Even a *few grains of dust* falling into the water could have *triggered* an *instant release* of *gas.*  
+> The *smallest disruption* could cause *outgassing,* filling the cave with *"dead air."*  
+> The *low partial pressure* of *oxygen* swiftly led to *unconsciousness.*  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Peter Cat** flies through the ceiling of the cavern, leaving a smoky trail, as the ball of light fades.  
 #### Box *(narration, **Sheriff**)*  
 > *Asphyxiation.*  
 #### Box *(narration, **Peter Cat**)*  
-> The *low partial pressure* of *oxygen* would have *swiftly* led to *unconsciousness.*  
 > He *never* had a *chance.*
 
 
