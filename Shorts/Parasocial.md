@@ -179,7 +179,7 @@ A view of the screen of the computer, showing the video call with the Kingston P
 ## Page 5
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-Exterior, early evening. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** are in the yard in front of an abandoned mansion (not visible on-panel yet). They are dressed in their normal daytime clothes, or the most "streetwear" register of their costumes, as seen in the "Character descriptions" (reference → https://github.com/DavidAndrewWhite/Cat/blob/master/Character%20descriptions.md). **Peter Cat** stands in the middle, squinting a little as he scans the surroundings. **Jinx Bubastis** stands next to him, arms crossed. **Camillo Skragg** is sitting on a picnic blanket on the grass and operating a laptop and a software-defined radio rig. **Penny Skragg** crouches behind him, looking into her smartphone.  
+Exterior, early evening. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** are in the yard in front of an abandoned mansion (not visible on-panel yet). They are dressed in their normal daytime clothes, or the most "streetwear" register of their costumes, as seen in the "Character descriptions" reference. **Peter Cat** stands in the middle, squinting a little as he scans the surroundings. **Jinx Bubastis** stands next to him, arms crossed. **Camillo Skragg** is sitting on a picnic blanket on the grass and operating a laptop and a software-defined radio rig. **Penny Skragg** crouches behind him, looking into her smartphone.  
 #### **Peter Cat**  
 > So, *this* is the *place?*  
 #### **Penny Skragg**  
