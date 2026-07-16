@@ -7,11 +7,11 @@
 ## Page 1  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-Nighttime exterior shot of the Skraggs' house. An upper floor room is illuminated by dim light which is visible through the window.  
+Nighttime exterior shot of the Skraggs' house -- a compact, two-story Victorian house with a gabled roof and a large attic. An upper floor room is illuminated by dim light which is visible through the window.  
 #### **Penny Skragg** *(from inside room)*  
 > What the hell!?  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-**Penny Skragg** sits in front of a large flat screen monitor, keyboard, and mouse. She clicks on a link. The room is dark, but the light from the monitor illuminate **Penny Skragg's** face.  
+**Penny Skragg** sits in front of a large flat screen monitor, keyboard, and mouse. She clicks on a link. The room is dark, but the light from the monitor illuminate **Penny Skragg's** face. She is dressed for bed, and has covered up with a sheer bathrobe.  
 #### SF/X  
 > click  
 #### **Penny Skragg**  
@@ -42,7 +42,7 @@ A view like Panel 3. **Dylan Whateley** opens the door. On the video stream, the
 > So let's go *outside.*  
 > It's all messed up *there,* too.  
 ### Panel 7 *(Half page width, 1/3rd page height)*  
-**Jinx Bubastis** approaches the doorway leading to the room **Penny Skragg** is in. **Penny Skragg** gestures for her to come in and watch the stream with her.  
+**Jinx Bubastis** approaches the doorway leading to the room **Penny Skragg** is in. **Penny Skragg** gestures for her to come in and watch the stream with her. **Jinx Bubastis** is wearing something like a house kimono, and her mane is messy.  
 #### **Dylan Whateley** *(from monitor speakers)*  
 > It's like the *neighborhood* I grew up in, but the *streets* don't go anywhere.  
 #### **Penny Skragg**  
@@ -109,7 +109,7 @@ A close-to-mid view from the front of **Penny Skragg** and **Jinx Bubastis** loo
 #### **Jinx Bubastis**  
 > Does he have any *other videos* online?  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-A view from the side. **Peter Cat** and **Camillo Skragg** are standing unobtrusively behind **Jinx Bubastis** and **Penny Skragg** are the focus and are still concentrating on the screen.  
+A view from the side. **Peter Cat** and **Camillo Skragg** are standing unobtrusively behind **Jinx Bubastis** and **Penny Skragg** are the focus and are still concentrating on the screen. **Camillo Skragg** is wearing comfy flannel pajamas, **Peter Cat** is in a black bathrobe.  
 #### **Penny Skragg**  
 > He had some *urban exploration* videos up, but they're *years old.*  
 > Where do *you* think he *is?*  
@@ -147,7 +147,7 @@ Mid shot of **Camillo Skragg** and **Jinx Bubastis**. **Camillo Skragg** has a t
 > Didn't Dylan live in *Kingston?*  
 > Let me *call* the *police department.*  
 ### Panel 3 *(Full page width, 1/3rd page height)*:  
-From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close behind, and **Peter Cat** and **Penny Skragg** on the right. **Penny Skragg** whispers to **Peter Cat.**  
+From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close behind, and **Peter Cat** and **Penny Skragg** on the right. **Penny Skragg** whispers to **Peter Cat.**  **Camillo Skragg** used software like Zoom or Microsoft Teams to place a call to the Kingston PD, and the **Detective** on the other end has accepted a video call.
 #### **Detective** *(over monitor speakers)*  
 > Ah! Mr. *Skragg* --  
 > -- to *what* do we *owe* the *honor?*  
@@ -161,7 +161,7 @@ From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close 
 #### **Penny Skragg** *(whispering)*  
 > *We're* Feds?  
 #### **Peter Cat**  
-> Ssh.  
+> Shh.  
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** smiles and does his best to be friendly.  
 #### **Camillo Skragg**  
@@ -170,7 +170,7 @@ From left to right -- the computer, **Camillo Skragg**, **Jinx Bubastis** close 
 > Dylan Whateley?  
 > Let me look.  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
-A view of the screen of the computer. The **Detective** looks a little concerned.  
+A view of the screen of the computer, showing the video call with the Kingston PD. The **Detective** looks a little concerned.  
 #### **Detective** *(over monitor speakers)*  
 > Oh, man. 
 > You'll want to contact the *Ulster County Sheriff.*  
@@ -179,14 +179,14 @@ A view of the screen of the computer. The **Detective** looks a little concerned
 ## Page 5
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-Exterior, early evening. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** are in the yard in front of an abandoned mansion (not visible on-panel yet). **Peter Cat** stands in the middle, squinting a little as he scans the surroundings. **Jinx Bubastis** stands next to him, arms crossed. **Camillo Skragg** is sitting on a picnic blanket on the grass and operating a laptop and a software-defined radio rig. **Penny Skragg** crouches behind him, looking into her smartphone.  
+Exterior, early evening. **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg**, and **Penny Skragg** are in the yard in front of an abandoned mansion (not visible on-panel yet). They are dressed in their normal daytime clothes, or the most "streetwear" register of their costumes, as seen in the "Character descriptions" (reference → https://github.com/DavidAndrewWhite/Cat/blob/master/Character%20descriptions.md). **Peter Cat** stands in the middle, squinting a little as he scans the surroundings. **Jinx Bubastis** stands next to him, arms crossed. **Camillo Skragg** is sitting on a picnic blanket on the grass and operating a laptop and a software-defined radio rig. **Penny Skragg** crouches behind him, looking into her smartphone.  
 #### **Peter Cat**  
 > So, *this* is the *place?*  
 #### **Penny Skragg**  
 > Yeah.  
 > His last *urban exploration videos* were set here.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-A view of the group from the rear. They are all facing a decaying mansion.  
+A view of the group from the rear. They are all facing a decaying mansion, a "Queen Anne" style sprawl with several distinct wings, and is obviously decaying, with broken windows and graffiti.  
 #### **Penny Skragg**  
 > This *abandoned mansion* belonged to an *eccentric billionaire.*  
 > Dylan's *stream* should be starting *shortly.*  
@@ -221,7 +221,7 @@ Close-up on **Jinx Bubastis**, who looks mildly amused.
 ## Page 6
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-**Peter Cat** passes through the limestone ceiling of the cavern beneath the mansion. His body seems to be reconstituting itself from a smoky form -- compare Issue 1, Page 13, Panel 3. In one hand, he holds a ball of light, the only source of illumination in the cave. In the background, a metal staircase leads down to the floor of the cave.  
+**Peter Cat** passes through the limestone ceiling of the cavern beneath the mansion. His body seems to be reconstituting itself from a smoky form -- compare Issue 1, Page 13, Panel 3. In one hand, he holds a ball of light, the only source of illumination in the cave. In the background, a metal staircase leads down to the floor of the cave. The cave itself is visibly damp, stalactites hang from the ceiling, and a large section away from the entrance is flooded.  
 #### Box *(narration, **Peter Cat**)*  
 > As I suspected, the *previous owner* had excavated a cavern beneath his *mansion.*  
 #### Box *(narration, **Sheriff**)*  
@@ -323,7 +323,7 @@ The stream suddenly ends, going dark.
 ## Page 8
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-A cemetery. **Dylan's mom** and **Dylan's dad** stand beside his grave site. The coffin has been lowered into the grave. **Dylan's dad** has placed his arm around **Dylan's mom** in a comforting gesture. In the background, from left to right, stand the **Sheriff**, **Peter Cat**, **Camillo Skragg**, **Penny Skragg**, and **Jinx Bubastis**. All are wearing formal black clothing, except for the **Sheriff** in his police uniform, and **Jinx Bubastis** in a red outfit.  
+A cemetery, a somber place on a bright and sunny day. **Dylan's mom** and **Dylan's dad** stand beside his grave site. The coffin has been lowered into the grave. **Dylan's dad** has placed his arm around **Dylan's mom** in a comforting gesture. In the background, from left to right, stand the **Sheriff**, **Peter Cat**, **Camillo Skragg**, **Penny Skragg**, and **Jinx Bubastis**. All are wearing formal black clothing, except for the **Sheriff** in his police uniform, and **Jinx Bubastis** in a red outfit.  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 The **Sheriff** turns to talk quietly to **Peter Cat.**  **Peter Cat** nods in acknowledgement of what the **Sheriff** tells him.  
 #### **Sheriff**  
