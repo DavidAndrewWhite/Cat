@@ -231,10 +231,10 @@ A closer view of **Camillo Skragg**. He is maintaining a poker face, but is eval
 ## Page 6  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*  
-**Image** walks out through the entrance of a cave. She's on Magrige, but all that's visible of the alien world is a rock wall with a cave entrance. She squints her eyes and shades them with one hand from the light of an alien sun. The light is harsh, the color temperature is noticeably higher than on Earth. There is also a yellow-orange tint to the environment from the sky.  
+**Image** walks out through the entrance of a cave. She's on Magrige, but all that's visible of the alien world is a rock wall with a cave entrance. She squints her eyes and shades them with one hand from the light of an alien sun. The light is harsh, the color temperature is noticeably higher than on Earth. There is also a very subtle lilac tint to the environment from the sky.  
 #### **Image** *(mumbles)*  
 > oof...  
 ### Panel 2 *(Half page width, 1/3rd page height)*  
-The view shifts to just over **Image's** right shoulder. The landscape is barren and rocky. The area in front of the cave wall was once fenced off with something like a chain-link fence, which has mostly been shredded. All that's still standing are the posts between the stretches of fence. About one hundred meters in front of the rock wall, the shopping cart has hit a rock and fallen on its side. The **magic box** lies just beside the cart, intact. In the background, a ruined cityscape is visible in the distance, shattered skyscrapers glint in the alien sun.
+The view shifts to just over **Image's** right shoulder. The landscape is barren and rocky. The area in front of the cave wall was once fenced off with something like a chain-link fence, which has mostly been shredded. All that's still standing are the posts between the stretches of fence. About one hundred meters in front of the rock wall, the shopping cart has hit a rock and fallen on its side. The **magic box** lies just beside the cart, intact. In the background, a ruined cityscape is visible in the distance, shattered skyscrapers glint in the alien sun. The blue color of the sky is mixed with a little red, producing a lilac color.
 ### Panel 3 *(Half page width, 1/3rd page height)*  
 
