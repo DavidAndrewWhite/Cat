@@ -59,6 +59,8 @@ Outside, at night. A landscape of black, gray, and blue. Figures are dark, and l
 > I can *feel* you there.  
 > Step into the clearing.  
 > Talk to me.  
+#### Title  
+> A Martyred World  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 **The Magister** approaches **Peregrine**. **Peregrine** keeps looking at the stars.  
 #### **The Magister**  
@@ -290,3 +292,14 @@ A close-up on **Peregrine**. His eyes are narrowed, and he looks a little stress
 > We must travel--  
 > --to the *world beyond!*  
 
+## Panel 8  
+
+### Panel 1 *(Half page width, 1/3rd page height)*:  
+Establishing (or re-establishing) shot of the table where **Camillo Skragg** and **Joshua Land** are sitting. **Camillo Skragg** has taken control of the situation, his posture is inclined forward, and while he isn't pointing at **Joshua Land**, he gesticulates with his hands in **Joshua Land's** direction. **Joshua Land** leans back a little in his chair.  
+#### **Camillo Skragg**  
+> 
+### Panel 2 *(Half page width, 1/3rd page height)*:  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*: 
+### Panel 4 *(1/3rd page width, 1/3rd page height)*: 
+### Panel 5 *(1/3rd page width, 1/3rd page height)*: 
+### Panel 6 *(Full page width, 1/3rd page height)*: 
