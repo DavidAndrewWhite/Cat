@@ -236,5 +236,57 @@ A closer view of **Camillo Skragg**. He is maintaining a poker face, but is eval
 > oof...  
 ### Panel 2 *(Half page width, 1/3rd page height)*  
 The view shifts to just over **Image's** right shoulder. The landscape is barren and rocky. The area in front of the cave wall was once fenced off with something like a chain-link fence, which has mostly been shredded. All that's still standing are the posts between the stretches of fence. About one hundred meters in front of the rock wall, the shopping cart has hit a rock and fallen on its side. The **magic box** lies just beside the cart, intact. In the background, a ruined cityscape is visible in the distance, shattered skyscrapers glint in the alien sun. The blue color of the sky is mixed with a little red, producing a lilac color.
-### Panel 3 *(Half page width, 1/3rd page height)*  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*  
+A figure in a three-meter tall mech -- a small, bipedal vehicle with shoulders and two mechanical arms -- stomps through a section of fence. The vehicle looks almost like an ambulatory pile of junk, crudely welded to the mech's frame. The underlying vehicle is some kind of bastard child between a "bubble" micro-car and the power loader from the end of "Aliens". The pilot seems to be having fun, and is making absolutely no effort to be stealthy. While the pilot is quite proficient at using the vehicle, the control mechanisms are crude, and the way the mech moves is stiff and exaggerated.  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*  
+The mech approaches the **magic box**, and bends over to pick it up off the ground. The movements are kind of exaggerated, the fingers on the hand of the arm reaching down are splayed widely, the legs are in a wide, stable stance, and the torso is markedly tilted towards the **magic box**. It should be easy to imagine the pilot in the torso capsule grinning like a maniac. 
+#### **Pilot** *(from inside mech)*  
+> Ooh!  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*  
+The mech sashays away, holding the **magic box** in its right hand.
+#### **Pilot** *(from inside mech)*  
+> *whistles a happy tune*  
+### Panel 6 *(Half page width, 1/3rd page height)*  
+**Image** gradually becomes visible again; she looks translucent and ghostly. She is hiding out of view of the mech carrying the **magic box** in the entrance to the cave.
+### Panel 7 *(Half page width, 1/3rd page height)*  
+A close-up on **Image** as she frowns at the mech walking away from the site in the background.  
+#### **Image**  
+> Well, *fuck.*  
+
+## Page 7 
+
+### Panel 1 *(Half page width, 1/3rd page height)*  
+A dejected **Image** returns through the portal, slouching with visible disappointment at herself.
+#### **Image**  
+> *Sorry*, guys... 
+### Panel 2 *(Half page width, 1/3rd page height)*  
+**Image** looks down at the ground as she tells **Peregrine** what happened. **Peregrine** shows some visible concern and is listening carefully.  
+#### **Peregine**  
+> *What* happened?  
+#### **Image**  
+> ...a *scavenger* got the package.  
+### Panel 3 *(1/3rd page width, 1/3rd page height)*  
+**Image** pantomimes the entrance of the mech from Page 6, Panel 3, adopting a comical, bow-legged stance and moving in a series of broad stomps.  
+#### **Image**  
+> He was *driving* a *giant robot.*  
+> *Ten feet tall,* and *covered in junk.*  
+### Panel 4 *(1/3rd page width, 1/3rd page height)*  
+**Image** mimics the mech grabbing the **magic box.** Doing some physical clowning, and remembering the more comical aspects of her recent experiences, seems to have cheered her up. 
+#### **Image**  
+> Went *straight* for the *package* and *grabbed* it.  
+### Panel 5 *(1/3rd page width, 1/3rd page height)*  
+**Image** kind of catches herself, and adopts a more serious posture, standing up straight and rubbing her chin thoughtfully.  
+#### **Image**  
+> I *guess* I could have *shot* at it.  
+> I don't think my *.45s* would have done *shit,* though.  
+### Panel 6 *(Half page width, 1/3rd page height)*  
+**Image** finally looks **Peregrine** in the eye. **Peregrine** gestures towards the portal. In the foreground, framing the shot, are **Beowulf** and **Sleep** on one side, **The Maker** on the other.  
+#### **Peregine**  
+> I'm *sure* you did your *best,* Image.  
+> I can *track* it on *the other side.*  
+### Panel 7 *(Half page width, 1/3rd page height)*  
+A close-up on **Peregrine**. His eyes are narrowed, and he looks a little stressed out.  
+#### **Peregrine**  
+> We must travel--  
+> --to the *world beyond!*  
 
