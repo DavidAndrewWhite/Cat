@@ -152,7 +152,7 @@ Close view of **Peregrine** as he calls the others to attention.
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 A view of the **magic box** over an abstract background.  
 #### Box *(Peregrine)*  
-> We have been *provided* with a container of *degenerate matter.*  
+> We have been *provided* with a container of *denatured "materia".*  
 > If *released* inside one of the endpoints of a *shunt,* it will *catalyze* its *decay.*
 
 ## Page 4  
@@ -166,7 +166,7 @@ A view of the **magic box** over an abstract background.
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
 A view over **Peregrine's** shoulder at **The Maker**, **Sleep**, **Beowulf**, and **Image**. They are, in fact, listening carefully.  
 #### **Peregrine**  
-> Once the *container* opens, the *surrounding area* will be *contaminated* with *degenerate matter.*  
+> Once the *container* opens, the *surrounding area* will be *contaminated.*  
 > Both from the *contents* and -- ideally -- also from the *collapsing shunt.*  
 ### Panel 3 *(Half page width, 1/3rd page height)*:  
 **Peregrine** turns towards **The Maker**, giving him control of the briefing with some reluctance. **The Maker** is being his usual smarmy self, and leans lightly against the shopping cart holding the **magic box**.  
@@ -239,13 +239,13 @@ A closer view of **Camillo Skragg**. He is maintaining a poker face, but is eval
 ### Panel 2 *(Half page width, 1/3rd page height)*  
 The view shifts to just over **Image's** right shoulder. The landscape is barren and rocky. The area in front of the cave wall was once fenced off with something like a chain-link fence, which has mostly been shredded. All that's still standing are the posts between the stretches of fence. About one hundred meters in front of the rock wall, the shopping cart has hit a rock and fallen on its side. The **magic box** lies just beside the cart, intact. In the background, a ruined cityscape is visible in the distance, shattered skyscrapers glint in the alien sun. The blue color of the sky is mixed with a little red, producing a lilac color.
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*  
-A figure in a three-meter tall mech -- a small, bipedal vehicle with shoulders and two mechanical arms -- stomps through a section of fence. The vehicle looks almost like an ambulatory pile of junk, crudely welded to the mech's frame. The underlying vehicle is some kind of bastard child between a "bubble" micro-car and the power loader from the end of "Aliens". The pilot seems to be having fun, and is making absolutely no effort to be stealthy. While the pilot is quite proficient at using the vehicle, the control mechanisms are crude, and the way the mech moves is stiff and exaggerated.  
+A figure in a three-meter tall mech -- a small, bipedal vehicle with shoulders and two mechanical arms -- stomps through a section of fence. The vehicle looks almost like an ambulatory pile of junk, crudely welded to the mech's frame. The underlying vehicle is some kind of bastard child between a "bubble" micro-car (see https://en.wikipedia.org/wiki/Isetta) and the power loader from the end of "Aliens" (see https://avp.fandom.com/wiki/P-5000_Powered_Work_Loader). The hands of the mech have three fingers -- one long and thin "index finger", one long and wide, and a short and wide "thumb". The pilot seems to be having fun, and is making absolutely no effort to be stealthy. While the pilot is quite proficient at using the vehicle, the control mechanisms are crude, and the way the mech moves is stiff and exaggerated.  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*  
 The mech approaches the **magic box**, and bends over to pick it up off the ground. The movements are kind of exaggerated, the fingers on the hand of the arm reaching down are splayed widely, the legs are in a wide, stable stance, and the torso is markedly tilted towards the **magic box**. It should be easy to imagine the pilot in the torso capsule grinning like a maniac. 
 #### **Pilot** *(from inside mech)*  
 > Ooh!  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*  
-The mech sashays away, holding the **magic box** in its right hand.
+The mech sashays -- or, more accurately, waddles -- away, holding the **magic box** in its right hand.
 #### **Pilot** *(from inside mech)*  
 > *whistles a happy tune*  
 ### Panel 6 *(Half page width, 1/3rd page height)*  
@@ -263,7 +263,7 @@ A dejected **Image** returns through the portal, slouching with visible disappoi
 > *Sorry*, guys... 
 ### Panel 2 *(Half page width, 1/3rd page height)*  
 **Image** looks down at the ground as she tells **Peregrine** what happened. **Peregrine** shows some visible concern and is listening carefully.  
-#### **Peregine**  
+#### **Peregrine**  
 > *What* happened?  
 #### **Image**  
 > ...a *scavenger* got the package.  
@@ -283,7 +283,7 @@ A dejected **Image** returns through the portal, slouching with visible disappoi
 > I don't think my *.45s* would have done *shit,* though.  
 ### Panel 6 *(Half page width, 1/3rd page height)*  
 **Image** finally looks **Peregrine** in the eye. **Peregrine** gestures towards the portal. In the foreground, framing the shot, are **Beowulf** and **Sleep** on one side, **The Maker** on the other.  
-#### **Peregine**  
+#### **Peregrine**  
 > I'm *sure* you did your *best,* Image.  
 > I can *track* it on *the other side.*  
 ### Panel 7 *(Half page width, 1/3rd page height)*  
@@ -292,7 +292,7 @@ A close-up on **Peregrine**. His eyes are narrowed, and he looks a little stress
 > We must travel--  
 > --to the *world beyond!*  
 
-## Panel 8  
+## Page 8  
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 Establishing (or re-establishing) shot of the table where **Camillo Skragg** and **Joshua Land** are sitting. **Camillo Skragg** has taken control of the situation, his posture is inclined forward, and while he isn't pointing at **Joshua Land**, he gesticulates with his hands in **Joshua Land's** direction. **Joshua Land** leans back a little in his chair.  
