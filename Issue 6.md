@@ -223,7 +223,7 @@ A second shift to the right. **Joshua Land** is partially visible in the foregro
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 A closer view of **Joshua Land**. He is looking at **Camillo Skragg** carefully, evaluating him as a potential threat. He seems a little irritated.  
 #### **Joshua Land**  
-> Well, you're not *beardy* and *barrel-shaped,* so I'm guessing you're no *Cartel assassin.*  
+> Well, you're not *beardy* and *barrel-shaped,* so I'm guessing you're not from *Burning Hand.*  
 > Who *are* you?  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 A closer view of **Camillo Skragg**. He is maintaining a poker face, but is evaluating **Joshua Land** carefully.  

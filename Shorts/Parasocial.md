@@ -297,7 +297,7 @@ The icy-blue, feline eye of **The Entity** fills the stream window. She is propp
 #### **The Entity** *(growls)*  
 > ...toOOo laAATe...  
 ### Panel 6 *(1/3rd page width, 1/3rd page height)*:  
-**The Entity** grabs **Dylan Whateley** by his collar in one hand, by his belt in the other. She is winding up to throw him high into the air.  
+**The Entity** has grabbed **Dylan Whateley** by his collar in one hand, by his belt in the other. She is winding up to throw him high into the air.  
 #### **Dylan Whateley** *(screaming)*  
 > No!  
 > No!  
