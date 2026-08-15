@@ -120,7 +120,7 @@
 - **Personality**: A glib fast-talker with dark charisma.  
 
 ### **2. The King in Yellow**  
-- **Species**: **Atlantean post-human**, his immortal mind has experienced life in many different bodies, including a "flash mind" inhabiting the photosphere of Arcturus. He carefully guards what remains of his original body as an anchor to reality.  
+- **Species**: **Atlantean post-human**, his immortal mind has experienced life in many different bodies, including a "flash mind" inhabiting the photosphere of Aldebaran. He carefully guards what remains of his original body as an anchor to reality.  
 - **Role**: **Human survivor** of Space Bankers’ extermination; ruler of **Carcosa**.  
 - **Abilities**: **Possession** via **Yellow Sign** (marks humans, posession causes permanent and irreversible changes to the minds of victims).  
 - **Conflict**: Hesitates to act against Magister (fears extinction event).  
