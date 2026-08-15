@@ -273,7 +273,7 @@ A close-up of **Dylan Whateley's** eye -- a reference to a similar scene towards
 > that *thing*--  
 > that *thing* won't *get* me...
 #### Chat window *(partially visible)*  
-> Kobi99: The thing's gonna get him.  
+> Kobi999: The thing's gonna get him.  
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 The stream shows an out-of-focus patch of light.
 #### **Dylan Whateley** *(not visible)* 
