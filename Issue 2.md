@@ -135,11 +135,11 @@ Close-up on **The Eye**, who has an important announcement she is delivering wit
 > FUCK!  
 ### Panel 4 *(Full page width, 1/3rd page height)*:  
 **The Nightstalker** hangs in space; an establishing shot, with the bridge bump on the main hull front and center.  
-### Panel 4a *(small square inset in Panel 1, left)*:  
+### Panel 4a *(small square inset in Panel 4, left)*:  
 Close-up on **The Eye**, who has an important announcement she is delivering with gusto.  
 #### **The Eye**  
 > So, another take!  
-### Panel 4b *(small square insert in Panel 1, right)*:  
+### Panel 4b *(small square insert in Panel 4, right)*:  
 **Thresher** leans with both hands on the front-facing low rear console. Small image. 
 #### **Thresher**  
 > Incoming communication from Strategic Coordination!  

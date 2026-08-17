@@ -635,13 +635,13 @@ The **Mayor of Tulsa** glares at **Peter Cat** as he continues talking. It sound
 ### Panel 4 *(Half page width, 1/3rd page height)*:  
 From off-panel, **Camillo Skragg** interrupts the conversation. **Peter Cat** turns to look at him. **Jake Lyon** glares.  
 #### **Camillo Skragg**  
-> White phosphorous.  
+> White phosphorus.  
 #### **Jake Lyon**  
 > Pardon me?  
 ### Panel 5 *(Half page width, 1/3rd page height)*:  
 **Camillo Skragg** continues, leaning against the wall with his arms crossed.  
 #### **Camillo Skragg**  
-> It's like when *U.S. forces* use *white phosphorous.*  
+> It's like when *U.S. forces* use *white phosphorus.*  
 > Sure, it's *supposed* to just be for *smoke--*  
 ### Panel 6 *(Half page width, 1/3rd page height)*:  
 **Jake Lyon** gets visibly upset at **Camillo Skragg**, jabbing with his finger. **Peter Cat** interrupts calmly but firmly.  
