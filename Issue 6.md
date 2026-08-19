@@ -297,9 +297,34 @@ A close-up on **Peregrine**. His eyes are narrowed, and he looks a little stress
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
 Establishing (or re-establishing) shot of the table where **Camillo Skragg** and **Joshua Land** are sitting. **Camillo Skragg** has taken control of the situation, his posture is inclined forward, and while he isn't pointing at **Joshua Land**, he gesticulates with his hands in **Joshua Land's** direction. **Joshua Land** leans back a little in his chair.  
 #### **Camillo Skragg**  
-> 
+> I'm not sure that I *understand* what you mean with *"private funding"*...  
+#### **Joshua Land**  
+> It's very *simple,* Mr. Skragg.  
+> Taking money *from* or providing services *to* the ordinary *taxpayer* has become *ideologically toxic.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
+**Joshua Land** is still leaning back, and cocks his head a little to literally look down his nose at **Camillo Skragg**.  
+#### **Joshua Land**  
+> *Taxpayers* and *law-makers* expect *accountability,* and *secrecy* can only get you so *far.*  
+> Even a *"black budget"* is an *opaque number* on some *public record.*  
 ### Panel 3 *(1/3rd page width, 1/3rd page height)*: 
+**Camillo Skragg** looks a little irritated.  
+#### **Camillo Skragg**  
+> So, where's the *money* coming *from?*  
 ### Panel 4 *(1/3rd page width, 1/3rd page height)*: 
+**Joshua Land** continues literally looking down his nose at **Camillo Skragg**, arms crossed behind his head.  
+#### **Joshua Land**  
+> *Covert actions.*  
 ### Panel 5 *(1/3rd page width, 1/3rd page height)*: 
+**Camillo Skragg's** irritation has progressed to annoyance.  
+#### **Camillo Skragg**  
+> What?  
+> Like *Iran/Contra?*  
 ### Panel 6 *(Full page width, 1/3rd page height)*: 
+A kind of echo of the composition in Panel 1. This time, **Camillo Skragg** leans back a little, sitting up straight in his chair. He is listening carefully with more than a little skepticism. **Joshua Land** leans forward, and now has his elbows on the table, gesturing towards **Camillo Skragg** as he begins to speak at length.  
+#### **Joshua Land**  
+> That was just the *beginning,* Mr. Skragg.  
+> Once it became *clear* that there would be no *consequences,* these programs *expanded.*  
+> Now? 
+> They're *practically* their own *government.*  
+> They call themselves *"The Burning Hand".*  
+
