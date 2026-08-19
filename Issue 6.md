@@ -10,7 +10,7 @@
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
 Nighttime. The exterior of **Camillo Skragg's** house. A room on the second floor is illuminated by the blue light of a computer monitor.  
 #### Box *(narration, upper left)*  
-> Phoenecia, NY.  
+> Phoenicia, NY.  
 > *Camillo Skragg* has been granted *access* to *classified information.*  
 > This opens a *window* into his *past.*  
 #### **Camillo Skragg** *(from inside house)*  

@@ -8,7 +8,7 @@
 ## Page 1  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-The **Black Sabbath** on landing approach over Main St in Phoenecia, NY. The area is not heavily populated, but the center of town has a number of small markets and bar and grills. 
+The **Black Sabbath** on landing approach over Main St in Phoenicia, NY. The area is not heavily populated, but the center of town has a number of small markets and bar and grills. 
 #### **Camillo Skragg** *(from inside crew hull)*  
 > All right, just a bit further out of the middle of town.  
 > There's a spot *behind* the house, see if you can *set down there.*  
@@ -33,9 +33,9 @@ As would be expected from attic space, there is a staircase and railing leading 
 ## Page 2  
 
 ### Panel 1 *(Full page width, 1/3rd page height)*:  
-A view very much like Page 1, Panel 1; **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **Penny Skragg** walk in to "downtown" Phoenecia, NY. 
+A view very much like Page 1, Panel 1; **Peter Cat**, **Camillo Skragg**, **Jinx Bubastis**, and **Penny Skragg** walk in to "downtown" Phoenicia, NY. 
 #### Box *(upper left, narration)*  
-> *Phoenecia* is not a large town. 
+> *Phoenicia* is not a large town. 
 ### Panel 2 *(1/3rd page width, 1/3rd page height)*:  
 **Jinx Bubastis** walks out of a clothing store, followed by **Peter Cat**, who is carrying a large stack of bags filled with clothing and towels for them both.  
 #### Box *(lower left, narration)*  
@@ -219,7 +219,7 @@ The **Air Hyades** airliner approaches the city of **Hali**. While the center of
 > You have *unusual visas*...  
 > ...please enter the room to your *left.*  
 ### Panel 2 *(Half page width, 1/3rd page height)*:  
-The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg** and **Penny Skragg** sit at a table in front of a plain white backdrop. A **Witness** with a **Yellow Sign** tattoo on the back of his hand -- much like the **young man** from the steakhouse in Phoenecia -- prepares to give them a Significant Look.  
+The **Immigration officer** holds the door open as **Peter Cat**, **Jinx Bubastis**, **Camillo Skragg** and **Penny Skragg** sit at a table in front of a plain white backdrop. A **Witness** with a **Yellow Sign** tattoo on the back of his hand -- much like the **young man** from the steakhouse in Phoenicia -- prepares to give them a Significant Look.  
 #### **Immigration officer**  
 > Please do not leave Hali on your own.  
 > We will arrange transport to your final destination.  
@@ -799,7 +799,7 @@ A close-up of **Jinx Bubastis** as she finishes her accusation, staring down **T
 ## Page 24
 
 ### Panel 1 *(Half page width, 1/3rd page height)*:  
-Night, the exterior of **Camillo Skragg's** house back in Phoenecia, NY.  
+Night, the exterior of **Camillo Skragg's** house back in Phoenicia, NY.  
 #### Box *(narrative, upper left)*  
 > Back home...  
 #### **Penny Skragg** *(from inside the house)*  

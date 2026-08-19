@@ -30,7 +30,7 @@
 - **Mark**: Bearers bear the **Yellow Sign** tattooed on the back of their left hand.
 - **Notable individuals**:
   - **The Volunteer**: A young man sitting at the head of the dinner table in the observatory tower; lowers a veil over his face to announce the King in Yellow's approach. Healthy, recognizable as a volunteer bearer.
-  - **Unnamed Young Man**: Appears with a young woman at the Steakhouse in Phoenecia; first speaks Arabic ("Salàm lacom!") and serves as the initial transformation host.
+  - **Unnamed Young Man**: Appears with a young woman at the Steakhouse in Phoenicia; first speaks Arabic ("Salàm lacom!") and serves as the initial transformation host.
   - **Witnesses**: Carcosan officials who work in immigration control at the airport, gives **the King in Yellow** a chance to vet or respond to important visitors.
 
 #### Jusef & Surya
@@ -91,7 +91,7 @@
 - **Mushad**: A village on the far side of Lake Hali, seemingly untouched by time. Dusk falls early; only a handful of lights. Reached by a windowless white panel van.
 - **Observatory Tower**: Made of limestone; features a dome on top of a high, narrow tower. No shutter -- not used for conventional telescopes. Contains a spiral stone staircase and modest circular stone quarters lit by oil lamps. The observatory dome functions as a magic lantern projection surface.
 
-#### Phoenecia, NY (Issue 5 closing)
+#### Phoenicia, NY (Issue 5 closing)
 
 - **Description**: Small, not heavily populated town in upstate New York. Center of town has small markets and bar/grills. Camillo Skragg's house is on the outskirts with a backyard landing area.
 - **Role in Issue 5**: The gang's return point after the Carcosa visit; setting for the final discussion of the King in Yellow's coin and Jinx's binding.

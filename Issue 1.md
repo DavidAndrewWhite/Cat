@@ -278,7 +278,7 @@ The arc of Earth, North America beneath clouds. The terminator -- the line betwe
 #### **The Magister**
 > Ahh, nothing.
 #### **Anchorwoman** *(from TV)*
-> Meanwhile, the siege in *Phoencia, New York* continues. Federal authorities claim that *illegal experiments* with *radioactive material* have endangered the *whole county*. The National Guard has been mobilized to surround the *compound* on the *outskirts of town*--  
+> Meanwhile, the siege in *Phoenicia, New York* continues. Federal authorities claim that *illegal experiments* with *radioactive material* have endangered the *whole county*. The National Guard has been mobilized to surround the *compound* on the *outskirts of town*--  
 #### Mystical voice *(lower left, near **the Magister**, a word of power whispered into his ear from deep in **the World of Ash**)*
 > THEY ARE COMING.  
 > THEY WILL BE HERE SOON.  
@@ -299,7 +299,7 @@ A **TA-955 field telephone** rings on a desk in a military tent.
 > DRRRRRT  
 > DRRRRRT
 #### Box *(narration, lower right)*
-> Engagement Area: just outside Phoencia, New York
+> Engagement Area: just outside Phoenicia, New York
 
 ## Page 10
 
