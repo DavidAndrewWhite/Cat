@@ -27,10 +27,10 @@
 
 - **Role**: Humans who serve as hosts for the King in Yellow's consciousness. Selected by **the King in Yellow** as vessels to interact with the outside world.
 - **Transformation**: When **the King in Yellow** fully manifests through the body of a Bearer, the body is transformed as described above.
-- **Mark**: Bearers bear the **Yellow Sign** tattooed on the back of their left hand.
+- **Mark**: Bearers bear the **Yellow Sign** tattooed on the back of their left hand. Other locations are also possible!
 - **Notable individuals**:
   - **The Volunteer**: A young man sitting at the head of the dinner table in the observatory tower; lowers a veil over his face to announce the King in Yellow's approach. Healthy, recognizable as a volunteer bearer.
-  - **Unnamed Young Man**: Appears with a young woman at the Steakhouse in Phoenicia; first speaks Arabic ("Salàm lacom!") and serves as the initial transformation host.
+  - **Unnamed Young Man**: Appears with a young woman at the Steakhouse in Phoenicia; first to speak to the main characters ("Salàm lacom!"), serves as the initial transformation host.
   - **Witnesses**: Carcosan officials who work in immigration control at the airport, gives **the King in Yellow** a chance to vet or respond to important visitors.
 
 #### Jusef & Surya
@@ -43,7 +43,8 @@
 
 - **Surya**:
   - **Description**: Jusef's 8-year-old daughter. Runs through tall red grass in Camillo's dream.
-  - **Role**: Brief appearance; represents the innocence and danger of the dream-realm.
+  - **Role**: Brief appearance during Camillo's dream.
+  - **Note**: Yes, I probably should have named her "Casilda". Maybe that's the name of the waitress in the sidewalk café where Camillo meets Jusef.
 
 #### The Librarian
 
@@ -88,7 +89,7 @@
 
 #### Mushad & The Observatory Tower
 
-- **Mushad**: A village on the far side of Lake Hali, seemingly untouched by time. Dusk falls early; only a handful of lights. Reached by a windowless white panel van.
+- **Mushad**: A village on the far side of Lake Hali, seemingly untouched by time. Dusk falls early; only a handful of lights. Reached by a windowless white panel van. Like much of Carcosa, the architecture is strongly influenced by Genoa. 
 - **Observatory Tower**: Made of limestone; features a dome on top of a high, narrow tower. No shutter -- not used for conventional telescopes. Contains a spiral stone staircase and modest circular stone quarters lit by oil lamps. The observatory dome functions as a magic lantern projection surface.
 
 #### Phoenicia, NY (Issue 5 closing)
