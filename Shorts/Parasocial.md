@@ -174,7 +174,7 @@ A view of the screen of the computer, showing the video call with the Kingston P
 #### **Detective** *(over monitor speakers)*  
 > Oh, man. 
 > You'll want to contact the *Ulster County Sheriff.*  
-> There's a *missing persons'* investigation running for *years* now.  
+> There's a *missing persons* investigation running for *years* now.  
 
 ## Page 5
 
