@@ -20,3 +20,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 test.md
+
+# LaTeX files
+*.aux
+*.log
+*.out

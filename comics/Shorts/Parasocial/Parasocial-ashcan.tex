@@ -1,0 +1,238 @@
+\def\seriesTitle{Cat and Company}
+\def\pageCount{8 pp}
+\def\storyTitle{Parasocial}
+\def\authorName{Story: David White, Art: Emmanuel Monjola Toriola}
+\def\copyrightLine{© 2026, David White and Emmanuel Monjola Toriola. All rights reserved.}
+
+\documentclass[a4paper,10pt]{report}
+
+% Main packages
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{fontspec}
+\usepackage{titling}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{pgfpages}
+\usepackage{calc}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{caption}
+
+\graphicspath{ {./finished/} }
+
+% Explicitly set Liberation Serif as the main font (ensures Unicode support)
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont{Liberation Serif}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+
+% Page geometry for content (not title page)
+% Must come before fancyhdr so \textwidth is set correctly
+\geometry{
+  top=1.0in,
+  bottom=1.0in,
+  left=1.0in,
+  right=1.0in,
+}
+
+% Custom header/footer style for content pages
+\fancypagestyle{content}{
+  \fancyhf{}
+  % Header: seriesTitle (left), storyTitle (center, bold italic), copyrightLine (right)
+  \lhead{\tiny\seriesTitle}
+  \chead{\small\textbf{\textit{\storyTitle}}}
+  \rhead{\tiny\copyrightLine}
+  \renewcommand{\headrulewidth}{0.4pt}
+  \renewcommand{\footrulewidth}{0pt}
+  % Set header width to match text block exactly (respects left/right margins)
+  \setlength{\headwidth}{\textwidth}
+  \fancyhfoffset{0pt}
+}
+
+% Apply content style by default; title page and blank pages override with empty
+\pagestyle{content}
+
+% Disable automatic section numbering (suppresses "1 Page 1", "1.1 Panel 1", etc.)
+\setcounter{secnumdepth}{0}
+
+% Make each \subsection start on a new page (for "Page N" headings)
+\let\origsubsection\subsection
+\renewcommand{\subsection}{\clearpage\origsubsection}
+
+% Suppress "Chapter N" prefix - just show chapter title as section
+\makeatletter
+\def\@schapter#1{}% Hide unnumbered chapters completely
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+  % Skip chapter numbering
+  \fi
+  \refstepcounter{chapter}%
+  \addcontentsline{toc}{chapter}{\protect\numberline{}Chapter}%
+  \chaptermark{#1}%
+  \addtocontents{lof}{\protect\addvspace{10\p@}}%
+  \addtocontents{lot}{\protect\addvspace{10\p@}}%
+  \if@twocolumn
+    \@topnewpage[\@makechapterhead{#1}]%
+  \else
+    \@makechapterhead{#1}%
+    \@afterheading
+  \fi}
+\def\@makechapterhead#1{%
+  % Just output nothing - suppress all chapter headings
+}
+\makeatother
+
+% Also suppress chapter numbers in headings (use book class commands)
+\renewcommand{\thechapter}{}
+
+% Title page and initial blank pages should have no headers
+\makeatletter
+\@addtoreset{page}{chapter}
+\makeatother
+
+% Black-and-white color palette for title page
+\definecolor{coverbg}{HTML}{ffffff}
+\definecolor{coveraccent}{HTML}{000000}
+\definecolor{coverlight}{HTML}{000000}
+\definecolor{covergold}{HTML}{333333}
+\definecolor{coverdark}{HTML}{000000}
+
+% Title page generation command - clean black-and-white design
+\newcommand{\maketitlepage}{
+  \thispagestyle{empty}
+  \setlength{\parindent}{0pt}
+  \setlength{\parskip}{0pt}
+  
+  \begin{tikzpicture}[remember picture, overlay]
+    
+    
+    
+    % === CONTENT ELEMENTS (centered vertical layout) ===
+    
+    % Series title at top (escape & for TikZ node context)
+    \node[anchor=north] at ([xshift=0in, yshift=-0.6in]current page.north) {
+      \parbox{7in}{
+        \centering
+        \color{black}\Large\textbf{\seriesTitle}
+      }
+    };
+       
+    % Page count
+    \node[anchor=center] at ([xshift=0in, yshift=-1.4in]current page.center) {
+      \parbox{6in}{
+        \centering
+        \textit{\pageCount}
+      }
+    };
+   
+    
+    % Story title (center of page - most prominent, large italic)
+    \node[anchor=center] at ([xshift=0in, yshift=-0.9in]current page.center) {
+      \parbox{7in}{
+        \centering
+        \color{black}\Huge\textbf{\textit{\storyTitle}}
+      }
+    };
+    
+    
+    % Author name
+    \node[anchor=south] at ([xshift=0in, yshift=-1.9in]current page.center) {
+      \parbox{6in}{
+        \centering
+        \large\authorName
+      }
+    };
+    
+    % Copyright at bottom
+    \node[anchor=north] at ([xshift=0in, yshift=0.6in]current page.south) {
+      \parbox{7in}{
+        \centering
+        \small\copyrightLine
+      }
+    };
+    
+  \end{tikzpicture}
+  
+  % End title page
+  \clearpage
+}
+
+% Start document
+\begin{document}
+
+% Generate the custom title page
+\maketitlepage
+
+% Add blank page after title page (no header)
+\thispagestyle{empty}
+\newpage
+
+% Intentionally blank page (no header)
+\thispagestyle{empty}
+\textit{This page intentionally left blank.} 
+\thispagestyle{empty}
+\newpage
+
+% Main content follows
+ \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{01.jpg}
+ \caption*{Page 1}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{02.jpg}
+ \caption*{Page 2}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{03.jpg}
+ \caption*{Page 3}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{04.jpg}
+ \caption*{Page 4}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{05.jpg}
+ \caption*{Page 5}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{06.jpg}
+ \caption*{Page 6}
+ \end{figure}
+
+ \newpage
+  \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{07.jpg}
+ \caption*{Page 7}
+ \end{figure}
+
+\newpage
+ \begin{figure}[h!]
+ \centering
+  \includegraphics[width=\textwidth]{08.jpg}
+ \caption*{Page 8}
+ \end{figure}
+
+\end{document}
