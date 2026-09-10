@@ -19,5 +19,5 @@ Art by [*divine art*](https://discordapp.com/users/1446069296902963212)
 
 ## Short stories:
 
-- **Parasocial:** Analog horror from a digital ghost call **Cat and Company** to lay a lost soul to rest. [*PDF*](pdf/Parasocial.pdf) [*Source*](Shorts/Parasocial.md)
+- **Parasocial:** Analog horror from a digital ghost call **Cat and Company** to lay a lost soul to rest. [*PDF*](pdf/Parasocial.pdf) [*Source*](Shorts/Parasocial.md) [*PDF Ashcan -- art by divine art*](comics/Shorts/Parasocial/Parasocial-ashcan.pdf)
 
